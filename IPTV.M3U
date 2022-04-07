@@ -11,4 +11,11 @@ https://16live00.akamaized.net/BTSPORTS2/index.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
 #EXTINF:-1,Stadium (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
-#EXTINF:-1,NO SIARAN
+#EXTINF:-1 ,A21 Network
+https://tv.a21network.ru/stream/37909/index.m3u8
+#EXTINF:-1 ,ABU DHABI SPORT 1 HD
+http://admdn1.cdn.mangomolo.com/adsports1/adsports1.stream_720p/chunklist.m3u8
+#EXTINF:-1 ,ABU DHABI SPORT 2 HD
+http://admdn5.cdn.mangomolo.com/adsports2/adsports2.stream_720p/chunklist.m3u8
+#EXTINF:-1 ,ABU DHABI SPORT 3 HD
+http://admdn3.cdn.mangomolo.com/adsports3/adsports3.stream_720p/chunklist.m3u8
