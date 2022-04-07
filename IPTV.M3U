@@ -7,3 +7,5 @@ https://d17f1mg1q6g54e.cloudfront.net/hls/espn/chunks.m3u8
 http://alv.encohd.co:39591/live/j0roNAC/n3XT33/72.m3u8
 #EXTINF:-1,BT SPORT 2 HD
 https://16live00.akamaized.net/BTSPORTS2/index.m3u8
+#EXTINF:-1,Red Bull HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-
