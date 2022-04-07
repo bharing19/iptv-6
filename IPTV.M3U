@@ -9,5 +9,6 @@ http://alv.encohd.co:39591/live/j0roNAC/n3XT33/72.m3u8
 https://16live00.akamaized.net/BTSPORTS2/index.m3u8
 #EXTINF:-1,Red Bull HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
-#EXTINF:-1,Stadium (720p)AT/master_3360.m3u8?denmstv.m3u8
+#EXTINF:-1,Stadium (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
+#EXTINF:-1,NO SIARAN
