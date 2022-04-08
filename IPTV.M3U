@@ -19,3 +19,9 @@ http://admdn1.cdn.mangomolo.com/adsports1/adsports1.stream_720p/chunklist.m3u8
 http://admdn5.cdn.mangomolo.com/adsports2/adsports2.stream_720p/chunklist.m3u8
 #EXTINF:-1 ,ABU DHABI SPORT 3 HD
 http://admdn3.cdn.mangomolo.com/adsports3/adsports3.stream_720p/chunklist.m3u8
+#EXTINF:-1 ,SK1
+http://194.15.225.98:8000/play/a2qu
+#EXTINF:-1 ,SK2
+http://194.15.225.98:8000/play/a2qz
+#EXTINF:-1 ,SK3
+http://194.15.225.98:8000/play/a2qt
