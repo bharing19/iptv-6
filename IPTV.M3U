@@ -37,5 +37,5 @@ http://5.161.63.200/xls/campin/index.m3u8
 http://62.210.137.234:8000/play/a025/index.m3u8
 #EXTINF:-1,Bein SPORT 2 HD
 http://62.210.137.234:8000/play/a027/index.m3u8
-#ENTINF:-1, SKY SPORTS NEWS
+#EXTINF:-1, SKY SPORTS NEWS
 http://185.152.66.132/98774/tracks-v1a1/mono.m3u8
