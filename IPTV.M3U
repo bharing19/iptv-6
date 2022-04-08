@@ -7,6 +7,8 @@ https://d17f1mg1q6g54e.cloudfront.net/hls/espn/chunks.m3u8
 http://144.217.98.14/ESPN2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,DAZN F1
 http://alv.encohd.co:39591/live/j0roNAC/n3XT33/72.m3u8
+#EXTINF:-1,BT Sport ESPN
+http://93.152.174.144:4000/play/btsportespn/index.m3u8
 #EXTINF:-1,BT SPORT 2 HD
 https://16live00.akamaized.net/BTSPORTS2/index.m3u8
 #EXTINF:-1,Red Bull HD
@@ -57,8 +59,6 @@ http://188.34.177.35/xls/ligota/index.m3u8
 http://93.152.174.144:4000/play/skysports2/index.m3u8
 #EXTINF:-1,S Premier League
 http://93.152.174.144:4000/play/skysports5/index.m3u8
-#EXTINF:-1,BT Sport ESPN
-http://93.152.174.144:4000/play/btsportespn/index.m3u8
 #EXTINF:-1,Super Sports
 http://178.218.196.218:8000/play/a008/index.m3u8
 #EXTINF:-1,TEN SPORT
