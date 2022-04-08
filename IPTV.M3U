@@ -3,6 +3,8 @@
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 #EXTINF:-1,ESPN HD
 https://d17f1mg1q6g54e.cloudfront.net/hls/espn/chunks.m3u8
+#EXTINF:-1,ESPN2 HD
+http://144.217.98.14/ESPN2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,DAZN F1
 http://alv.encohd.co:39591/live/j0roNAC/n3XT33/72.m3u8
 #EXTINF:-1,BT SPORT 2 HD
