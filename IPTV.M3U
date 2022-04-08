@@ -49,6 +49,8 @@ http://93.152.174.144:4000/play/bein3fr/index.m3u8
 http://iptv.tvfix.org/hls/starsports.m3u8
 #EXTINF:-1,SETANTA 1 HD
 http://myott.top/stream/1VGPHYLZTH/234.m3u8
+#EXTINF:-1,SETANTA 2 HD
+http://myott.top/stream/1VGPHYLZTH/235.m3u8
 #EXTINF:-1,LA LIGA TV
 http://188.34.177.35/xls/ligota/index.m3u8
 #EXTINF:-1,Sky SPORT
@@ -63,3 +65,5 @@ http://178.218.196.218:8000/play/a008/index.m3u8
 http://103.24.96.74/stream/ptvsports/playlist.m3u8
 #EXTINF:-1,A SPORTS
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
+#EXTINF:-1,RUSH HD
+http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
