@@ -11,6 +11,8 @@ http://5.183.209.201:8080/live/22vahid99593/razmjena114352/21444.m3u8?token=GRVR
 https://d17f1mg1q6g54e.cloudfront.net/hls/espn/chunks.m3u8
 #EXTINF:-1,ESPN2 HD
 http://144.217.98.14/ESPN2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sky SPORT Cricket
+http://93.152.174.144:4000/play/skysports2/index.m3u8
 #EXTINF:-1,Sky Sports F1
 https://d28c1d458041.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.303903229440.channel.Z9ccH1hKPObw.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czpldS1jZW50cmFsLTE6MzAzOTAzMjI5NDQwOmNoYW5uZWwvWjljY0gxaEtQT2J3IiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHA6Ly93d3cuc3BvcnRuZXdzLnRvIiwiaWF0IjoxNjQ5NDUyMzQ5LCJleHAiOjE2NDk2MjUxNDl9.5TBpv8qqQpmySEbk9vPUHt9rZWQ-skh6S_JD2QjCaO8jcUrOmJWzfpi-evIJPdQmfc_PScdoAthcBKKo61xbnwaStNI1hzGZDMIzRIZ9HcYFJBH8MyoNlbnrMbZgDWPO
 #EXTINF:-1,Sky Sports F1
@@ -65,8 +67,6 @@ http://myott.top/stream/1VGPHYLZTH/234.m3u8
 http://myott.top/stream/1VGPHYLZTH/235.m3u8
 #EXTINF:-1,LA LIGA TV
 http://188.34.177.35/xls/ligota/index.m3u8
-#EXTINF:-1,Sky SPORT
-http://93.152.174.144:4000/play/skysports2/index.m3u8
 #EXTINF:-1,S Premier League
 http://93.152.174.144:4000/play/skysports5/index.m3u8
 #EXTINF:-1,Super Sports
