@@ -11,6 +11,10 @@ http://5.183.209.201:8080/live/22vahid99593/razmjena114352/21444.m3u8?token=GRVR
 https://d17f1mg1q6g54e.cloudfront.net/hls/espn/chunks.m3u8
 #EXTINF:-1,ESPN2 HD
 http://144.217.98.14/ESPN2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sky Sports F1
+https://d28c1d458041.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.303903229440.channel.Z9ccH1hKPObw.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czpldS1jZW50cmFsLTE6MzAzOTAzMjI5NDQwOmNoYW5uZWwvWjljY0gxaEtQT2J3IiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHA6Ly93d3cuc3BvcnRuZXdzLnRvIiwiaWF0IjoxNjQ5NDUyMzQ5LCJleHAiOjE2NDk2MjUxNDl9.5TBpv8qqQpmySEbk9vPUHt9rZWQ-skh6S_JD2QjCaO8jcUrOmJWzfpi-evIJPdQmfc_PScdoAthcBKKo61xbnwaStNI1hzGZDMIzRIZ9HcYFJBH8MyoNlbnrMbZgDWPO
+#EXTINF:-1,Sky Sports F1
+https://16live00.akamaized.net/SKYSPORTSF1/index.m3u8
 #EXTINF:-1,DAZN F1
 http://alv.encohd.co:39591/live/j0roNAC/n3XT33/72.m3u8
 #EXTINF:-1,BT Sport ESPN
