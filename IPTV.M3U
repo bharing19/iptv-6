@@ -21,6 +21,8 @@ https://16live00.akamaized.net/SKYSPORTSF1/index.m3u8
 http://alv.encohd.co:39591/live/j0roNAC/n3XT33/72.m3u8
 #EXTINF:-1 group-title="SPORTS",BT Sport ESPN
 http://93.152.174.144:4000/play/btsportespn/index.m3u8
+#EXTINF:-1 group-title="SPORTS",BT SPORT 1HD
+http://urtv.cc:80/444386/444386/6610
 #EXTINF:-1 group-title="SPORTS",BT SPORT 2 HD
 https://16live00.akamaized.net/BTSPORTS2/index.m3u8
 #EXTINF:-1 group-title="SPORTS",Red Bull HD
