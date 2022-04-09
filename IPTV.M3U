@@ -1,85 +1,85 @@
 #EXTM3U
 #EXTINF:-1 group-title="SPORTS",SPOTV HD
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
-#EXTINF:-1,ARENA 1 PREMIUM
+#EXTINF:-1 group-title="SPORTS",ARENA 1 PREMIUM
 http://5.183.209.201:8080/live/22vahid99593/razmjena114352/21442.m3u8?token=GRVRVkQLEVwWWAcDAgVXUlECUAZSBlZTBgcDVQ4AAAZUBQADVVYAXg0bGhVAEkYEAFw7X1MQD1RVVwRTFUFBQAdFZl5TQQlEAQkAAhFKFhUIXAEUDQIZRBQKVEMDQQUBVwUMFRtBVh5AXERZUgprBQRHDVVSEA8IEQ9cTRsMWmwGUlRWWQcRXBYIFBsRD0cRQwtGYFhWVAALDVVBdzFjEyVaW38VTxEEXU1EVkcDFltDBVEEDhAZRAcMRQ9NEU0RWBV9chVPEQNMTVNZQA9bD0MLRlsERw1ESEFZEmYRUUAWRVxWWgZBRA4bBhUfRFkAGW4HWVlcUAUQCl8PSkEOEVUCGxsVDlwIXU1ZRWwWXQVDC0YHBQcHVkYe
-#EXTINF:-1,ARENA 2 PREMIUM
+#EXTINF:-1 group-title="SPORTS",ARENA 2 PREMIUM
 http://5.183.209.201:8080/live/22vahid99593/razmjena114352/21443.m3u8?token=GRVRVkQLEVwWWAcDAgVXUlECUAZSBlZTBgcDVQ4AAAZUBQADVVYAXg0bGhVAEkYEAFw7X1MQD1RVVwRTFUFBQAdFZl5TQQlEAQkAAhFKFhUIXAEUDQIZRBQKVEMDQQUBVwUMFRtBVh5AXERZUgprBQRHDVVSEA8IEQ9cTRsMWmwGUlRWWQcRXBYIFBsRD0cRQwtGYFhWVAALDVVBdzFjEyVaW38VTxEEXU1EVkcDFltDBVEEDhAZRAcMRQ9NEU0RWBV9chVPEQNMTVNZQA9bD0MLRlsERw1ESEFZEmYRUUAWRVxWWgZBRA4bBhUfRFkAGW4HWVlcUAUQCl8PSkEOEVUCGxsVDlwIXU1ZRWwWXQVDC0YHBQcHVkYe
-#EXTINF:-1,ARENA 3 PREMIUM
+#EXTINF:-1 group-title="SPORTS",ARENA 3 PREMIUM
 http://5.183.209.201:8080/live/22vahid99593/razmjena114352/21444.m3u8?token=GRVRVkQLEVwWWAcDAgVXUlECUAZSBlZTBgcDVQ4AAAZUBQADVVYAXg0bGhVAEkYEAFw7X1MQD1RVVwRTFUFBQAdFZl5TQQlEAQkAAhFKFhUIXAEUDQIZRBQKVEMDQQUBVwUMFRtBVh5AXERZUgprBQRHDVVSEA8IEQ9cTRsMWmwGUlRWWQcRXBYIFBsRD0cRQwtGYFhWVAALDVVBdzFjEyVaW38VTxEEXU1EVkcDFltDBVEEDhAZRAcMRQ9NEU0RWBV9chVPEQNMTVNZQA9bD0MLRlsERw1ESEFZEmYRUUAWRVxWWgZBRA4bBhUfRFkAGW4HWVlcUAUQCl8PSkEOEVUCGxsVDlwIXU1ZRWwWXQVDC0YHBQcHVkYe
-#EXTINF:-1,ESPN HD
+#EXTINF:-1 group-title="SPORTS",ESPN HD
 https://d17f1mg1q6g54e.cloudfront.net/hls/espn/chunks.m3u8
-#EXTINF:-1,ESPN2 HD
+#EXTINF:-1 group-title="SPORTS",ESPN2 HD
 http://144.217.98.14/ESPN2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sky SPORT Cricket
+#EXTINF:-1 group-title="SPORTS",Sky SPORT Cricket
 http://93.152.174.144:4000/play/skysports2/index.m3u8
-#EXTINF:-1,Sky Sports F1
+#EXTINF:-1 group-title="SPORTS",Sky Sports F1
 https://d28c1d458041.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.303903229440.channel.Z9ccH1hKPObw.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czpldS1jZW50cmFsLTE6MzAzOTAzMjI5NDQwOmNoYW5uZWwvWjljY0gxaEtQT2J3IiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHA6Ly93d3cuc3BvcnRuZXdzLnRvIiwiaWF0IjoxNjQ5NDUyMzQ5LCJleHAiOjE2NDk2MjUxNDl9.5TBpv8qqQpmySEbk9vPUHt9rZWQ-skh6S_JD2QjCaO8jcUrOmJWzfpi-evIJPdQmfc_PScdoAthcBKKo61xbnwaStNI1hzGZDMIzRIZ9HcYFJBH8MyoNlbnrMbZgDWPO
-#EXTINF:-1,Sky Sports F1
+#EXTINF:-1 group-title="SPORTS",Sky Sports F1
 https://16live00.akamaized.net/SKYSPORTSF1/index.m3u8
-#EXTINF:-1,DAZN F1
+#EXTINF:-1 group-title="SPORTS",DAZN F1
 http://alv.encohd.co:39591/live/j0roNAC/n3XT33/72.m3u8
-#EXTINF:-1,BT Sport ESPN
+#EXTINF:-1 group-title="SPORTS",BT Sport ESPN
 http://93.152.174.144:4000/play/btsportespn/index.m3u8
-#EXTINF:-1,BT SPORT 2 HD
+#EXTINF:-1 group-title="SPORTS",BT SPORT 2 HD
 https://16live00.akamaized.net/BTSPORTS2/index.m3u8
-#EXTINF:-1,Red Bull HD
+#EXTINF:-1 group-title="SPORTS",Red Bull HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
-#EXTINF:-1,Stadium (720p)
+#EXTINF:-1 group-title="SPORTS",Stadium (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
-#EXTINF:-1 ,A21 Network
+#EXTINF:-1 group-title="SPORTS",A21 Network
 https://tv.a21network.ru/stream/37909/index.m3u8
-#EXTINF:-1 ,ABU DHABI SPORT 1 HD
+#EXTINF:-1 group-title="SPORTS",ABU DHABI SPORT 1 HD
 http://admdn1.cdn.mangomolo.com/adsports1/adsports1.stream_720p/chunklist.m3u8
-#EXTINF:-1 ,ABU DHABI SPORT 2 HD
+#EXTINF:-1 group-title="SPORTS",ABU DHABI SPORT 2 HD
 http://admdn5.cdn.mangomolo.com/adsports2/adsports2.stream_720p/chunklist.m3u8
-#EXTINF:-1 ,ABU DHABI SPORT 3 HD
+#EXTINF:-1  group-title="SPORTS",ABU DHABI SPORT 3 HD
 http://admdn3.cdn.mangomolo.com/adsports3/adsports3.stream_720p/chunklist.m3u8
-#EXTINF:-1 ,SK1
+#EXTINF:-1 group-title="SPORTS",SK1
 http://194.15.225.98:8000/play/a2qu
-#EXTINF:-1 ,SK2
+#EXTINF:-1 group-title="SPORTS",SK2
 http://194.15.225.98:8000/play/a2qz
-#EXTINF:-1 ,SK3
+#EXTINF:-1 group-title="SPORTS",SK3
 http://194.15.225.98:8000/play/a2qt
-#EXTINF:-1 ,Fuel TV
+#EXTINF:-1 group-title="SPORTS",Fuel TV
 https://fueltv-fueltv-1-au.samsung.wurl.com/playlist_1280x720_3000k.m3u8
-#EXTINF:-1 ,MMA Jankie HD
+#EXTINF:-1 group-title="SPORTS",MMA Jankie HD
 http://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
-#EXTINF:-1, SPORTS TV 1
+#EXTINF:-1 group-title="SPORTS",SPORTS TV 1
 http://213.13.23.132/shls/LIVE%24SPORTTV1_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-#EXTINF:-1, SPORTS TV 2
+#EXTINF:-1 group-title="SPORTS",SPORTS TV 2
 http://213.13.23.132/shls/LIVE%24SPORTTV2_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-#EXTINF:-1, SPORTS TV 6
+#EXTINF:-1 group-title="SPORTS",SPORTS TV 6
 http://213.13.23.132/shls/LIVE%24SPORTTV6.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-#EXTINF:-1, CAMPEONES TV
+#EXTINF:-1 group-title="SPORTS",CAMPEONES TV
 http://5.161.63.200/xls/campin/index.m3u8
-#EXTINF:-1,beIN SPORT XTRA
+#EXTINF:-1 group-title="SPORTS",beIN SPORT XTRA
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
-#EXTINF:-1,Bein SPORT 1 HD
+#EXTINF:-1 group-title="SPORTS",Bein SPORT 1 HD
 http://62.210.137.234:8000/play/a025/index.m3u8
-#EXTINF:-1,Bein SPORT 2 HD
+#EXTINF:-1 group-title="SPORTS",Bein SPORT 2 HD
 http://62.210.137.234:8000/play/a027/index.m3u8
-#EXTINF:-1, beIN sport 1 fr
+#EXTINF:-1 group-title="SPORTS", beIN sport 1 fr
 http://93.152.174.144:4000/play/bein1fr/index.m3u8
-#EXTINF:-1,beIN sport 2 fr
+#EXTINF:-1 group-title="SPORTS",beIN sport 2 fr
 http://93.152.174.144:4000/play/bein2fr/index.m3u8
-#EXTINF:-1,beIN sport 3 fr
+#EXTINF:-1 group-title="SPORTS",beIN sport 3 fr
 http://93.152.174.144:4000/play/bein3fr/index.m3u8
-#EXTINF:-1,START SPORTS
+#EXTINF:-1 group-title="SPORTS",START SPORTS
 http://iptv.tvfix.org/hls/starsports.m3u8
-#EXTINF:-1,SETANTA 1 HD
+#EXTINF:-1 group-title="SPORTS",SETANTA 1 HD
 http://myott.top/stream/1VGPHYLZTH/234.m3u8
-#EXTINF:-1,SETANTA 2 HD
+#EXTINF:-1 group-title="SPORTS",SETANTA 2 HD
 http://myott.top/stream/1VGPHYLZTH/235.m3u8
-#EXTINF:-1,LA LIGA TV
+#EXTINF:-1 group-title="SPORTS",LA LIGA TV
 http://188.34.177.35/xls/ligota/index.m3u8
-#EXTINF:-1,S Premier League
+#EXTINF:-1 group-title="SPORTS",S Premier League
 http://93.152.174.144:4000/play/skysports5/index.m3u8
-#EXTINF:-1, S Grandstand
+#EXTINF:-1 group-title="SPORTS",S Grandstand
 http://178.218.196.218:8000/play/a008/index.m3u8
-#EXTINF:-1,TEN SPORT
+#EXTINF:-1 group-title="SPORTS",TEN SPORT
 http://103.24.96.74/stream/ptvsports/playlist.m3u8
-#EXTINF:-1,RUSH HD
+#EXTINF:-1 group-title="SPORTS",RUSH HD
 http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
-#EXTINF:-1,CCTV5
+#EXTINF:-1 group-title="SPORTS",CCTV5
 http://117.148.179.165/PLTV/88888888/224/3221231702/index.m3u8
