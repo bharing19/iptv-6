@@ -82,6 +82,8 @@ http://myott.top/stream/1VGPHYLZTH/235.m3u8
 #EXTINF:-1 group-title="SPORTS",LA LIGA TV
 http://188.34.177.35/xls/ligota/index.m3u8
 #EXTINF:-1 group-title="SPORTS",S Premier League
+http://77.247.109.116/live/abr_b-1/live/b-1_480p/chunks.m3u8
+#EXTINF:-1 group-title="SPORTS",S Premier League
 http://93.152.174.144:4000/play/skysports5/index.m3u8
 #EXTINF:-1 group-title="SPORTS",S Grandstand
 http://178.218.196.218:8000/play/a008/index.m3u8
