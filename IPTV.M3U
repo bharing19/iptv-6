@@ -11,6 +11,8 @@ http://5.183.209.201:8080/live/22vahid99593/razmjena114352/21444.m3u8?token=GRVR
 https://d3flsxiiqc7ru.cloudfront.net/hls/usa/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS", ESPN VIVO
 http://138.117.84.82/co_espn/index.m3u8
+#EXTINF:-1 group-title="SPORTS",ESPN
+http://138.117.84.82/co_espn/index.m3u8
 #EXTINF:-1 group-title="SPORTS",ESPN HD
 http://pullstream-me.speedws.com/live/f1/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS",ESPN HD
@@ -101,3 +103,5 @@ http://103.24.96.74/stream/ptvsports/playlist.m3u8
 http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
 #EXTINF:-1 group-title="SPORTS",CCTV5
 http://117.148.179.165/PLTV/88888888/224/3221231702/index.m3u8
+#EXTINF:-1 group-title="SPORTS",sbt Champion
+https://dubr2rz6c5qdz.cloudfront.net/live-stream/61c21f28fa354108218ed3a3/publish/media_1800.m3u8
