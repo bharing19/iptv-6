@@ -11,6 +11,8 @@ http://5.183.209.201:8080/live/22vahid99593/razmjena114352/21444.m3u8?token=GRVR
 http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS", ORF SPORT +
 http://109.105.205.250:8081/live/EUROSPORT2/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS", START SPORTS 3
+http://103.55.144.46/hls/starsports3.m3u8
 #EXTINF:-1 group-title="SPORTS",TNT SPORTS
 https://d1k4ybyeycgihx.cloudfront.net/hls/TNT/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS", USA SPORT
