@@ -113,3 +113,9 @@ http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
 http://117.148.179.165/PLTV/88888888/224/3221231702/index.m3u8
 #EXTINF:-1 group-title="SPORTS",sbt Champion
 https://dubr2rz6c5qdz.cloudfront.net/live-stream/61c21f28fa354108218ed3a3/publish/media_1800.m3u8
+#EXTINF:-1 group-title="SPORTS", FOX 501 HD
+http://stariptv.org:8080/live/nour2020/123456/148521.m3u8
+#EXTINF:-1 group-title="SPORTS", amagi tv
+http://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 group-title="SPORTS",Rtv sports
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/ch-02.smil/chunklist_b1692000_slita.m3u8
