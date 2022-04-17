@@ -75,6 +75,8 @@ http://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
 http://213.13.23.132/shls/LIVE%24SPORTTV1_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 #EXTINF:-1 group-title="SPORTS",SPORTS TV 2
 http://213.13.23.132/shls/LIVE%24SPORTTV2_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+#EXTINF:-1 group-title="SPORTS",SPORTS TV 3
+http://213.13.23.132/shls/LIVE%24SPORTTV3_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 #EXTINF:-1 group-title="SPORTS",SPORTS TV 6
 http://213.13.23.132/shls/LIVE%24SPORTTV6.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 #EXTINF:-1 group-title="SPORTS",CAMPEONES TV
