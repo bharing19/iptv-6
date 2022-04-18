@@ -103,6 +103,8 @@ http://myott.top/stream/1VGPHYLZTH/234.m3u8
 http://myott.top/stream/1VGPHYLZTH/235.m3u8
 #EXTINF:-1 group-title="SPORTS",LA LIGA TV
 http://188.34.177.35/xls/ligota/index.m3u8
+#EXTINF:-1 group-title="SPORTS",S Football
+https://917e6463e08c.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.979680664481.channel.G9BxyvWnIlAu.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIyIDI6MzE6MTEgUE0maGFzaF92YWx1ZT13WDh3S0tzSGVQYVltS0ZucTR0a2FBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD02OS45NC45My4xOTkmc3RybV9sZW49NQ==
 #EXTINF:-1 group-title="SPORTS",S La Liga
 http://178.218.196.218:8000/play/a00d/index.m3u8
 #EXTINF:-1 group-title="SPORTS",S Premier League
