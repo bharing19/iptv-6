@@ -113,17 +113,17 @@ http://urtv.cc:80/444386/444386/7142
 http://urtv.cc:80/444386/444386/6574
 #EXTINF:-1 group-title="SPORTS", S Football
 http://urtv.cc:80/444386/444386/6576
-#EXTINF:-1 group-title="SPORTS",S Football
+#EXTINF:-1 group-title="SPORTS",S Football (random)
 https://917e6463e08c.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.979680664481.channel.G9BxyvWnIlAu.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIyIDI6MzE6MTEgUE0maGFzaF92YWx1ZT13WDh3S0tzSGVQYVltS0ZucTR0a2FBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD02OS45NC45My4xOTkmc3RybV9sZW49NQ==
-#EXTINF:-1 group-title="SPORTS",S La Liga
+#EXTINF:-1 group-title="SPORTS",S La Liga (random)
 http://178.218.196.218:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="SPORTS",S Premier League
+#EXTINF:-1 group-title="SPORTS",S Premier League (random)
 http://77.247.109.116/live/abr_b-1/live/b-1_480p/chunks.m3u8
-#EXTINF:-1 group-title="SPORTS",S Premier League
+#EXTINF:-1 group-title="SPORTS",S Premier League (random)
 http://93.152.174.144:4000/play/skysports5/index.m3u8
-#EXTINF:-1 group-title="SPORTS",S Action
+#EXTINF:-1 group-title="SPORTS",S Action (random)
 https://05b110e0fa02.us-east-1.playback.live-video.net/api/video/v1/us-east-1.567185080665.channel.t1pReZqCGj18.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIyIDExOjI0OjIzIEFNJmhhc2hfdmFsdWU9QnZDSWlrbGFWOXZXanVmWFBqVEJNdz09JnZhbGlkbWludXRlcz03MjAmaWQ9MjE4LjE1NS45LjIzMSZzdHJtX2xlbj01
-#EXTINF:-1 group-title="SPORTS",S Grandstand
+#EXTINF:-1 group-title="SPORTS",S Grandstand (random)
 http://178.218.196.218:8000/play/a008/index.m3u8
 #EXTINF:-1 group-title="SPORTS",ELEVEN 1
 http://213.13.23.132/shls/LIVE%24Eleven_Sports_1_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
