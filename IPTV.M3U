@@ -11,7 +11,7 @@ http://5.183.209.201:8080/live/22vahid99593/razmjena114352/21444.m3u8?token=GRVR
 http://urtv.cc:80/444386/444386/6707
 #EXTINF:-1 group-title="SPORTS", STAR SPORTS 1
 http://103.135.133.3/hls/stream3.m3u8
-#EXTINF:-1 group-title="SPORTS", START SPORTS 3
+#EXTINF:-1 group-title="SPORTS", STAR SPORTS 3
 http://103.55.144.46/hls/starsports3.m3u8
 #EXTINF:-1 group-title="SPORTS", EUROSPORT 1
 http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
