@@ -15,7 +15,7 @@ http://103.135.133.3/hls/stream3.m3u8
 http://103.55.144.46/hls/starsports3.m3u8
 #EXTINF:-1 group-title="SPORTS", EUROSPORT 1
 http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS", ORF SPORT +
+#EXTINF:-1 group-title="SPORTS", EUROSPORT 2
 http://109.105.205.250:8081/live/EUROSPORT2/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS",TNT SPORTS
 https://d1k4ybyeycgihx.cloudfront.net/hls/TNT/playlist.m3u8
@@ -103,6 +103,8 @@ http://iptv.tvfix.org/hls/starsports.m3u8
 http://myott.top/stream/1VGPHYLZTH/234.m3u8
 #EXTINF:-1 group-title="SPORTS",SETANTA 2 HD
 http://myott.top/stream/1VGPHYLZTH/235.m3u8
+#EXTINF:-1 group-title="SPORTS",La Liga TV
+http://elcegao.ddnsking.com:8080/hls/elsegadorhd.m3u8
 #EXTINF:-1 group-title="SPORTS",LA LIGA TV
 http://188.34.177.35/xls/ligota/index.m3u8
 #EXTINF:-1 group-title="SPORTS", S La Liga
