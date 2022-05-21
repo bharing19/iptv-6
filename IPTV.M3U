@@ -149,3 +149,11 @@ https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/ch-02.smil/chunklist_
 http://77.247.109.116/live/abr_b-1/live/b-1_480p/chunks.m3u8
 #EXTINF:-1,AXN
 http://89.187.162.109/axn/mono.m3u8
+#EXTINF:-1 group-title="SPORTS",SONY Ten 1HD
+http://103.136.200.246:8082/Ten1/index.m3u8
+#EXTINF:-1 group-title="SPORTS",SONY Ten 2HD
+http://103.136.200.246:8082/Ten2/index.m3u8
+#EXTINF:-1 group-title="SPORTS",SONY Ten 3HD
+http://103.136.200.246:8082/Ten3/index.m3u8
+#EXTINF:-1 group-title="SPORTS",SONY SIX
+http://103.136.200.246:8082/SonySix/index.m3u8
