@@ -178,6 +178,8 @@
  http://103.136.200.246:8082/Ten3/index.m3u8 
  #EXTINF:-1 group-title="SPORTS",SONY SIX 
  http://103.136.200.246:8082/SonySix/index.m3u8
-
-
+ #EXTINF:-1 group-title="INDONESIA",Moji TV 
+ http://210.210.155.37/qwr9ew/s/s41/index.m3u8
+ #EXTINF:-1 group-title="INDONESIA",SCTV  
+ http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 
