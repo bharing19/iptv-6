@@ -13,6 +13,8 @@
  http://zalogitv.tech:8080/live/live22/bola22/30518.m3u8
  #EXTINF:-1 group-title="SPORTS",Sky Sport event 1
  http://93.152.174.144:4000/play/ssports1/index.m3u8
+ #EXTINF:-1 group-title="SPORTS",Sky Sport Golf
+ http://93.152.174.144:4000/play/skysports4/index.m3u8
  #EXTINF:-1 group-title="SPORTS",RTSH Sport
  http://edge01eu.ekranet.com/rtshsport1/index.m3u8
  #EXTINF:-1 group-title="SPORTS",RTSH Sport
