@@ -9,6 +9,8 @@
  https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8
  #EXTINF:-1 tvg-id="SPOTV2.kr" tvg-logo="https://i.imgur.com/xeATohI.png" group-title="SPORTS",SPOTV2 (1080p)
  https://allanf181.github.io/adaptive-streams/streams/kr/SpoTV2.m3u8
+ #EXTINF:-1 group-title="SPORTS",SPORTS 1 RUSSIA 
+ http://hez1-flu.iptvstream.site/135/index.m3u8
  #EXTINF:-1 group-title="SPORTS", EUROSPORT 1 
  http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8 
  #EXTINF:-1 group-title="SPORTS", EUROSPORT 2 
