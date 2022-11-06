@@ -253,7 +253,7 @@ http://cdnv148.cloudrsst.com:1935/jptv/jsports1_720/playlist.m3u8
  https://d18toqrnfyz3v1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/OutdoorAmerica-PLEX/159.m3u8
  #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ANIMAL",Outdoor Channel
  https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
- #EXTINF:-1 tvg-id="" tvg-logo="OutsideTV.us" tvg-logo="https://i.imgur.com/7WF7ca4.png" group-title="ANIMAL",Outside TV (720p)
+ #EXTINF:-1 tvg-id="OutsideTV.us" tvg-logo="https://i.imgur.com/7WF7ca4.png" group-title="ANIMAL",Outside TV (720p)
  https://outside-tv-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
  #EXTINF:-1 tvg-id="OutsideTV.us" tvg-logo="https://i.imgur.com/7WF7ca4.png" group-title="ANIMAL",Outside TV (1080p)
  https://outsidetv-roku-us.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetv/CDN/playlist.m3u8
