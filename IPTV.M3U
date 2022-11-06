@@ -49,7 +49,7 @@
  https://d1k4ybyeycgihx.cloudfront.net/hls/TNT/playlist.m3u8 
  #EXTINF:-1 group-title="SPORTS", USA SPORT 
  https://d3flsxiiqc7ru.cloudfront.net/hls/usa/playlist.m3u8 
- #EXTINF:-1 group-title="SPORTS", ESPN DEPORTES 🇦🇷  
+ #EXTINF:-1 group-title="SPORTS", ESPN Vivo 🇦🇷  
  http://38.143.137.221:8000/LA81/index.m3u8
  #EXTINF:-1 group-title="SPORTS",ESPN 
  http://138.117.84.82/co_espn/index.m3u8 
