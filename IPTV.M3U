@@ -198,3 +198,6 @@
  #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20910317_ico.png?ts=1655078832" group-title="INDONESIA",MAGNA CHANNEL  
  https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1139386134_b3884000_sleng.m3u8 
 
+ ##############################################ANIMAL###################################################
+ #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19763563_ico.png?ts=1654806694" group-title="ANIMAL",IN WILD 
+ https://inwild-samsungau.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
