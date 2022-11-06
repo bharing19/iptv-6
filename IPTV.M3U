@@ -249,6 +249,8 @@ http://cdnv148.cloudrsst.com:1935/jptv/jsports1_720/playlist.m3u8
  https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
  #EXTINF:-1 tvg-id="LoveNature.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png" group-title="ANIMAL",Love Nature (1080p)
  http://bamus-eng-roku.amagi.tv/playlist.m3u8
+ #EXTINF:-1 tvg-id="ItalianFishingTV.it" tvg-logo="https://i.imgur.com/7XNQ494.png" group-title="ANIMAL",Italian Fishing TV
+ https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8
  #EXTINF:-1 tvg-id="OutdoorAmerica.us" tvg-logo="https://i.imgur.com/ldh9sFG.png" group-title="ANIMAL",Outdoor America (720p) 
  https://d18toqrnfyz3v1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/OutdoorAmerica-PLEX/159.m3u8
  #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ANIMAL",Outdoor Channel
@@ -259,3 +261,5 @@ http://cdnv148.cloudrsst.com:1935/jptv/jsports1_720/playlist.m3u8
  https://outsidetv-roku-us.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetv/CDN/playlist.m3u8
  #EXTINF:-1 tvg-id="OutsideTVPlus.us" tvg-logo="https://i.imgur.com/mCKGUoH.png" group-title="ANIMAL",Outside TV Plus (1080p)
  https://outsidetvplus-xumo.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetvplusxumo/CDN/master.m3u8
+ #EXTINF:-1 tvg-id="WaypointTV.us" tvg-logo="https://i.imgur.com/6r2YHtv.png" group-title="ANIMAL",Waypoint TV (1080p)
+https://dai.google.com/linear/hls/event/im0MqOKRTHy9nVa1sirQSg/master.m3u8
