@@ -213,12 +213,19 @@
  https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
  #EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/CNBC.jpg" group-title="INDONESIA", CNBC Indonesia
  https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
+ #EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/TV.jpg" group-title="INDONESIA", BERITA SATU
+ https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+ #EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/TV.jpg" group-title="INDONESIA", BERITA SATU WORLD
+ https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
+ #EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/TV.jpg" group-title="INDONESIA", Jakarta Globe
+ https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
  #EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/TVRI.jpg" group-title="INDONESIA", TVRI
  http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
  #EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/TVRI.jpg" group-title="INDONESIA",TVRI 
  http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
  #EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/TVRI.jpg" group-title="INDONESIA", TVRI SPORT 
  http://ott.TVri.co.id/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8 
+
 ##############################################ANIMAL###################################################
  #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19763563_ico.png?ts=1654806694" group-title="ANIMAL",IN WILD 
  https://inwild-samsungau.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
