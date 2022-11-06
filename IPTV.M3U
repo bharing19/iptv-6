@@ -40,13 +40,18 @@
  #EXTINF:-1 tvg-id="FightingSpirit.us" tvg-logo="https://i.imgur.com/OeVsflz.png" group-title="SPORTS",Fighting Spirit (720p)
  https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8
  #EXTINF:-1 tvg-id="JSports1.jp" tvg-logo="https://i.imgur.com/vEpjLnj.png" group-title="SPORTS",J Sports 1 (480p) [Not 24/7]
-http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
-#EXTINF:-1 tvg-id="JSports2.jp" tvg-logo="https://i.imgur.com/g1GLVH2.png" group-title="SPORTS",J Sports 2 (480p) [Not 24/7]
-http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
-#EXTINF:-1 tvg-id="JSports3.jp" tvg-logo="https://i.imgur.com/xdI361E.png" group-title="SPORTS",J Sports 3 (480p) [Not 24/7]
-http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
-#EXTINF:-1 tvg-id="JSports4.jp" tvg-logo="https://i.imgur.com/fBcyZNL.png" group-title="SPORTS",J Sports 4 (720p) [Not 24/7]
-http://cdnv148.cloudrsst.com:1935/jptv/jsports1_720/playlist.m3u8
+ http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
+ #EXTINF:-1 tvg-id="JSports2.jp" tvg-logo="https://i.imgur.com/g1GLVH2.png" group-title="SPORTS",J Sports 2 (480p) [Not 24/7]
+ http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
+ #EXTINF:-1 tvg-id="JSports3.jp" tvg-logo="https://i.imgur.com/xdI361E.png" group-title="SPORTS",J Sports 3 (480p) [Not 24/7]
+ http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
+ #EXTINF:-1 tvg-id="JSports4.jp" tvg-logo="https://i.imgur.com/fBcyZNL.png" group-title="SPORTS",J Sports 4 (720p) [Not 24/7]
+ http://cdnv148.cloudrsst.com:1935/jptv/jsports1_720/playlist.m3u8
+ #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",Pluto TV SPORT : BeIN Sports Xtra (720p)
+ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.44&includeExtendedEvents=false&serverSideAds=tr&sid=855d6801-c912-428d-b620-ede4dd0c3b15&userId=
+ #EXTINF:-1 tvg-id="PlutoTVSportsUK.uk" tvg-logo="https://images.pluto.tv/channels/5d7677fa2ec536ce1d587eeb/colorLogoPNG.png" group-title="SPORTS",Pluto TV Sports (England) (720p)
+ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7677fa2ec536ce1d587eeb/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d7677fa2ec536ce1d587eeb&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=607&terminate=false&userId=
+
  #EXTINF:-1 group-title="SPORTS",ARENA 1 PREMIUM 
  http://5.183.209.201:8080/live/22vahid99593/razmjena114352/21442.m3u8?token=GRVRVkQLEVwWWAcDAgVXUlECUAZSBlZTBgcDVQ4AAAZUBQADVVYAXg0bGhVAEkYEAFw7X1MQD1RVVwRTFUFBQAdFZl5TQQlEAQkAAhFKFhUIXAEUDQIZRBQKVEMDQQUBVwUMFRtBVh5AXERZUgprBQRHDVVSEA8IEQ9cTRsMWmwGUlRWWQcRXBYIFBsRD0cRQwtGYFhWVAALDVVBdzFjEyVaW38VTxEEXU1EVkcDFltDBVEEDhAZRAcMRQ9NEU0RWBV9chVPEQNMTVNZQA9bD0MLRlsERw1ESEFZEmYRUUAWRVxWWgZBRA4bBhUfRFkAGW4HWVlcUAUQCl8PSkEOEVUCGxsVDlwIXU1ZRWwWXQVDC0YHBQcHVkYe 
  #EXTINF:-1 group-title="SPORTS",ARENA 2 PREMIUM 
