@@ -29,6 +29,8 @@
  http://mains.vip:2086/live/craigg/1Lurn7m3F1/100783.m3u8
  #EXTINF:-1 group-title="SPORTS",viaplay | Xtra
  https://d3cq7cdp2cfi92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ff27mp9b8422-prod/hls-harvester2-1293-prod/us-east-1/cc-2ff27mp9b8422/master.m3u8
+ #EXTINF:-1 group-title="SPORTS", ESPN Vivo 🇦🇷  
+ http://38.143.137.221:8000/LA81/index.m3u8
  #EXTINF:-1 group-title="SPORTS",ARENA 1 PREMIUM 
  http://5.183.209.201:8080/live/22vahid99593/razmjena114352/21442.m3u8?token=GRVRVkQLEVwWWAcDAgVXUlECUAZSBlZTBgcDVQ4AAAZUBQADVVYAXg0bGhVAEkYEAFw7X1MQD1RVVwRTFUFBQAdFZl5TQQlEAQkAAhFKFhUIXAEUDQIZRBQKVEMDQQUBVwUMFRtBVh5AXERZUgprBQRHDVVSEA8IEQ9cTRsMWmwGUlRWWQcRXBYIFBsRD0cRQwtGYFhWVAALDVVBdzFjEyVaW38VTxEEXU1EVkcDFltDBVEEDhAZRAcMRQ9NEU0RWBV9chVPEQNMTVNZQA9bD0MLRlsERw1ESEFZEmYRUUAWRVxWWgZBRA4bBhUfRFkAGW4HWVlcUAUQCl8PSkEOEVUCGxsVDlwIXU1ZRWwWXQVDC0YHBQcHVkYe 
  #EXTINF:-1 group-title="SPORTS",ARENA 2 PREMIUM 
@@ -45,8 +47,6 @@
  http://103.55.144.46/hls/starsports3.m3u8 
  #EXTINF:-1 group-title="SPORTS",TNT SPORTS 
  https://d1k4ybyeycgihx.cloudfront.net/hls/TNT/playlist.m3u8 
- #EXTINF:-1 group-title="SPORTS", ESPN Vivo 🇦🇷  
- http://38.143.137.221:8000/LA81/index.m3u8
  #EXTINF:-1 group-title="SPORTS",ESPN 
  http://138.117.84.82/co_espn/index.m3u8 
  #EXTINF:-1 group-title="SPORTS",ESPN HD 
@@ -187,4 +187,8 @@
  http://210.210.155.37/qwr9ew/s/s41/index.m3u8
  #EXTINF:-1 group-title="INDONESIA",SCTV  
  http://210.210.155.37/qwr9ew/s/s03/index.m3u8
+ #EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/NET.jpg" group-title="INDONESIA",NET TV 
+ http://210.210.155.35/qwr9ew/s/s08/01.m3u8
+ #EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/NET.jpg" group-title="INDONESIA",NET TV 
+ http://210.210.155.37/qwr9ew/s/s08/index.m3u8
 
