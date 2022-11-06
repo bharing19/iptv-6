@@ -262,4 +262,8 @@ http://cdnv148.cloudrsst.com:1935/jptv/jsports1_720/playlist.m3u8
  #EXTINF:-1 tvg-id="OutsideTVPlus.us" tvg-logo="https://i.imgur.com/mCKGUoH.png" group-title="ANIMAL",Outside TV Plus (1080p)
  https://outsidetvplus-xumo.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetvplusxumo/CDN/master.m3u8
  #EXTINF:-1 tvg-id="WaypointTV.us" tvg-logo="https://i.imgur.com/6r2YHtv.png" group-title="ANIMAL",Waypoint TV (1080p)
-https://dai.google.com/linear/hls/event/im0MqOKRTHy9nVa1sirQSg/master.m3u8
+ https://dai.google.com/linear/hls/event/im0MqOKRTHy9nVa1sirQSg/master.m3u8
+ #EXTINF:-1 tvg-id="NationalGeographicWildRussia.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="ANIMAL",National Geographic Wild Russia (1080p)
+ https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+ #EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Nat_geo_channel_abu_dhabi.png/512px-Nat_geo_channel_abu_dhabi.png" group-title="ANIMAL",National Geographic Abu Dhabi (1080p)
+ https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
