@@ -187,8 +187,8 @@
  http://210.210.155.37/qwr9ew/s/s41/index.m3u8
  #EXTINF:-1 group-title="INDONESIA",SCTV
  http://210.210.155.37/qwr9ew/s/s03/index.m3u8
- #EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/INDOSIAR.jpg" group-title="INDONESIA",INDOSIAR
- http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8 
+ #EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/NET.jpg" group-title="INDONESIA",NET TV 
+ http://210.210.155.35/qwr9ew/s/s08/01.m3u8 
  #EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/NET.jpg" group-title="INDONESIA",NET TV 
  http://210.210.155.35/qwr9ew/s/s08/01.m3u8
  #EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/NET.jpg" group-title="INDONESIA",NET TV 
