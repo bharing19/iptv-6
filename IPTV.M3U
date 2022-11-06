@@ -31,6 +31,8 @@
  https://d3cq7cdp2cfi92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ff27mp9b8422-prod/hls-harvester2-1293-prod/us-east-1/cc-2ff27mp9b8422/master.m3u8
  #EXTINF:-1 group-title="SPORTS", ESPN Vivo 🇦🇷  
  http://38.143.137.221:8000/LA81/index.m3u8
+ #EXTINF:-1 tvg-id="Stadium.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Stadium_%28sports_network%29_logo.svg/512px-Stadium_%28sports_network%29_logo.svg.png" group-title="Sports",Stadium (720p)
+ https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
  #EXTINF:-1 group-title="SPORTS",ARENA 1 PREMIUM 
  http://5.183.209.201:8080/live/22vahid99593/razmjena114352/21442.m3u8?token=GRVRVkQLEVwWWAcDAgVXUlECUAZSBlZTBgcDVQ4AAAZUBQADVVYAXg0bGhVAEkYEAFw7X1MQD1RVVwRTFUFBQAdFZl5TQQlEAQkAAhFKFhUIXAEUDQIZRBQKVEMDQQUBVwUMFRtBVh5AXERZUgprBQRHDVVSEA8IEQ9cTRsMWmwGUlRWWQcRXBYIFBsRD0cRQwtGYFhWVAALDVVBdzFjEyVaW38VTxEEXU1EVkcDFltDBVEEDhAZRAcMRQ9NEU0RWBV9chVPEQNMTVNZQA9bD0MLRlsERw1ESEFZEmYRUUAWRVxWWgZBRA4bBhUfRFkAGW4HWVlcUAUQCl8PSkEOEVUCGxsVDlwIXU1ZRWwWXQVDC0YHBQcHVkYe 
  #EXTINF:-1 group-title="SPORTS",ARENA 2 PREMIUM 
@@ -219,8 +221,6 @@
  https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
  #EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/TV.jpg" group-title="INDONESIA", Jakarta Globe
  https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
- #EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/TVRI.jpg" group-title="INDONESIA", TVRI
- http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
  #EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/TVRI.jpg" group-title="INDONESIA",TVRI 
  http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
  #EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/TVRI.jpg" group-title="INDONESIA", TVRI SPORT 
