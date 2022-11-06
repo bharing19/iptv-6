@@ -251,6 +251,8 @@ http://cdnv148.cloudrsst.com:1935/jptv/jsports1_720/playlist.m3u8
  http://bamus-eng-roku.amagi.tv/playlist.m3u8
  #EXTINF:-1 tvg-id="ItalianFishingTV.it" tvg-logo="https://i.imgur.com/7XNQ494.png" group-title="ANIMAL",Italian Fishing TV
  https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8
+ #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ANIMAL",Real Wild
+ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
  #EXTINF:-1 tvg-id="OutdoorAmerica.us" tvg-logo="https://i.imgur.com/ldh9sFG.png" group-title="ANIMAL",Outdoor America (720p) 
  https://d18toqrnfyz3v1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/OutdoorAmerica-PLEX/159.m3u8
  #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ANIMAL",Outdoor Channel
