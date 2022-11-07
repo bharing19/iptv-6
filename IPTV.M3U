@@ -304,6 +304,8 @@
  https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
  #EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Nat_geo_channel_abu_dhabi.png/512px-Nat_geo_channel_abu_dhabi.png" group-title="ANIMAL",National Geographic Abu Dhabi (1080p)
  https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+ #EXTINF:-1 tvg-name="FR:NatGeo Wild HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/national-geographic-wild-us.png" group-title="ANIMAL",FR:NatGeo Wild HD
+ http://iptv.ndasat.xyz:88/220141376608919/220141376608919/485
 
 ##############################################DOCUMENTARY###################################################
  #EXTINF:-1 tvg-id="" tvg-logo="https://3.bp.blogspot.com/-rW6aC-akTMQ/W36n6fnPN-I/AAAAAAAAEW8/H_FCrllEgwoeGAQ9_-eeizZQlxwIxAKtACLcBGAs/s1600/Discovery%2BAsia%2Blogo.png" group-title="DOCUMENTARY",My: Discovery Asia
