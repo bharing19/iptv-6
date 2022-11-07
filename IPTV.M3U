@@ -345,7 +345,7 @@
 
  #EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="Pay TV",Star Sport 1 HINDI (4K)
  http://xtv.ooo:8080/85968596/85968596/109986
- #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="Pay TV",Star Sports Select 1 (4K)
+ #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_sports_hk_select_hd_1.png" group-title="Pay TV",Star Sports Select 1 (4K)
  http://xtv.ooo:8080/85968596/85968596/109993
  #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-logo="http://openboxv8s.com/india/star_sports2_in.jpg" group-title="Pay TV",Star Sports Select 2 (4K)
  http://xtv.ooo:8080/85968596/85968596/109994 
