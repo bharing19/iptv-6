@@ -326,8 +326,8 @@
 ##############################################Pay TV###################################################
  #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/national-geographic-wild-us.png" group-title="Pay TV",FR:NatGeo Wild HD
  http://iptv.ndasat.xyz:88/220141376608919/220141376608919/485
- #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/national-geographic-wild-us.png" group-title="Pay TV",FR:NatGeo Wild HD
- http://iptv.ndasat.xyz:88/220141376608919/220141376608919/485
+ #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="Pay TV",FR:National Geographic HD
+ http://iptv.ndasat.xyz:88/220141376608919/220141376608919/486
  #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_1.png" group-title="Pay TV",FR:Eurosport
  http://iptv.ndasat.xyz:88/220141376608919/220141376608919/572
  #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_2.png" group-title="Pay TV",FR:Eurosport 2
