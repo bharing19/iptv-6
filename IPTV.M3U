@@ -290,5 +290,7 @@
  https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 
 ##############################################DOCUMENTARY###################################################
+ #EXTINF:-1 tvg-id="discoveryturbo.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="DOCUMENTARY",IND: Discovery_Turbo
+ http://xtv.ooo:8080/85968596/85968596/206292
  #EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/discovery_global_us.png" group-title="DOCUMENTARY",|UK| DISCOVERY CHANNEL
  http://xtv.ooo:8080/85968596/85968596/222774
