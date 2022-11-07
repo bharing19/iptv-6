@@ -342,6 +342,14 @@
  http://iptv.ndasat.xyz:88/220141376608919/220141376608919/485
  #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="Pay TV",FR:National Geographic HD
  http://iptv.ndasat.xyz:88/220141376608919/220141376608919/486
+
+ #EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="Pay TV",Star Sport 1 HINDI (4K)
+ http://xtv.ooo:8080/85968596/85968596/109986
+ #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="Pay TV",Star Sports Select 1 (4K)
+ http://xtv.ooo:8080/85968596/85968596/109993
+ #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-logo="http://openboxv8s.com/india/star_sports2_in.jpg" group-title="Pay TV",Star Sports Select 2 (4K)
+ http://xtv.ooo:8080/85968596/85968596/109994 
+
  #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_1.png" group-title="Pay TV",FR:Eurosport
  http://iptv.ndasat.xyz:88/220141376608919/220141376608919/572
  #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_2.png" group-title="Pay TV",FR:Eurosport 2
