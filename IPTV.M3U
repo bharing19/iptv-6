@@ -82,27 +82,7 @@
  #EXTINF:-1 group-title="SPORTS", STAR SPORTS 1 HD
  http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494103dabeb9ccb31ac5cc374d29b530f31f605a3ebb87d9a00586fbd1aed1dd05/tracks-v1a1/mono.m3u8
  #EXTINF:-1 group-title="SPORTS", STAR SPORTS 3 
- http://103.55.144.46/hls/starsports3.m3u8 
- #EXTINF:-1 group-title="SPORTS",TNT SPORTS 
- https://d1k4ybyeycgihx.cloudfront.net/hls/TNT/playlist.m3u8  
- #EXTINF:-1 group-title="SPORTS",ESPN HD 
- http://pullstream-me.speedws.com/live/f1/playlist.m3u8 
- #EXTINF:-1 group-title="SPORTS",ESPN HD 
- https://d17f1mg1q6g54e.cloudfront.net/hls/espn/chunks.m3u8 
- #EXTINF:-1 group-title="SPORTS",ESPN2 HD 
- http://144.217.98.14/ESPN2/tracks-v1a1/mono.m3u8 
- #EXTINF:-1 group-title="SPORTS",Sky Sports 
- http://d1x38tpjgevyaw.cloudfront.net/stream/MzgxOQ==/1080p.m3u8 
- #EXTINF:-1 group-title="SPORTS",Sky SPORT Cricket 
- http://93.152.174.144:4000/play/skysports2/index.m3u8 
- #EXTINF:-1 group-title="SPORTS",Sky Sports F1 
- https://d28c1d458041.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.303903229440.channel.Z9ccH1hKPObw.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czpldS1jZW50cmFsLTE6MzAzOTAzMjI5NDQwOmNoYW5uZWwvWjljY0gxaEtQT2J3IiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHA6Ly93d3cuc3BvcnRuZXdzLnRvIiwiaWF0IjoxNjQ5NDUyMzQ5LCJleHAiOjE2NDk2MjUxNDl9.5TBpv8qqQpmySEbk9vPUHt9rZWQ-skh6S_JD2QjCaO8jcUrOmJWzfpi-evIJPdQmfc_PScdoAthcBKKo61xbnwaStNI1hzGZDMIzRIZ9HcYFJBH8MyoNlbnrMbZgDWPO 
- #EXTINF:-1 group-title="SPORTS",Sky Sports F1 
- https://16live00.akamaized.net/SKYSPORTSF1/index.m3u8 
- #EXTINF:-1 group-title="SPORTS",DAZN F1 
- http://alv.encohd.co:39591/live/j0roNAC/n3XT33/72.m3u8 
- #EXTINF:-1 group-title="SPORTS",BT Sport ESPN 
- http://93.152.174.144:4000/play/btsportespn/index.m3u8 
+ http://103.55.144.46/hls/starsports3.m3u8  
  
  #EXTINF:-1 group-title="SPORTS",Stadium (720p) 
  https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8 
