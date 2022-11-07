@@ -63,6 +63,10 @@
  http://93.152.174.144:4000/play/skysports4/index.m3u8
  #EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/Sky_Sports_golf.png" group-title="SPORTS",|UK| SKY SPORTS GOLF
  http://xtv.ooo:8080/85968596/85968596/246830
+ #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/red-bul-tv-at.png" group-title="SPORTS",Red Bull TV
+ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+ #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/red-bul-tv-at.png" group-title="SPORTS",Red Bull HD 
+ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
  
 
  #EXTINF:-1 group-title="SPORTS",ARENA 1 PREMIUM 
@@ -107,8 +111,7 @@
  http://urtv.cc:80/444386/444386/6611 
  #EXTINF:-1 group-title="SPORTS",BT SPORT 3HD 
  http://urtv.cc:80/444386/444386/6612 
- #EXTINF:-1 group-title="SPORTS",Red Bull HD 
- https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8 
+ 
  #EXTINF:-1 group-title="SPORTS",Stadium (720p) 
  https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8 
  #EXTINF:-1 group-title="SPORTS",A21 Network 
