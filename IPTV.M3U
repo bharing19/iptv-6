@@ -11,7 +11,7 @@
  https://allanf181.github.io/adaptive-streams/streams/kr/SpoTV2.m3u8
  #EXTINF:-1 group-title="SPORTS",SPORTS 1 RUSSIA 
  http://hez1-flu.iptvstream.site/135/index.m3u8
- #EXTINF:-1 group-title="SPORTS",START SPORTS HD 1 India
+ #EXTINF:-1 tvg-logo="https://github.com/playlist-iptv/iptv/blob/main/logo/star-sport-1hd.jpg" group-title="SPORTS",START SPORTS HD 1 India
  http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494103dabeb9ccb31ac5cc374d29b530f31f605a3ebb87d9a00586fbd1aed1dd05/tracks-v1a1/mono.m3u8
  #EXTINF:-1 group-title="SPORTS",START SPORTS HD 1 India
  http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0767f22d5a29bf79231e5c747403e8f0ed8246b4f29ce87/index.m3u8
@@ -26,8 +26,6 @@
  #EXTINF:-1 group-title="SPORTS",bEIN Sports Truevision
  http://hez1-flu.iptvstream.site/160/index.m3u8
  
- #EXTINF:-1 group-title="SPORTS",RTSH Sport
- http://edge01eu.ekranet.com/rtshsport1/index.m3u8
  #EXTINF:-1 group-title="SPORTS",RTSH Sport
  http://95.107.132.105/out/u/638_1.m3u8 
  #EXTINF:-1 group-title="SPORTS",Sport TV
