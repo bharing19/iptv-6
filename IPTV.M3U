@@ -324,9 +324,9 @@
  http://xtv.ooo:8080/85968596/85968596/228328
 
 ##############################################Pay TV###################################################
- #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Animal_Planet_HD.svg/1280px-Animal_Planet_HD.svg.png" group-title="ANIMAL",My: Animal Planet HD
+ #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Animal_Planet_HD.svg/1280px-Animal_Planet_HD.svg.png" group-title="Pay TV",My: Animal Planet HD
  http://xtv.ooo:8080/85968596/85968596/229592
- #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="ANIMAL",IN: Animal Planet FHD
+ #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="Pay TV",IN: Animal Planet FHD
  http://xtv.ooo:8080/85968596/85968596/206283
 
  #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/national-geographic-wild-us.png" group-title="Pay TV",FR:NatGeo Wild HD
