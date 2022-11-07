@@ -34,7 +34,7 @@
  http://mains.vip:2086/live/craigg/1Lurn7m3F1/100783.m3u8
  #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/playlist-iptv/iptv/main/logo/viaplay-logo.png" group-title="SPORTS",viaplay | Xtra
  https://d3cq7cdp2cfi92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ff27mp9b8422-prod/hls-harvester2-1293-prod/us-east-1/cc-2ff27mp9b8422/master.m3u8
- #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="SPORTS",ESPN 
+ #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/playlist-iptv/iptv/main/logo/espn.png" group-title="SPORTS",ESPN 
  http://destiny4k.com:2086/live/darkside/t2z7marsRY/54457.ts
  #EXTINF:-1 group-title="SPORTS", ESPN Vivo 🇦🇷  
  http://38.143.137.221:8000/LA81/index.m3u8
