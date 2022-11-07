@@ -25,8 +25,7 @@
  http://92.119.88.58:8080/270/index.m3u8
  #EXTINF:-1 group-title="SPORTS",bEIN Sports Truevision
  http://hez1-flu.iptvstream.site/160/index.m3u8
- #EXTINF:-1 group-title="SPORTS",Sky Sport Golf
- http://93.152.174.144:4000/play/skysports4/index.m3u8
+ 
  #EXTINF:-1 group-title="SPORTS",RTSH Sport
  http://edge01eu.ekranet.com/rtshsport1/index.m3u8
  #EXTINF:-1 group-title="SPORTS",RTSH Sport
@@ -59,6 +58,13 @@
  http://xtv.ooo:8080/85968596/85968596/223939
  #EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/M1SD.png" group-title="SPORTS",ES: M. Dazn 1 HD (720P)
  http://xtv.ooo:8080/85968596/85968596/226265
+
+ #EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/gg/golf_channel_us.png" group-title="SPORTS",My: Golf Channel HD
+ http://xtv.ooo:8080/85968596/85968596/229538
+ #EXTINF:-1 group-title="SPORTS",Sky Sport Golf
+ http://93.152.174.144:4000/play/skysports4/index.m3u8
+ #EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/Sky_Sports_golf.png" group-title="SPORTS",|UK| SKY SPORTS GOLF
+ http://xtv.ooo:8080/85968596/85968596/246830
  
 
  #EXTINF:-1 group-title="SPORTS",ARENA 1 PREMIUM 
