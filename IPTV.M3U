@@ -241,7 +241,9 @@
  https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1139386134_b3884000_sleng.m3u8
  #EXTINF:-1 group-title="INDONESIA",JPM HD 
  http://122.248.43.138:1935/ch6/myStream/live.m3u8 
- #EXTINF:-1 group-title="INDONESIA",THE Indonesian Channel 
+ #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/playlist-iptv/iptv/main/logo/tic.jpeg" group-title="INDONESIA",The Indonesia Channel
+ https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/live/playlist.m3u8
+ #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/playlist-iptv/iptv/main/logo/tic.jpeg" group-title="INDONESIA",THE Indonesian Channel 
  https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
  #EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/CNN.jpg" group-title="INDONESIA", CNN Indonesia
  https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
