@@ -23,7 +23,7 @@
  http://hez1-flu.iptvstream.site/158/index.m3u8
   #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/playlist-iptv/iptv/main/logo/setanta-s-2hd.png" group-title="SPORTS",SETANTA 2 HD 
  http://92.119.88.58:8080/270/index.m3u8
- #EXTINF:-1 group-title="SPORTS",bEIN Sports Truevision
+ #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/playlist-iptv/iptv/main/logo/setanta-s-plus.png" group-title="SPORTS",Setanta Plus
  http://hez1-flu.iptvstream.site/160/index.m3u8
  
  #EXTINF:-1 group-title="SPORTS",RTSH Sport
