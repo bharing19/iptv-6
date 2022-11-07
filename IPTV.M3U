@@ -61,7 +61,7 @@
 
  #EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/gg/golf_channel_us.png" group-title="SPORTS",My: Golf Channel HD
  http://xtv.ooo:8080/85968596/85968596/229538
- #EXTINF:-1 group-title="SPORTS",Sky Sport Golf
+ #EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/ss/Sky_Sports_golf.png" group-title="SPORTS",Sky Sport Golf
  http://93.152.174.144:4000/play/skysports4/index.m3u8
  #EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/Sky_Sports_golf.png" group-title="SPORTS",|UK| SKY SPORTS GOLF
  http://xtv.ooo:8080/85968596/85968596/246830
