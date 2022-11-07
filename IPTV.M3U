@@ -250,6 +250,9 @@
  http://ott.TVri.co.id/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8 
 
 ##############################################ANIMAL###################################################
+ #EXTINF:-1 tvg-id="" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/bltb306607710950a04/5ece441bca91024f9da7d7ad/Nature.jpg" group-title="ANIMAL",|UK| SKY NATURE HD
+ http://xtv.ooo:8080/85968596/85968596/222772
+
  #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="ANIMAL",IN: Animal Planet FHD
  http://xtv.ooo:8080/85968596/85968596/206283
 
@@ -290,6 +293,8 @@
  https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 
 ##############################################DOCUMENTARY###################################################
+ #EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nat_geo_us.png" group-title="DOCUMENTARY",ID: National Geographic HD
+ http://xtv.ooo:8080/85968596/85968596/228275
  #EXTINF:-1 tvg-id="discoveryturbo.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="DOCUMENTARY",IND: Discovery_Turbo
  http://xtv.ooo:8080/85968596/85968596/206292
  #EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/discovery_global_us.png" group-title="DOCUMENTARY",|UK| DISCOVERY CHANNEL
