@@ -103,116 +103,23 @@
  http://alv.encohd.co:39591/live/j0roNAC/n3XT33/72.m3u8 
  #EXTINF:-1 group-title="SPORTS",BT Sport ESPN 
  http://93.152.174.144:4000/play/btsportespn/index.m3u8 
- #EXTINF:-1 group-title="SPORTS",BT SPORT 1HD 
- http://urtv.cc:80/444386/444386/6610 
- #EXTINF:-1 group-title="SPORTS",BT SPORT 2 HD 
- https://16live00.akamaized.net/BTSPORTS2/index.m3u8 
- #EXTINF:-1 group-title="SPORTS",BT SPORT 2HD 
- http://urtv.cc:80/444386/444386/6611 
- #EXTINF:-1 group-title="SPORTS",BT SPORT 3HD 
- http://urtv.cc:80/444386/444386/6612 
  
  #EXTINF:-1 group-title="SPORTS",Stadium (720p) 
  https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8 
  #EXTINF:-1 group-title="SPORTS",A21 Network 
  https://tv.a21network.ru/stream/37909/index.m3u8 
- #EXTINF:-1 group-title="SPORTS",ABU DHABI SPORT 1 HD 
- http://admdn1.cdn.mangomolo.com/adsports1/adsports1.stream_720p/chunklist.m3u8 
- #EXTINF:-1 group-title="SPORTS",ABU DHABI SPORT 2 HD 
- http://admdn5.cdn.mangomolo.com/adsports2/adsports2.stream_720p/chunklist.m3u8 
- #EXTINF:-1  group-title="SPORTS",ABU DHABI SPORT 3 HD 
- http://admdn3.cdn.mangomolo.com/adsports3/adsports3.stream_720p/chunklist.m3u8 
- #EXTINF:-1 group-title="SPORTS",SK1 
- http://194.15.225.98:8000/play/a2qu 
- #EXTINF:-1 group-title="SPORTS",SK2 
- http://194.15.225.98:8000/play/a2qz 
- #EXTINF:-1 group-title="SPORTS",SK3 
- http://194.15.225.98:8000/play/a2qt 
+ 
  #EXTINF:-1 group-title="SPORTS",Fuel TV 
  https://fueltv-fueltv-1-au.samsung.wurl.com/playlist_1280x720_3000k.m3u8 
  #EXTINF:-1 group-title="SPORTS",MMA Junkie HD 
  http://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8 
  #EXTINF:-1 group-title="SPORTS",UFC 
  https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8 
- #EXTINF:-1 group-title="SPORTS",SPORTS TV 1 
- http://213.13.23.132/shls/LIVE%24SPORTTV1_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END 
- #EXTINF:-1 group-title="SPORTS",SPORTS TV 2 
- http://213.13.23.132/shls/LIVE%24SPORTTV2_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END 
- #EXTINF:-1 group-title="SPORTS",SPORTS TV 3 
- http://213.13.23.132/shls/LIVE%24SPORTTV3_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END 
- #EXTINF:-1 group-title="SPORTS",SPORTS TV 6 
- http://213.13.23.132/shls/LIVE%24SPORTTV6.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END 
- #EXTINF:-1 group-title="SPORTS",CAMPEONES TV 
- http://5.161.63.200/xls/campin/index.m3u8 
+
  #EXTINF:-1 group-title="SPORTS",beIN SPORT XTRA 
  https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8 
- #EXTINF:-1 group-title="SPORTS",Bein SPORT 1 HD 
- http://62.210.137.234:8000/play/a025/index.m3u8 
- #EXTINF:-1 group-title="SPORTS",Bein SPORT 2 HD 
- http://62.210.137.234:8000/play/a027/index.m3u8 
- #EXTINF:-1 group-title="SPORTS", beIN sport 1 fr 
- http://93.152.174.144:4000/play/bein1fr/index.m3u8 
- #EXTINF:-1 group-title="SPORTS",beIN sport 2 fr 
- http://93.152.174.144:4000/play/bein2fr/index.m3u8 
- #EXTINF:-1 group-title="SPORTS",beIN sport 3 fr 
- http://93.152.174.144:4000/play/bein3fr/index.m3u8 
- #EXTINF:-1 group-title="SPORTS",START SPORTS 
- http://iptv.tvfix.org/hls/starsports.m3u8 
- 
 
- #EXTINF:-1 group-title="SPORTS",La Liga TV 
- http://elcegao.ddnsking.com:8080/hls/elsegadorhd.m3u8 
- #EXTINF:-1 group-title="SPORTS",LA LIGA TV 
- http://188.34.177.35/xls/ligota/index.m3u8 
- #EXTINF:-1 group-title="SPORTS", S La Liga 
- http://urtv.cc:80/444386/444386/6575 
- #EXTINF:-1 group-title="SPORTS", S Action 
- http://urtv.cc:80/444386/444386/6581 
- #EXTINF:-1 group-title="SPORTS", S Motorsport 
- http://urtv.cc:80/444386/444386/7142 
- #EXTINF:-1 group-title="SPORTS",S Primier League 
- http://urtv.cc:80/444386/444386/6574 
- #EXTINF:-1 group-title="SPORTS", S Football 
- http://urtv.cc:80/444386/444386/6576 
- #EXTINF:-1 group-title="SPORTS",S Football (random) 
- https://917e6463e08c.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.979680664481.channel.G9BxyvWnIlAu.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIyIDI6MzE6MTEgUE0maGFzaF92YWx1ZT13WDh3S0tzSGVQYVltS0ZucTR0a2FBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD02OS45NC45My4xOTkmc3RybV9sZW49NQ== 
- #EXTINF:-1 group-title="SPORTS",S La Liga (random) 
- http://178.218.196.218:8000/play/a00d/index.m3u8 
- #EXTINF:-1 group-title="SPORTS",S Premier League (random) 
- http://77.247.109.116/live/abr_b-1/live/b-1_480p/chunks.m3u8 
- #EXTINF:-1 group-title="SPORTS",S Premier League (random) 
- http://93.152.174.144:4000/play/skysports5/index.m3u8 
- #EXTINF:-1 group-title="SPORTS",S Action (random) 
- https://05b110e0fa02.us-east-1.playback.live-video.net/api/video/v1/us-east-1.567185080665.channel.t1pReZqCGj18.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIyIDExOjI0OjIzIEFNJmhhc2hfdmFsdWU9QnZDSWlrbGFWOXZXanVmWFBqVEJNdz09JnZhbGlkbWludXRlcz03MjAmaWQ9MjE4LjE1NS45LjIzMSZzdHJtX2xlbj01 
- #EXTINF:-1 group-title="SPORTS",S Grandstand (random) 
- http://178.218.196.218:8000/play/a008/index.m3u8 
- #EXTINF:-1 group-title="SPORTS",ELEVEN 1 
- http://213.13.23.132/shls/LIVE%24Eleven_Sports_1_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END 
- #EXTINF:-1 group-title="SPORTS",TEN SPORT 
- http://103.24.96.74/stream/ptvsports/playlist.m3u8 
- #EXTINF:-1 group-title="SPORTS",RUSH HD 
- http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8 
- #EXTINF:-1 group-title="SPORTS",CCTV5 
- http://117.148.179.165/PLTV/88888888/224/3221231702/index.m3u8 
- #EXTINF:-1 group-title="SPORTS",sbt Champion 
- https://dubr2rz6c5qdz.cloudfront.net/live-stream/61c21f28fa354108218ed3a3/publish/media_1800.m3u8 
- #EXTINF:-1 group-title="SPORTS", FOX 501 HD 
- http://stariptv.org:8080/live/nour2020/123456/148521.m3u8 
  
- #EXTINF:-1 group-title="SPORTS",Rtv sports 
- https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/ch-02.smil/chunklist_b1692000_slita.m3u8 
- #EXTINF:-1 group-title="SPORTS", itv Sports 
- http://77.247.109.116/live/abr_b-1/live/b-1_480p/chunks.m3u8 
- #EXTINF:-1,AXN 
- http://89.187.162.109/axn/mono.m3u8 
- #EXTINF:-1 group-title="SPORTS",SONY Ten 1HD 
- http://103.136.200.246:8082/Ten1/index.m3u8 
- #EXTINF:-1 group-title="SPORTS",SONY Ten 2HD 
- http://103.136.200.246:8082/Ten2/index.m3u8 
- #EXTINF:-1 group-title="SPORTS",SONY Ten 3HD 
- http://103.136.200.246:8082/Ten3/index.m3u8 
- #EXTINF:-1 group-title="SPORTS",SONY SIX 
- http://103.136.200.246:8082/SonySix/index.m3u8
  
  ##############################################INDONESIA###################################################
  #EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/RCTI_live_streaming_tv.jpg" group-title="INDONESIA",RCTI
