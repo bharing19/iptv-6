@@ -304,7 +304,7 @@
  https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
  #EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Nat_geo_channel_abu_dhabi.png/512px-Nat_geo_channel_abu_dhabi.png" group-title="ANIMAL",National Geographic Abu Dhabi (1080p)
  https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
- #EXTINF:-1 tvg-name="FR:NatGeo Wild HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/national-geographic-wild-us.png" group-title="ANIMAL",FR:NatGeo Wild HD
+ #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/national-geographic-wild-us.png" group-title="ANIMAL",FR:NatGeo Wild HD
  http://iptv.ndasat.xyz:88/220141376608919/220141376608919/485
 
 ##############################################DOCUMENTARY###################################################
@@ -312,6 +312,8 @@
  http://xtv.ooo:8080/85968596/85968596/229595
  #EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nat_geo_us.png" group-title="DOCUMENTARY",ID: National Geographic HD
  http://xtv.ooo:8080/85968596/85968596/228275
+ #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="DOCUMENTARY",FR:National Geographic HD
+ http://iptv.ndasat.xyz:88/220141376608919/220141376608919/486
  #EXTINF:-1 tvg-id="discoveryturbo.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="DOCUMENTARY",IND: Discovery_Turbo
  http://xtv.ooo:8080/85968596/85968596/206292
  #EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/discovery_global_us.png" group-title="DOCUMENTARY",|UK| DISCOVERY CHANNEL
