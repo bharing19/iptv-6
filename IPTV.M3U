@@ -250,7 +250,7 @@
  http://ott.TVri.co.id/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8 
 
 ##############################################ANIMAL###################################################
- #EXTINF:-1 tvg-id="animalplanethd.in" group-title="ANIMAL" tvg-name="IN: Animal Planet FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="IN | DOCUMENTARY",IN: Animal Planet FHD
+ #EXTINF:-1 tvg-id="animalplanethd.in" group-title="ANIMAL" tvg-name="IN: Animal Planet FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" ,IN: Animal Planet FHD
  #EXTINF:-1 group-title="ANIMAL",RS: Animal Planet HD
  http://190.83.119.67:8000/play/a0q4/index.m3u8
  #EXTINF:-1 group-title="ANIMAL",Wild EARTH
