@@ -342,7 +342,11 @@
  http://iptv.ndasat.xyz:88/220141376608919/220141376608919/485
  #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="Pay TV",FR:National Geographic HD
  http://iptv.ndasat.xyz:88/220141376608919/220141376608919/486
-
+ 
+ #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_sports_in_1_hindi.png" group-title="Pay TV",IN:Star Sports 1
+ http://iptv.ndasat.xyz:88/220141376608919/220141376608919/1877
+ #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_sports_in_2.png" group-title="Pay TV",IN:Star Sports 2
+ http://iptv.ndasat.xyz:88/220141376608919/220141376608919/1878
  #EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="Pay TV",Star Sport 1 HINDI (4K)
  http://xtv.ooo:8080/85968596/85968596/109986
  #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_sports_hk_select_hd_1.png" group-title="Pay TV",Star Sports Select 1 (4K)
@@ -363,7 +367,4 @@
  http://iptv.ndasat.xyz:88/220141376608919/220141376608919/71
  #EXTINF:-1 tvg-name="NL:Sport1 Voetbal" tvg-logo="http://logo.ndasat.com/iptv/images/12127_holland.jpg" group-title="Pay TV",NL:Sport1 Voetbal
  http://iptv.ndasat.xyz:88/220141376608919/220141376608919/56
- #EXTINF:-1 tvg-logo="http://logo.ndasat.com/iptv/images/71706_5847_india_country_flag_decal_sticker_small.png" group-title="Pay TV",IN:Star Sports 1
- http://iptv.ndasat.xyz:88/220141376608919/220141376608919/1877
- #EXTINF:-1 tvg-logo="http://logo.ndasat.com/iptv/images/71706_5847_india_country_flag_decal_sticker_small.png" group-title="Pay TV",IN:Star Sports 2
- http://iptv.ndasat.xyz:88/220141376608919/220141376608919/1878
+ 
