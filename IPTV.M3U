@@ -19,10 +19,6 @@
  http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8 
  #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/Eurosport_2_Logo.jpg" group-title="SPORTS", EUROSPORT 2
  http://109.105.205.250:8081/live/EUROSPORT2/playlist.m3u8 
- #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_1.png" group-title="SPORTS",FR:Eurosport
- http://iptv.ndasat.xyz:88/220141376608919/220141376608919/572
- #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_2.png" group-title="SPORTS",FR:Eurosport 2
- http://iptv.ndasat.xyz:88/220141376608919/220141376608919/287
  #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/playlist-iptv/iptv/main/logo/setanta-s-1hd.png" group-title="SPORTS",SETANTA 1 HD 
  http://hez1-flu.iptvstream.site/158/index.m3u8
   #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/playlist-iptv/iptv/main/logo/setanta-s-2hd.png" group-title="SPORTS",SETANTA 2 HD 
@@ -308,8 +304,7 @@
  https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
  #EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Nat_geo_channel_abu_dhabi.png/512px-Nat_geo_channel_abu_dhabi.png" group-title="ANIMAL",National Geographic Abu Dhabi (1080p)
  https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
- #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/national-geographic-wild-us.png" group-title="ANIMAL",FR:NatGeo Wild HD
- http://iptv.ndasat.xyz:88/220141376608919/220141376608919/485
+
 
 ##############################################DOCUMENTARY###################################################
  #EXTINF:-1 tvg-id="" tvg-logo="https://3.bp.blogspot.com/-rW6aC-akTMQ/W36n6fnPN-I/AAAAAAAAEW8/H_FCrllEgwoeGAQ9_-eeizZQlxwIxAKtACLcBGAs/s1600/Discovery%2BAsia%2Blogo.png" group-title="DOCUMENTARY",My: Discovery Asia
@@ -327,3 +322,22 @@
 ##############################################MOVIE###################################################
  #EXTINF:-1 tvg-id="" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_bioskop.png" group-title="MOVIE",ID: Zeebioskop
  http://xtv.ooo:8080/85968596/85968596/228328
+
+##############################################Pay TV###################################################
+ #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/national-geographic-wild-us.png" group-title="Pay TV",FR:NatGeo Wild HD
+ http://iptv.ndasat.xyz:88/220141376608919/220141376608919/485
+ #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/national-geographic-wild-us.png" group-title="Pay TV",FR:NatGeo Wild HD
+ http://iptv.ndasat.xyz:88/220141376608919/220141376608919/485
+ #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_1.png" group-title="Pay TV",FR:Eurosport
+ http://iptv.ndasat.xyz:88/220141376608919/220141376608919/572
+ #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_2.png" group-title="Pay TV",FR:Eurosport 2
+ http://iptv.ndasat.xyz:88/220141376608919/220141376608919/287
+
+ #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="Pay TV",FR:Bein Sport 1 HD
+ http://iptv.ndasat.xyz:88/220141376608919/220141376608919/7731
+ #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-2-qa-fr.png" group-title="Pay TV",FR:Bein Sport 2 HD
+ http://iptv.ndasat.xyz:88/220141376608919/220141376608919/70
+ #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-3-qa-fr.png" group-title="Pay TV",FR:Bein Sport 3 HD
+ http://iptv.ndasat.xyz:88/220141376608919/220141376608919/71
+ #EXTINF:-1 tvg-name="NL:Sport1 Voetbal" tvg-logo="http://logo.ndasat.com/iptv/images/12127_holland.jpg" group-title="Pay TV",NL:Sport1 Voetbal
+ http://iptv.ndasat.xyz:88/220141376608919/220141376608919/56
