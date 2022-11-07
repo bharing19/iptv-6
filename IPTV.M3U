@@ -260,8 +260,7 @@
  #EXTINF:-1 tvg-id="HorseCountryTV.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Horseandcountry.PNG" group-title="ANIMAL",Horse & Country TV (1080p)
  https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
 
- #EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/discovery_global_us.png" group-title="ANIMAL",|UK| DISCOVERY CHANNEL
- http://xtv.ooo:8080/85968596/85968596/222774
+
 
  #EXTINF:-1 tvg-id="LoveNature4K.ca" tvg-logo="https://i.imgur.com/m3jRPof.png" group-title="ANIMAL",Love Nature 4K
  https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
@@ -287,3 +286,7 @@
  https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
  #EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Nat_geo_channel_abu_dhabi.png/512px-Nat_geo_channel_abu_dhabi.png" group-title="ANIMAL",National Geographic Abu Dhabi (1080p)
  https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+
+##############################################DOCUMENTARY###################################################
+ #EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/discovery_global_us.png" group-title="DOCUMENTARY",|UK| DISCOVERY CHANNEL
+ http://xtv.ooo:8080/85968596/85968596/222774
