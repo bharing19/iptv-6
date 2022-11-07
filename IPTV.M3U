@@ -26,7 +26,7 @@
  #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/playlist-iptv/iptv/main/logo/setanta-s-plus.png" group-title="SPORTS",Setanta Plus
  http://hez1-flu.iptvstream.site/160/index.m3u8
  
- #EXTINF:-1 group-title="SPORTS",RTSH Sport
+ #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/playlist-iptv/iptv/main/logo/RTSH-sport.png" group-title="SPORTS",RTSH Sport
  http://95.107.132.105/out/u/638_1.m3u8 
  #EXTINF:-1 group-title="SPORTS",Sport TV
  https://live.sportstv.com.tr/hls/low/sportstv.m3u8
