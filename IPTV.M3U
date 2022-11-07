@@ -308,6 +308,8 @@
  https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 
 ##############################################DOCUMENTARY###################################################
+ #EXTINF:-1 tvg-id="" tvg-logo="https://3.bp.blogspot.com/-rW6aC-akTMQ/W36n6fnPN-I/AAAAAAAAEW8/H_FCrllEgwoeGAQ9_-eeizZQlxwIxAKtACLcBGAs/s1600/Discovery%2BAsia%2Blogo.png" group-title="DOCUMENTARY",My: Discovery Asia
+ http://xtv.ooo:8080/85968596/85968596/229595
  #EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nat_geo_us.png" group-title="DOCUMENTARY",ID: National Geographic HD
  http://xtv.ooo:8080/85968596/85968596/228275
  #EXTINF:-1 tvg-id="discoveryturbo.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="DOCUMENTARY",IND: Discovery_Turbo
