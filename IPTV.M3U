@@ -57,6 +57,10 @@
  http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7677fa2ec536ce1d587eeb/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d7677fa2ec536ce1d587eeb&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=607&terminate=false&userId=
  #EXTINF:-1 group-title="SPORTS",Tennis Channel 
  http://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8 
+ #EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sport_tv_pt_1.png" group-title="SPORTS",PT: SportTV 1 UHD 4K
+ http://xtv.ooo:8080/85968596/85968596/223939
+ #EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/M1SD.png" group-title="SPORTS",ES: M. Dazn 1 HD (720P)
+ http://xtv.ooo:8080/85968596/85968596/226265
  
 
  #EXTINF:-1 group-title="SPORTS",ARENA 1 PREMIUM 
@@ -250,14 +254,17 @@
  http://ott.TVri.co.id/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8 
 
 ##############################################ANIMAL###################################################
- #EXTINF:-1 tvg-id="" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/bltb306607710950a04/5ece441bca91024f9da7d7ad/Nature.jpg" group-title="ANIMAL",|UK| SKY NATURE HD
- http://xtv.ooo:8080/85968596/85968596/222772
-
+ 
+ 
  #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="ANIMAL",IN: Animal Planet FHD
  http://xtv.ooo:8080/85968596/85968596/206283
 
  #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="ANIMAL",RS: Animal Planet HD
  http://190.83.119.67:8000/play/a0q4/index.m3u8
+
+ #EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/animal_planet_us.png" group-title="ANIMAL",|UK| ANIMAL PLANET
+ http://xtv.ooo:8080/85968596/85968596/222785
+
  #EXTINF:-1 group-title="ANIMAL",Wild EARTH
  https://wildearth-roku.amagi.tv/masterR720P.m3u8
  #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19763563_ico.png?ts=1654806694" group-title="ANIMAL",IN WILD 
@@ -266,11 +273,14 @@
  https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
 
 
-
  #EXTINF:-1 tvg-id="LoveNature4K.ca" tvg-logo="https://i.imgur.com/m3jRPof.png" group-title="ANIMAL",Love Nature 4K
  https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
  #EXTINF:-1 tvg-id="LoveNature.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png" group-title="ANIMAL",Love Nature (1080p)
  http://bamus-eng-roku.amagi.tv/playlist.m3u8
+
+ #EXTINF:-1 tvg-id="" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/bltb306607710950a04/5ece441bca91024f9da7d7ad/Nature.jpg" group-title="ANIMAL",|UK| SKY NATURE HD
+ http://xtv.ooo:8080/85968596/85968596/222772
+
  #EXTINF:-1 tvg-id="ItalianFishingTV.it" tvg-logo="https://i.imgur.com/7XNQ494.png" group-title="ANIMAL",Italian Fishing TV
  https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8
  #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ANIMAL",Real Wild
