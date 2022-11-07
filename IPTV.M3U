@@ -328,6 +328,15 @@
  http://xtv.ooo:8080/85968596/85968596/229592
  #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="Pay TV",IN: Animal Planet FHD
  http://xtv.ooo:8080/85968596/85968596/206283
+ 
+ #EXTINF:-1 tvg-id="discoveryhd.in" tvg-logo="http://openboxv8s.com/india/discovery-channel-east-us.png" group-title="Pay TV",DISCOVERY (4K)
+ http://xtv.ooo:8080/85968596/85968596/109974
+ #EXTINF:-1 tvg-id="" tvg-logo="http://openboxv8s.com/india/nat_geo_wild_asia.jpg" group-title="Pay TV",NAT Geo Wild (4K)*
+ http://xtv.ooo:8080/85968596/85968596/109976
+ #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/National_Geographic_Logo_2016.png" group-title="Pay TV",National GEO (4K)
+ http://xtv.ooo:8080/85968596/85968596/109977
+ #EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" group-title="Pay TV",IND: Nat Geo HD
+ http://xtv.ooo:8080/85968596/85968596/206285
 
  #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/national-geographic-wild-us.png" group-title="Pay TV",FR:NatGeo Wild HD
  http://iptv.ndasat.xyz:88/220141376608919/220141376608919/485
