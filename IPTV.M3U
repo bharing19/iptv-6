@@ -29,6 +29,10 @@
  https://cdn.googlecdnforstreaming.live/dbf789/bein3/playlist.m3u8
  #EXTINF:-1 tvg-logo="https://www.alyuwm.com/wp-content/uploads/2019/12/bein-sport-hd-1060x580.jpg" group-title="SPORTS",beIN Sports 2 MAX
  http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/19063/index.m3u8
+ #EXTINF:-1 tvg-id="" tvg-logo="https://www.alyuwm.com/wp-content/uploads/2019/12/bein-sport-hd-1060x580.jpg" group-title="SPORTS",Pluto TV SPORT : BeIN Sports Xtra (720p)
+ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.44&includeExtendedEvents=false&serverSideAds=tr&sid=855d6801-c912-428d-b620-ede4dd0c3b15&userId=
+ #EXTINF:-1 tvg-logo="https://www.alyuwm.com/wp-content/uploads/2019/12/bein-sport-hd-1060x580.jpg" group-title="SPORTS",beIN SPORT XTRA 
+ https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8 
  
  #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/playlist-iptv/iptv/main/logo/RTSH-sport.png" group-title="SPORTS",RTSH Sport
  http://95.107.132.105/out/u/638_1.m3u8 
@@ -51,8 +55,6 @@
  #EXTINF:-1 tvg-id="FightingSpirit.us" tvg-logo="https://i.imgur.com/OeVsflz.png" group-title="SPORTS",Fighting Spirit (720p)
  https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8
 
- #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",Pluto TV SPORT : BeIN Sports Xtra (720p)
- https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.44&includeExtendedEvents=false&serverSideAds=tr&sid=855d6801-c912-428d-b620-ede4dd0c3b15&userId=
  #EXTINF:-1 tvg-id="PlutoTVSportsUK.uk" tvg-logo="https://images.pluto.tv/channels/5d7677fa2ec536ce1d587eeb/colorLogoPNG.png" group-title="SPORTS",Pluto TV Sports (England) (720p)
  http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7677fa2ec536ce1d587eeb/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d7677fa2ec536ce1d587eeb&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=607&terminate=false&userId=
  #EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="https://i.imgur.com/tGTVcVe.jpg" group-title="SPORTS",Sports TV (720p)
@@ -85,10 +87,6 @@
  #EXTINF:-1 group-title="SPORTS",UFC 
  https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8 
 
- #EXTINF:-1 group-title="SPORTS",beIN SPORT XTRA 
- https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8 
-
- 
  
  ##############################################INDONESIA###################################################
  #EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/RCTI_live_streaming_tv.jpg" group-title="INDONESIA",RCTI
