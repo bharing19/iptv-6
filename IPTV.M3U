@@ -22,9 +22,7 @@
  #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/playlist-iptv/iptv/main/logo/setanta-s-1hd.png" group-title="SPORTS",SETANTA 1 HD 
  http://hez1-flu.iptvstream.site/158/index.m3u8
  #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/playlist-iptv/iptv/main/logo/setanta-s-2hd.png" group-title="SPORTS",SETANTA 2 HD 
- http://92.119.88.58:8080/270/index.m3u8
- #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/playlist-iptv/iptv/main/logo/setanta-s-2hd.png" group-title="SPORTS",SETANTA 2 HD 
- http://92.119.88.58:8080/270/index.m3u8
+ http://92.119.88.58:8080/270/index.m3u8 
  #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/playlist-iptv/iptv/main/logo/setanta-s-plus.png" group-title="SPORTS",Setanta Plus
  http://hez1-flu.iptvstream.site/160/index.m3u8
  
@@ -70,13 +68,6 @@
  #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/red-bul-tv-at.png" group-title="SPORTS",Red Bull HD 
  https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
 
- #EXTINF:-1 group-title="SPORTS", STAR SPORTS 1 HD
- http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0767f22d5a29bf79231e5c747403e8f0ed8246b4f29ce87/index.m3u8 
- #EXTINF:-1 group-title="SPORTS", STAR SPORTS 1 HD
- http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494103dabeb9ccb31ac5cc374d29b530f31f605a3ebb87d9a00586fbd1aed1dd05/tracks-v1a1/mono.m3u8
- #EXTINF:-1 group-title="SPORTS", STAR SPORTS 3 
- http://103.55.144.46/hls/starsports3.m3u8  
- 
  #EXTINF:-1 group-title="SPORTS",Stadium (720p) 
  https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8 
  #EXTINF:-1 group-title="SPORTS",A21 Network 
