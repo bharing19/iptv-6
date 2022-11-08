@@ -52,10 +52,6 @@
  http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7677fa2ec536ce1d587eeb/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d7677fa2ec536ce1d587eeb&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=607&terminate=false&userId=
  #EXTINF:-1 group-title="SPORTS",Tennis Channel 
  http://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8 
- #EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sport_tv_pt_1.png" group-title="SPORTS",PT: SportTV 1 UHD 4K
- http://xtv.ooo:8080/85968596/85968596/223939
- #EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/M1SD.png" group-title="SPORTS",ES: M. Dazn 1 HD (720P)
- http://xtv.ooo:8080/85968596/85968596/226265
 
  #EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/gg/golf_channel_us.png" group-title="SPORTS",My: Golf Channel HD
  http://xtv.ooo:8080/85968596/85968596/229538
@@ -135,6 +131,8 @@
  http://ott.TVri.co.id/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8 
 
 ##############################################ANIMAL###################################################
+ #EXTINF:-1 tvg-id="PlutoTVAnimalsUK.uk" tvg-logo="https://images.pluto.tv/channels/5ddf8ea0d000120009bcad83/colorLogoPNG.png" group-title="ANIMAL",Pluto TV Animals (England) (720p)
+ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf8ea0d000120009bcad83/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf8ea0d000120009bcad83&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=550&terminate=false&userId=
 
  #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="ANIMAL",RS: Animal Planet HD
  http://190.83.119.67:8000/play/a0q4/index.m3u8
@@ -182,6 +180,8 @@
 
 
 ##############################################DOCUMENTARY###################################################
+ #EXTINF:-1 tvg-id="HistoryEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="DOCUMENTARY",History East (720p)
+ https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
  #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png" group-title="DOCUMENTARY",Discovery HD(BD3)
  https://tv.googledrivelinks.com/live.php?c=Discovery_Channel_Bengali&q=1200&e=.m3u8
  #EXTINF:-1 tvg-id="" tvg-logo="https://3.bp.blogspot.com/-rW6aC-akTMQ/W36n6fnPN-I/AAAAAAAAEW8/H_FCrllEgwoeGAQ9_-eeizZQlxwIxAKtACLcBGAs/s1600/Discovery%2BAsia%2Blogo.png" group-title="DOCUMENTARY",My: Discovery Asia
@@ -194,8 +194,6 @@
  http://xtv.ooo:8080/85968596/85968596/206292
  #EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/discovery_global_us.png" group-title="DOCUMENTARY",|UK| DISCOVERY CHANNEL
  http://xtv.ooo:8080/85968596/85968596/222774
- #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" group-title="DOCUMENTARY",Nasa TV(BD3)
- https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 
 ##############################################MOVIE###################################################
@@ -257,4 +255,8 @@
  http://iptv.ndasat.xyz:88/220141376608919/220141376608919/71
  #EXTINF:-1 tvg-name="NL:Sport1 Voetbal" tvg-logo="http://logo.ndasat.com/iptv/images/12127_holland.jpg" group-title="Pay TV",NL:Sport1 Voetbal
  http://iptv.ndasat.xyz:88/220141376608919/220141376608919/56
+
+##############################################ANIMATION###################################################
+ #EXTINF:-1 tvg-id="AniplusAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Aniplus_Asia_Logo.png/512px-Aniplus_Asia_Logo.png" group-title="ANIMATION",Aniplus (Indonesian subtitle)
+ http://210.210.155.37/dr9445/h/h02/index.m3u8
  
