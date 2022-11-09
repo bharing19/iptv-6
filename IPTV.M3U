@@ -9,7 +9,7 @@
  https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8
  #EXTINF:-1 tvg-id="SPOTV2.kr" tvg-logo="https://i.imgur.com/xeATohI.png" group-title="SPORTS",SPOTV2 (1080p)
  https://allanf181.github.io/adaptive-streams/streams/kr/SpoTV2.m3u8
- #EXTINF:-1 group-title="SPORTS",SPORTS 1 RUSSIA 
+ #EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/f88885254c175ec4f08fa0bcfdd43d52.png" group-title="SPORTS",RUS: Match Football 1 
  http://hez1-flu.iptvstream.site/135/index.m3u8
  #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/playlist-iptv/iptv/main/logo/star-sport-1hd.png" group-title="SPORTS",START SPORTS HD 1 India
  http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494103dabeb9ccb31ac5cc374d29b530f31f605a3ebb87d9a00586fbd1aed1dd05/tracks-v1a1/mono.m3u8
@@ -247,6 +247,8 @@
  #EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/TSN2.png" group-title="Pay TV",CA: TSN 2 HD PL
  http://xtv.ooo:8080/85968596/85968596/225866
  
+ #EXTINF:-1 tvg-id="AMC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2a/ESPN%2B_logo.png" group-title="Pay TV",ESPN+ EVENT 00
+ http://xtv.ooo:8080/85968596/85968596/232660
  #EXTINF:-1 group-title="Pay TV",ESPN+ (Freecatv)
  http://destiny4k.com:2086/live/darkside/t2z7marsRY/54457.ts
  #EXTINF:-1 group-title="Pay TV",SuperSports (Freecatv)
