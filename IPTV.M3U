@@ -36,6 +36,8 @@
  
  #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/playlist-iptv/iptv/main/logo/RTSH-sport.png" group-title="SPORTS",RTSH Sport
  http://95.107.132.105/out/u/638_1.m3u8 
+ #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/ten_sports_in_pakistan.png" group-title="SPORTS",PK: TEN Sports
+ http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/4347
  #EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="https://i.imgur.com/tGTVcVe.jpg" group-title="SPORTS",Sports TV (720p)
  https://live.sportstv.com.tr/hls/low/sportstv.m3u8
  #EXTINF:-1 tvg-logo="https://i.imgur.com/tGTVcVe.jpg" group-title="SPORTS",Sport TV
