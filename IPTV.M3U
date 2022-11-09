@@ -25,6 +25,9 @@
  http://92.119.88.58:8080/270/index.m3u8 
  #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/playlist-iptv/iptv/main/logo/setanta-s-plus.png" group-title="SPORTS",Setanta Plus
  http://hez1-flu.iptvstream.site/160/index.m3u8
+
+ #EXTINF:-1 tvg-logo="https://www.alyuwm.com/wp-content/uploads/2019/12/bein-sport-hd-1060x580.jpg" group-title="SPORTS" ,beIN Sports 1
+ http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test
  #EXTINF:-1 tvg-logo="https://www.alyuwm.com/wp-content/uploads/2019/12/bein-sport-hd-1060x580.jpg" group-title="SPORTS",beIN Sports 3 TRUEvision
  https://cdn.googlecdnforstreaming.live/dbf789/bein3/playlist.m3u8
  #EXTINF:-1 tvg-logo="https://www.alyuwm.com/wp-content/uploads/2019/12/bein-sport-hd-1060x580.jpg" group-title="SPORTS",beIN Sports 2 MAX
