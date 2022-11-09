@@ -237,6 +237,15 @@
  http://xtv.ooo:8080/85968596/85968596/109993
  #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_sports_hk_select_hd_1.png" group-title="Pay TV",Star Sports Select 2 (4K)
  http://xtv.ooo:8080/85968596/85968596/109994
+ #EXTINF:-1 tvg-id="" tvg-name="AU: ESPN 1 HD" tvg-logo="http://109.238.11.8:25461/logo_Channels/Espn.png" group-title="Pay TV",AU: ESPN 1 HD
+ http://xtv.ooo:8080/85968596/85968596/222278
+ #EXTINF:-1 tvg-id="" tvg-name="AU: ESPN 2 HD" tvg-logo="http://109.238.11.8:25461/logo_Channels/Espn.png" group-title="Pay TV",AU: ESPN 2 HD
+ http://xtv.ooo:8080/85968596/85968596/222279
+
+ #EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/ff/Fox_Soccer_plus.png" group-title="Pay TV",US: Fox Soccer Plus HD PL
+ http://xtv.ooo:8080/85968596/85968596/223123
+ #EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/TSN2.png" group-title="Pay TV",CA: TSN 2 HD PL
+ http://xtv.ooo:8080/85968596/85968596/225866
  
  #EXTINF:-1 group-title="Pay TV",ESPN+ (Freecatv)
  http://destiny4k.com:2086/live/darkside/t2z7marsRY/54457.ts
@@ -246,8 +255,6 @@
  http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/52294
  #EXTINF:-1 group-title="Pay TV",SUPERSPORT LALIGA 🇬🇧
  http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/194358
- #EXTINF:-1 group-title="Pay TV",SUPERSPORT LALIGA 🇬🇧
- http://divine.ddns.me:8080/2oiazsCf5E/ZOSwbDzk2D/1416 
 
  #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_1.png" group-title="Pay TV",FR:Eurosport
  http://iptv.ndasat.xyz:88/220141376608919/220141376608919/572
@@ -264,6 +271,8 @@
  http://iptv.ndasat.xyz:88/220141376608919/220141376608919/56
 
 ##############################################ANIMATION###################################################
+ #EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="ANIMATION",Nick
+ https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
  #EXTINF:-1 tvg-id="AniplusAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Aniplus_Asia_Logo.png/512px-Aniplus_Asia_Logo.png" group-title="ANIMATION",Aniplus (Indonesian subtitle)
  http://210.210.155.37/dr9445/h/h02/index.m3u8
 
@@ -271,4 +280,4 @@
  http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311843b56328bce619/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
  #EXTINF:-1 tvg-id="AnimeAllDay.us" tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="ANIMATION",Pluto TV Anime All Day (720p)
  https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5812b7d3249444e05d09cc49&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=830&terminate=false&userId=
- 
+ e
