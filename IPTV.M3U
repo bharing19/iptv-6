@@ -270,9 +270,9 @@
  http://iptv.ndasat.xyz:88/220141376608919/220141376608919/70
  #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-3-qa-fr.png" group-title="Pay TV",FR:Bein Sport 3 HD
  http://iptv.ndasat.xyz:88/220141376608919/220141376608919/71
- #EXTINF:-1 tvg-logo="https://internetvergelijken.org/wp-content/uploads/2021/04/ziggo-sport-select.png" group-title="Pay TV",NL:Sport1 Select HD
+ #EXTINF:-1 tvg-name="NL:Sport1 Select HD" tvg-logo="https://www.lyngsat.com/logo/tv/zz/ziggo_sport_nl_select.png" group-title="Pay TV",NL:Sport1 Select HD
  http://iptv.ndasat.xyz:88/220141376608919/220141376608919/54
- #EXTINF:-1 tvg-logo="https://internetvergelijken.org/wp-content/uploads/2021/04/ziggo-sport-voetbal.png" group-title="Pay TV",NL:Sport1 Voetbal
+ #EXTINF:-1 tvg-name="NL:Sport1 Voetbal" tvg-logo="https://www.lyngsat.com/logo/tv/zz/ziggo_sport_nl_voetbal.png" group-title="Pay TV",NL:Sport1 Voetbal
  http://iptv.ndasat.xyz:88/220141376608919/220141376608919/56
 
 ##############################################ANIMATION###################################################
