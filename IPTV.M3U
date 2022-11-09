@@ -36,9 +36,11 @@
  
  #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/playlist-iptv/iptv/main/logo/RTSH-sport.png" group-title="SPORTS",RTSH Sport
  http://95.107.132.105/out/u/638_1.m3u8 
- #EXTINF:-1 group-title="SPORTS",Sport TV
+ #EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="https://i.imgur.com/tGTVcVe.jpg" group-title="SPORTS",Sports TV (720p)
  https://live.sportstv.com.tr/hls/low/sportstv.m3u8
- #EXTINF:-1 group-title="SPORTS",FOX cricket 501
+ #EXTINF:-1 tvg-logo="https://i.imgur.com/tGTVcVe.jpg" group-title="SPORTS",Sport TV
+ https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+ #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-cricket-us-au.png" group-title="SPORTS",FOX cricket 501
  http://mains.vip:2086/live/craigg/1Lurn7m3F1/100783.m3u8
  #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/playlist-iptv/iptv/main/logo/viaplay-logo.png" group-title="SPORTS",viaplay | Xtra
  https://d3cq7cdp2cfi92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ff27mp9b8422-prod/hls-harvester2-1293-prod/us-east-1/cc-2ff27mp9b8422/master.m3u8
@@ -57,8 +59,7 @@
 
  #EXTINF:-1 tvg-id="PlutoTVSportsUK.uk" tvg-logo="https://images.pluto.tv/channels/5d7677fa2ec536ce1d587eeb/colorLogoPNG.png" group-title="SPORTS",Pluto TV Sports (England) (720p)
  http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7677fa2ec536ce1d587eeb/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d7677fa2ec536ce1d587eeb&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=607&terminate=false&userId=
- #EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="https://i.imgur.com/tGTVcVe.jpg" group-title="SPORTS",Sports TV (720p)
- https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+
  #EXTINF:-1 group-title="SPORTS",Tennis Channel 
  http://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8 
  #EXTINF:-1 tvg-id="SuperTennis.it" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/512px-SuperTennis_-_Logo_2016.svg.png" group-title="SPORTS",Super Tennis (1080p)
@@ -82,9 +83,9 @@
  
  #EXTINF:-1 group-title="SPORTS",Fuel TV 
  https://fueltv-fueltv-1-au.samsung.wurl.com/playlist_1280x720_3000k.m3u8 
- #EXTINF:-1 group-title="SPORTS",MMA Junkie HD 
+ #EXTINF:-1 tvg-logo="https://www.kibrispdr.org/data/728/mixed-martial-arts-logo-27.jpg" group-title="SPORTS",MMA Junkie HD 
  http://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8 
- #EXTINF:-1 group-title="SPORTS",UFC 
+ #EXTINF:-1 tvg-logo="https://www.steroidal.com/wp-content/uploads/2016/03/UFC-logo.png" group-title="SPORTS",UFC 
  https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8 
 
  
