@@ -129,9 +129,9 @@
  https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
  #EXTINF:-1 tvg-logo="https://cdn.ksa.my.id/bs.png" group-title="INDONESIA", BERITA SATU
  https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
- #EXTINF:-1 tvg-logo="https://cdn.ksa.my.id/bs.png" group-title="INDONESIA", BERITA SATU WORLD
+ #EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/bb/berita-satu-world-id.png" group-title="INDONESIA", BERITA SATU WORLD
  https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
- #EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/TV.jpg" group-title="INDONESIA", Jakarta Globe
+ #EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/jj/jakarta_globe_news_channel_id.png" group-title="INDONESIA", Jakarta Globe
  https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
  #EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/TVRI.jpg" group-title="INDONESIA",TVRI 
  http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
