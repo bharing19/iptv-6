@@ -37,7 +37,13 @@
  #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="SPORTS",DAZN LALIGA 🇪🇸
  http://w4.12all.tv:4000/play/beinlaliga/index.m3u8
 
- #EXTINF:-1 tvg-logo="https://www.alyuwm.com/wp-content/uploads/2019/12/bein-sport-hd-1060x580.jpg" group-title="SPORTS" ,beIN Sports 1
+ #EXTINF:-1 tvg-logo="https://www.alyuwm.com/wp-content/uploads/2019/12/bein-sport-hd-1060x580.jpg" group-title="SPORTS",beIN Sports 1 English HD 🇬🇧
+ http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test&v=697229347
+ #EXTINF:-1 tvg-logo="https://www.alyuwm.com/wp-content/uploads/2019/12/bein-sport-hd-1060x580.jpg" group-title="SPORTS",beIN Sports 1 English HD 🇬🇧
+ http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/548627.ts
+ #EXTINF:-1 tvg-logo="https://www.alyuwm.com/wp-content/uploads/2019/12/bein-sport-hd-1060x580.jpg" group-title="SPORTS",beIN Sports 1 English HD 🇬🇧
+ http://teeveetv.one:2052/live/syntax/MKlaiuUcj2/191858.ts
+ #EXTINF:-1 tvg-logo="https://www.alyuwm.com/wp-content/uploads/2019/12/bein-sport-hd-1060x580.jpg" group-title="SPORTS",beIN Sports 1
  http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test
  #EXTINF:-1 tvg-logo="https://www.alyuwm.com/wp-content/uploads/2019/12/bein-sport-hd-1060x580.jpg" group-title="SPORTS",beIN Sports 3 TRUEvision
  https://cdn.googlecdnforstreaming.live/dbf789/bein3/playlist.m3u8
