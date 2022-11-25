@@ -105,8 +105,8 @@
  
  #EXTINF:-1 group-title="SPORTS",Fuel TV 
  https://fueltv-fueltv-1-au.samsung.wurl.com/playlist_1280x720_3000k.m3u8 
- #EXTINF:-1 tvg-logo="https://www.kibrispdr.org/data/728/mixed-martial-arts-logo-27.jpg" group-title="SPORTS",MMA Junkie HD 
- http://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8 
+ #EXTINF:-1 tvg-logo="https://www.kibrispdr.org/data/728/mixed-martial-arts-logo-27.jpg" group-title="SPORTS", BBC Football
+ https://lisa.xonthebeach.net/live/bbconeuk_720p/index.m3u8
  #EXTINF:-1 tvg-logo="https://www.steroidal.com/wp-content/uploads/2016/03/UFC-logo.png" group-title="SPORTS",UFC 
  https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8 
 
