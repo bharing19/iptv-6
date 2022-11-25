@@ -110,7 +110,49 @@
  #EXTINF:-1 tvg-logo="https://www.steroidal.com/wp-content/uploads/2016/03/UFC-logo.png" group-title="SPORTS",UFC 
  https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8 
 
- 
+  #EXTINF:-1 tvg-logo="" group-title="World SPORTS",ELEVEN 1 HD  🇵🇹
+
+http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2531/index.m3u8
+
+ #EXTINF:-1 tvg-logo="" group-title="World SPORTS",ELEVEN 1 HD  🇵🇹
+
+http://user.scalecdn.co:8080/live/Oliverjones_212/e399551dc9/925.ts
+
+ #EXTINF:-1 tvg-logo="" group-title="World SPORTS",ELEVEN 2 HD  🇵🇹
+
+http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2532/index.m3u8
+
+ #EXTINF:-1 tvg-logo="" group-title="World SPORTS",ELEVEN 2 HD  🇵🇹
+
+http://user.scalecdn.co:8080/live/Oliverjones_212/e399551dc9/923.ts
+
+ #EXTINF:-1 tvg-logo="" group-title="World SPORTS",DIRECTV SPORT 🇦🇷
+
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/72239
+
+ #EXTINF:-1 tvg-logo="" group-title="World SPORTS",MATH 🇷🇺
+
+https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
+
+ #EXTINF:-1 tvg-logo="" group-title="World SPORTS",MATH 🇷🇺
+
+https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
+
+ #EXTINF:-1 tvg-logo="" group-title="World SPORTS",ELEVEN SPORT 1 🇵🇱
+
+http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/347
+
+ #EXTINF:-1 tvg-logo="" group-title="World SPORTS" ,ELEVEN SPORT 2 🇵🇱
+
+http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/3643
+
+ #EXTINF:-1 tvg-logo="" group-title="World SPORTS" ,ELEVEN SPORT 3 🇵🇱
+
+http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/3644
+
+#EXTINF:-1 tvg-logo="" group-title="World SPORTS" ,ELEVEN SPORT 4 🇵🇱
+
+http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/3645
  ##############################################INDONESIA###################################################
  #EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/RCTI_live_streaming_tv.jpg" group-title="INDONESIA",RCTI
  https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8
