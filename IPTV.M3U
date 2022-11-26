@@ -160,6 +160,23 @@ http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/17923
 
  #EXTINF:-1 tvg-logo="" group-title="World SPORTS",beIN Sports 2 English HD
 http://175.107.244.52:4457/play/a06z/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World SPORTS" ,beIN Sports 1 English HD 🇬🇧
+
+http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test&v=697229347
+
+#EXTINF:-1 tvg-logo="" group-title="World SPORTS",SKY SPORTS FOOTBALL
+
+http://dominoiptv.com:2082/Fauconcon/pzAXuZwFdAjy/104048
+
+#EXTINF:-1 tvg-logo="" group-title="World SPORTS",SKY SPORTS FOOTBALL [FHD]
+
+http://tvpanel.one:80/live/den9179/611carc/586763.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="World SPORTS",SKY SPORTS FOOTBALL [HD]
+
+http://tvpanel.one:80/live/den9179/611carc/586764.m3u8
+
+
  ##############################################INDONESIA###################################################
  #EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/RCTI_live_streaming_tv.jpg" group-title="INDONESIA",RCTI
  https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8
