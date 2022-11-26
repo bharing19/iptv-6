@@ -201,6 +201,10 @@ https://v-px.mybtv.net:443/live/39/768x432.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World SPORTS",Telemundo
 https://v-px.mybtv.net:443/live/39/768x432.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="World SPORTS",RTK 1
+
+http://146.59.19.1/5002/mpegts?
+
 
  ##############################################INDONESIA###################################################
  #EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/RCTI_live_streaming_tv.jpg" group-title="INDONESIA",RCTI
