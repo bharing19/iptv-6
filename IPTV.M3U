@@ -175,7 +175,31 @@ http://tvpanel.one:80/live/den9179/611carc/586763.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World SPORTS",SKY SPORTS FOOTBALL [HD]
 
 http://tvpanel.one:80/live/den9179/611carc/586764.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World SPORTS",SKY SPORTS PREMIER LEAGUE [HD]
 
+http://tvpanel.one:80/live/den9179/611carc/586762.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="World SPORTS",SKY SPORTS 🇲🇽 La Liga
+
+http://200.52.154.125:8000/play/a06t/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="World SPORTS",VIX+ 🇲🇽 La Liga
+
+http://200.52.154.125:8000/play/a06w/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="World SPORTS",SCTV 17 🇻🇳 WWE
+
+http://vtsstr4.sctv.vn:1935/live/SCTV17_HD_new.smil/CDAM.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="World SPORTS",TyC Sports 
+
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_10.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="World SPORTS",TSn NHL
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+
+https://cdn.raino.xyz/hls/stream1.m3u8|Referer=https://bdnewszh.com/
 
  ##############################################INDONESIA###################################################
  #EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/RCTI_live_streaming_tv.jpg" group-title="INDONESIA",RCTI
