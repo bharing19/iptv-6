@@ -201,9 +201,13 @@ https://v-px.mybtv.net:443/live/39/768x432.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World SPORTS",Telemundo
 https://v-px.mybtv.net:443/live/39/768x432.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="World SPORTS",RTK 1
+#EXTINF:-1 tvg-logo="" group-title="World SPORTS",TSn
+https://murthyneeraj231.s3.amazonaws.com/worldcup_720.m3u8
 
-http://146.59.19.1/5002/mpegts?
+#EXTINF:-1 tvg-logo="" group-title="World SPORTS",RTK 1
+http://91.187.110.91:5252/rtk1hd
+
+
 
 
  ##############################################INDONESIA###################################################
