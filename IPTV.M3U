@@ -286,6 +286,13 @@
  https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
  Story iklan tema 4:5 atau 1080 x 608
 
+ #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/K_Plus_Asia_Logo.jpg" group-title="INDONESIA",K+ (Indonesian subtitle)
+ http://210.210.155.37/uq2663/h/h08/index.m3u8
+ #EXTINF:-1 tvg-logo="https://i.imgur.com/qv8xVYP.png" group-title="INDONESIA",Usee Photo
+ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/index.m3u8
+ #EXTINF:-1 tvg-logo="https://i.imgur.com/fXc15Jf.png" group-title="INDONESIA",Usee Prime
+ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
+
  #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDONESIA",Biznet Adventure (720p)
  http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
  #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDONESIA",Biznet Kids (720p)
