@@ -188,6 +188,17 @@
  #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",RTK 1 FIFA World Cup ⚽️
  http://146.59.19.1/5002/mpegts?
 
+ #EXTINF:-1 PT" tvg-logo="http://66.118.247.56:5890/images/11fe3172828a2ba10986fec223874daa.png" group-title="WOLD SPORTS",SPORT TV 1 FHD PT
+ http://amazontv.me:8519/live/7173409/01514477/1070.m3u8
+ #EXTINF:-1 tvg-logo="http://66.118.247.56:5890/images/64ab6bfc8f9dd27edd4c80e9a5cf3123.png" group-title="WOLD SPORTS",SPORT TV 2 FHD PT
+ http://amazontv.me:8519/live/7173409/01514477/1072.m3u8
+ #EXTINF:-1 tvg-logo="http://66.118.247.56:5890/images/628da85a7b7b56e3df6e2473996de52c.png" group-title="WOLD SPORTS",SPORT TV 3 FHD PT
+ http://amazontv.me:8519/live/7173409/01514477/1074.m3u8
+ #EXTINF:-1 tvg-logo="http://66.118.247.56:5890/images/69525b1dc20102b2af195a151a90d07c.png" group-title="WOLD SPORTS",SPORT TV 4 FHD PT
+ http://amazontv.me:8519/live/7173409/01514477/1076.m3u8
+ #EXTINF:-1 tvg-logo="http://66.118.247.56:5890/images/70ef5c8dfbad002e920e2bebee58ebdb.png" group-title="WOLD SPORTS",SPORT TV 5 FHD PT
+ http://amazontv.me:8519/live/7173409/01514477/1078.m3u8
+
  ##############################################INDONESIA###################################################
  #EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/RCTI_live_streaming_tv.jpg" group-title="INDONESIA",RCTI
  https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8
