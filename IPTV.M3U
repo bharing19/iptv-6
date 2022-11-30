@@ -188,6 +188,11 @@
  #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",RTK 1 FIFA World Cup ⚽️
  http://146.59.19.1/5002/mpegts?
 
+ #EXTINF:-1 tvg-logo="http://66.118.247.56:5890/images/979b0cecbeda4f83378af12fedbc317c.png" group-title="WOLD SPORTS",EUROSPORT1 PT
+ http://amazontv.me:8519/live/7173409/01514477/1093.m3u8
+ #EXTINF:-1 tvg-logo="http://66.118.247.56:5890/images/961476efe0727148f6ca4a9580eff6ea.png" group-title="WOLD SPORTS",EUROSPORT 2 PT
+ http://amazontv.me:8519/live/7173409/01514477/1094.m3u8
+
  #EXTINF:-1 PT" tvg-logo="http://66.118.247.56:5890/images/11fe3172828a2ba10986fec223874daa.png" group-title="WOLD SPORTS",SPORT TV 1 FHD PT
  http://amazontv.me:8519/live/7173409/01514477/1070.m3u8
  #EXTINF:-1 tvg-logo="http://66.118.247.56:5890/images/64ab6bfc8f9dd27edd4c80e9a5cf3123.png" group-title="WOLD SPORTS",SPORT TV 2 FHD PT
@@ -198,6 +203,13 @@
  http://amazontv.me:8519/live/7173409/01514477/1076.m3u8
  #EXTINF:-1 tvg-logo="http://66.118.247.56:5890/images/70ef5c8dfbad002e920e2bebee58ebdb.png" group-title="WOLD SPORTS",SPORT TV 5 FHD PT
  http://amazontv.me:8519/live/7173409/01514477/1078.m3u8
+
+ #EXTINF:-1 tvg-logo="http://66.118.247.56:5890/images/3aff257a92d8aec877a0f5471b365e45.png" group-title="WOLD SPORTS",beIN SPORTS 1 ENGLISH FHD
+ http://amazontv.me:8519/live/7173409/01514477/29.m3u8
+ #EXTINF:-1 tvg-logo="http://66.118.247.56:5890/images/a733f8868555620556c53ff670fcb934.png" group-title="WOLD SPORTS",beIN SPORTS 2 ENGLISH FHD
+ http://amazontv.me:8519/live/7173409/01514477/30.m3u8
+ #EXTINF:-1 tvg-logo="http://66.118.247.56:5890/images/3cd654390ee5de1de9c71c3c0e44f9db.png" group-title="WOLD SPORTS",beIN SPORTS 3 ENGLISH  FHD
+ http://amazontv.me:8519/live/7173409/01514477/31.m3u8
 
  ##############################################INDONESIA###################################################
  #EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/RCTI_live_streaming_tv.jpg" group-title="INDONESIA",RCTI
