@@ -128,6 +128,9 @@
  #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS" ,X SPORT 🇷🇺
  http://iptv.prosto.tv:7000/ch109/video.m3u8
 
+ #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS" ,ESPN
+ https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
+
  #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",beIN Sports 2 English HD
  http://175.107.244.52:4457/play/a06z/index.m3u8
 
