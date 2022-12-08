@@ -318,6 +318,8 @@
  http://iptv12k.com:35461/80203091402/213445/2121
  #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIE",[ID] HBO Family id 8k
  http://iptv12k.com:35461/80203091402/213445/2120
+ #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIE",[ID] HBO Family
+ http://iptv12k.com:35461/80203091402/213445/1746
  #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIE",[ID] HBO Signature id 8k
  http://iptv12k.com:35461/80203091402/213445/2118
 
