@@ -179,7 +179,9 @@
 
  ##############################################INDONESIA###################################################
  #EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/RCTI_live_streaming_tv.jpg" group-title="INDONESIA",RCTI
- https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8
+ http://iptv12k.com:35461/80203091402/213445/2185
+ #EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/RCTI_live_streaming_tv.jpg" group-title="INDONESIA",RCTI
+ http://iptv12k.com:35461/80203091402/213445/1812
 
  #EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/MOJI-TV-live-streaming-tv1.jpg" group-title="INDONESIA",Moji TV 
  http://210.210.155.37/qwr9ew/s/s41/index.m3u8
