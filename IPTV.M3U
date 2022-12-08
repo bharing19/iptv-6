@@ -97,7 +97,9 @@
  https://fueltv-fueltv-1-au.samsung.wurl.com/playlist_1280x720_3000k.m3u8 
  #EXTINF:-1 tvg-logo="https://www.steroidal.com/wp-content/uploads/2016/03/UFC-logo.png" group-title="SPORTS",UFC 
  https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
-
+ 
+ #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wwe-channel-za.png" group-title="SPORTS",WWE Network my2
+ http://iptv12k.com:35461/80203091402/213445/13546
  #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wwe-channel-za.png" group-title="SPORTS",WWE Network SPORTS
  http://iptv12k.com:35461/80203091402/213445/993
 
