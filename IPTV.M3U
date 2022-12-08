@@ -7,8 +7,6 @@
  https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
  #EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_spotv2.png" group-title="SPORTS",SPOTV HD 2  
  https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8
- #EXTINF:-1 tvg-id="SPOTV2.kr" tvg-logo="https://i.imgur.com/xeATohI.png" group-title="SPORTS",SPOTV2 (1080p)
- https://allanf181.github.io/adaptive-streams/streams/kr/SpoTV2.m3u8
  #EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/f88885254c175ec4f08fa0bcfdd43d52.png" group-title="SPORTS",RUS: Match Football 1 
  http://hez1-flu.iptvstream.site/135/index.m3u8
  #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/playlist-iptv/iptv/main/logo/setanta-s-1hd.png" group-title="SPORTS",SETANTA 1 HD 
@@ -97,8 +95,6 @@
  
  #EXTINF:-1 group-title="SPORTS",Fuel TV 
  https://fueltv-fueltv-1-au.samsung.wurl.com/playlist_1280x720_3000k.m3u8 
- #EXTINF:-1 tvg-logo="https://www.kibrispdr.org/data/728/mixed-martial-arts-logo-27.jpg" group-title="SPORTS", BBC Football
- https://lisa.xonthebeach.net/live/bbconeuk_720p/index.m3u8
  #EXTINF:-1 tvg-logo="https://www.steroidal.com/wp-content/uploads/2016/03/UFC-logo.png" group-title="SPORTS",UFC 
  https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
 
@@ -117,9 +113,6 @@
  #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",RTP 1  🇵🇹
  http://194.44.48.82:8002/play/a08d
 
- #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",DIRECTV SPORT 🇦🇷
- http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/72239
-
  #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",Star Sports Select 1 HD 🇮🇳
  http://watchindia.net:8880/live/vvv/vvv/2292.m3u8
  #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",Star Sports Select 2 HD 🇮🇳
@@ -127,9 +120,6 @@
 
  #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS" ,X SPORT 🇷🇺
  http://iptv.prosto.tv:7000/ch109/video.m3u8
-
- #EXTINF:-1 group-title="WOLD SPORTS" ,ESPN
- https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 
  #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",beIN Sports 2 English HD
  http://175.107.244.52:4457/play/a06z/index.m3u8
@@ -140,8 +130,6 @@
  #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS" ,beIN Sports MAX 2 HD
  http://red.ipfox.org:8080/live/Karam2022/Karam2023/52346.m3u8
 
- #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS" ,Bein Sports
- http://51.79.82.208:16064
  #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS" ,Bein Sports 3
  http://51.79.82.208:16065
  #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS" ,BEIN SPORT 3 🇬🇧
@@ -318,9 +306,6 @@
  #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="ANIMAL",RS: Animal Planet HD
  http://190.83.119.67:8000/play/a0q4/index.m3u8
 
- #EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/animal_planet_us.png" group-title="ANIMAL",|UK| ANIMAL PLANET
- http://xtv.ooo:8080/85968596/85968596/222785
-
  #EXTINF:-1 group-title="ANIMAL",Wild EARTH
  https://wildearth-roku.amagi.tv/masterR720P.m3u8
  #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19763563_ico.png?ts=1654806694" group-title="ANIMAL",IN WILD 
@@ -328,15 +313,12 @@
  #EXTINF:-1 tvg-id="HorseCountryTV.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Horseandcountry.PNG" group-title="ANIMAL",Horse & Country TV (1080p)
  https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
 
- #EXTINF:-1 tvg-logo="https://i.imgur.com/m3jRPof.png" group-title="ANIMAL",Love nature(BD)
- http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
  #EXTINF:-1 tvg-id="LoveNature4K.ca" tvg-logo="https://i.imgur.com/m3jRPof.png" group-title="ANIMAL",Love Nature 4K
  https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
  #EXTINF:-1 tvg-id="LoveNature.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png" group-title="ANIMAL",Love Nature (1080p)
  http://bamus-eng-roku.amagi.tv/playlist.m3u8
 
- #EXTINF:-1 tvg-id="" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/bltb306607710950a04/5ece441bca91024f9da7d7ad/Nature.jpg" group-title="ANIMAL",|UK| SKY NATURE HD
- http://xtv.ooo:8080/85968596/85968596/222772
+ #EXTINF:-1 tvg-id="" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/bltb306607710950a04/5ece441bca91024f9da7d7ad/Nature.jpg" 
 
  #EXTINF:-1 tvg-id="ItalianFishingTV.it" tvg-logo="https://i.imgur.com/7XNQ494.png" group-title="ANIMAL",Italian Fishing TV
  https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8
@@ -373,15 +355,10 @@
  http://iptv.ndasat.xyz:88/220141376608919/220141376608919/486
  #EXTINF:-1 tvg-id="discoveryturbo.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="DOCUMENTARY",IND: Discovery_Turbo
  http://xtv.ooo:8080/85968596/85968596/206292
- #EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/discovery_global_us.png" group-title="DOCUMENTARY",|UK| DISCOVERY CHANNEL
- http://xtv.ooo:8080/85968596/85968596/222774
-
 
 ##############################################MOVIE###################################################
  #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIE",(Celestial Classic Movies) (Indonesian Subtitle) (576p)
  http://210.210.155.37/qwr9ew/s/s31/index.m3u8
- #EXTINF:-1 tvg-id="" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_bioskop.png" group-title="MOVIE",ID: Zeebioskop
- http://xtv.ooo:8080/85968596/85968596/228328
 
 ##############################################Pay TV###################################################
  #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Animal_Planet_HD.svg/1280px-Animal_Planet_HD.svg.png" group-title="Pay TV",My: Animal Planet HD
@@ -445,7 +422,6 @@
  http://iptv.ndasat.xyz:88/220141376608919/220141376608919/70
  #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-3-qa-fr.png" group-title="Pay TV",FR:Bein Sport 3 HD
  http://iptv.ndasat.xyz:88/220141376608919/220141376608919/71
-
 
 ##############################################ANIMATION###################################################
  #EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="ANIMATION",Nick
