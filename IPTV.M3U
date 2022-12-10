@@ -94,6 +94,8 @@
  
  #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wwe-channel-za.png" group-title="SPORTS",my| WWE Network
  http://iptv12k.com:35461/80203091402/213445/13546
+ #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wwe-channel-za.png" group-title="SPORTS",|UK| WWE LIVE FHD
+ http://luxe-tv.biz:8080/live/123123123588/vozd0qr675/64491.m3u8
 
 ##############################################WORLD SPORTS###################################################
  #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",SPORT TV 1 HD  🇵🇹
@@ -167,6 +169,27 @@
  http://iptv12k.com:35461/80203091402/213445/1946
  #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",IN: STAR SPORTS SELECT 2 HD
  http://iptv12k.com:35461/80203091402/213445/1945
+
+ #EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/DAZNT-CHANNELS/DAZN-Sport-1.png" group-title="WOLD SPORTS",|DE| DAZN 1HD
+ http://luxe-tv.biz:8080/live/123123123588/vozd0qr675/480777.m3u8
+ #EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/DAZNT-CHANNELS/DAZN-Sport-2.png" group-title="WOLD SPORTS",|DE| DAZN 2HD
+ http://luxe-tv.biz:8080/live/123123123588/vozd0qr675/480780.m3u8
+
+ #EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/DAZNT-CHANNELS/DAZN-WEB.png" group-title="WOLD SPORTS",|ES| Dazn F1 HD
+ http://luxe-tv.biz:8080/live/123123123588/vozd0qr675/255216.m3u8
+
+ #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",|ES| DAZNT LA LIGA HD
+ http://luxe-tv.biz:8080/live/123123123588/vozd0qr675/627916.m3u8
+
+ #EXTINF:-1 tvg-logo="http://103.161.34.238/LOGO%20DREAMTV%204K/SKYFOOTBALL.jpg" group-title="WOLD SPORTS",|IT| Sky Sport Football HD
+ http://luxe-tv.biz:8080/live/123123123588/vozd0qr675/51307.m3u8
+ #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Sky_Sport_MotoGP_-_Logo_2020.svg/1280px-Sky_Sport_MotoGP_-_Logo_2020.svg.png" group-title="WOLD SPORTS",|IT| Sky Sport MotoGP HD
+ http://luxe-tv.biz:8080/live/123123123588/vozd0qr675/288503.m3u8
+ #EXTINF:-1 tvg-logo="http://103.161.34.238/LOGO%20DREAMTV%204K/SKYSPORTSERIEA.png" group-title="WOLD SPORTS",|IT| Sky Sport Serie A HD
+ http://luxe-tv.biz:8080/live/123123123588/vozd0qr675/51119.m3u8
+ #EXTINF:-1 tvg-logo="http://103.161.34.238/LOGO%20DREAMTV%204K/SKYFORMULA1.png" group-title="WOLD SPORTS",|IT| Sky Sport F1 HD
+ http://luxe-tv.biz:8080/live/123123123588/vozd0qr675/51111.m3u8
+
 
  ##############################################INDONESIA###################################################
  #EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/RCTI_live_streaming_tv.jpg" group-title="INDONESIA",RCTI
