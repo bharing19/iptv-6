@@ -7,8 +7,6 @@
  https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
  #EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_spotv2.png" group-title="SPORTS",SPOTV HD 2  
  https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8
- #EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/f88885254c175ec4f08fa0bcfdd43d52.png" group-title="SPORTS",RUS: Match Football 1 
- http://hez1-flu.iptvstream.site/135/index.m3u8
  #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/playlist-iptv/iptv/main/logo/setanta-s-1hd.png" group-title="SPORTS",SETANTA 1 HD 
  http://hez1-flu.iptvstream.site/158/index.m3u8
  #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/playlist-iptv/iptv/main/logo/setanta-s-2hd.png" group-title="SPORTS",SETANTA 2 HD 
@@ -24,8 +22,6 @@
  http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sl4PR2-6eZEHuOmWnlPbYOc
  #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-de.png" group-title="SPORTS",DAZN 2 🇩🇪
  http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/2387
- #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="SPORTS",DAZN LALIGA 🇪🇸
- http://w4.12all.tv:4000/play/beinlaliga/index.m3u8
 
  #EXTINF:-1 tvg-logo="https://www.alyuwm.com/wp-content/uploads/2019/12/bein-sport-hd-1060x580.jpg" group-title="SPORTS",beIN Sports 1 English HD 🇬🇧
  http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test&v=697229347
@@ -39,16 +35,14 @@
  https://cdn.googlecdnforstreaming.live/dbf789/bein3/playlist.m3u8
  #EXTINF:-1 tvg-logo="https://www.alyuwm.com/wp-content/uploads/2019/12/bein-sport-hd-1060x580.jpg" group-title="SPORTS",beIN Sports 2 MAX
  http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/19063/index.m3u8
- #EXTINF:-1 tvg-id="" tvg-logo="https://www.alyuwm.com/wp-content/uploads/2019/12/bein-sport-hd-1060x580.jpg" group-title="SPORTS",Pluto TV SPORT : BeIN Sports Xtra (720p)
+ #EXTINF:-1 tvg-id="" tvg-logo="https://www.alyuwm.com/wp-content/uploads/2019/12/bein-sport-hd-1060x580.jpg" group-title="SPORTS",Pluto TV SPORT : BeIN Sports Xtra 
  https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.44&includeExtendedEvents=false&serverSideAds=tr&sid=855d6801-c912-428d-b620-ede4dd0c3b15&userId=
  #EXTINF:-1 tvg-logo="https://www.alyuwm.com/wp-content/uploads/2019/12/bein-sport-hd-1060x580.jpg" group-title="SPORTS",beIN SPORT XTRA 
  https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8 
  
- #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/playlist-iptv/iptv/main/logo/RTSH-sport.png" group-title="SPORTS",RTSH Sport
- http://95.107.132.105/out/u/638_1.m3u8 
  #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/ten_sports_in_pakistan.png" group-title="SPORTS",PK: TEN Sports
  http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/4347
- #EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="https://i.imgur.com/tGTVcVe.jpg" group-title="SPORTS",Sports TV (720p)
+ #EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="https://i.imgur.com/tGTVcVe.jpg" group-title="SPORTS",Sports TV 
  https://live.sportstv.com.tr/hls/low/sportstv.m3u8
  #EXTINF:-1 tvg-logo="https://i.imgur.com/tGTVcVe.jpg" group-title="SPORTS",Sport TV
  https://live.sportstv.com.tr/hls/low/sportstv.m3u8
@@ -60,16 +54,16 @@
  http://destiny4k.com:2086/live/darkside/t2z7marsRY/54457.ts
  #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/playlist-iptv/iptv/main/logo/espn.png" group-title="SPORTS", ESPN Vivo 🇦🇷  
  http://38.143.137.221:8000/LA81/index.m3u8
- #EXTINF:-1 tvg-id="Stadium.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Stadium_%28sports_network%29_logo.svg/512px-Stadium_%28sports_network%29_logo.svg.png" group-title="SPORTS",Stadium (720p)
+ #EXTINF:-1 tvg-id="Stadium.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Stadium_%28sports_network%29_logo.svg/512px-Stadium_%28sports_network%29_logo.svg.png" group-title="SPORTS",Stadium 
  https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
  #EXTINF:-1 tvg-id="FightNetwork.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/512px-Fight_network_logo.svg.png" group-title="SPORTS",Fight Network (1080p)
  https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
  #EXTINF:-1 tvg-id="FightSports.us" tvg-logo="https://i.imgur.com/nV55veq.png" group-title="SPORTS",FIGHT SPORTS (1080p)
  https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
- #EXTINF:-1 tvg-id="FightingSpirit.us" tvg-logo="https://i.imgur.com/OeVsflz.png" group-title="SPORTS",Fighting Spirit (720p)
+ #EXTINF:-1 tvg-id="FightingSpirit.us" tvg-logo="https://i.imgur.com/OeVsflz.png" group-title="SPORTS",Fighting Spirit 
  https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8
 
- #EXTINF:-1 tvg-id="PlutoTVSportsUK.uk" tvg-logo="https://images.pluto.tv/channels/5d7677fa2ec536ce1d587eeb/colorLogoPNG.png" group-title="SPORTS",Pluto TV Sports (England) (720p)
+ #EXTINF:-1 tvg-id="PlutoTVSportsUK.uk" tvg-logo="https://images.pluto.tv/channels/5d7677fa2ec536ce1d587eeb/colorLogoPNG.png" group-title="SPORTS",Pluto TV Sports (England) 
  http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7677fa2ec536ce1d587eeb/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d7677fa2ec536ce1d587eeb&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=607&terminate=false&userId=
 
  #EXTINF:-1 group-title="SPORTS",Tennis Channel 
@@ -88,7 +82,7 @@
  #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/red-bul-tv-at.png" group-title="SPORTS",Red Bull HD 
  https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
 
- #EXTINF:-1 group-title="SPORTS",Stadium (720p) 
+ #EXTINF:-1 group-title="SPORTS",Stadium  
  https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8 
  #EXTINF:-1 group-title="SPORTS",A21 Network 
  https://tv.a21network.ru/stream/37909/index.m3u8 
@@ -98,11 +92,8 @@
  #EXTINF:-1 tvg-logo="https://www.steroidal.com/wp-content/uploads/2016/03/UFC-logo.png" group-title="SPORTS",UFC 
  https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
  
- #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wwe-channel-za.png" group-title="SPORTS",WWE Network my2
+ #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wwe-channel-za.png" group-title="SPORTS",my| WWE Network
  http://iptv12k.com:35461/80203091402/213445/13546
- #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wwe-channel-za.png" group-title="SPORTS",WWE Network SPORTS
- http://iptv12k.com:35461/80203091402/213445/993
-
 
 ##############################################WORLD SPORTS###################################################
  #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",SPORT TV 1 HD  🇵🇹
@@ -189,7 +180,7 @@
  http://210.210.155.37/qwr9ew/s/s03/index.m3u8
  #EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/INDOSIAR_live_streaming_tv.jpg" group-title="INDONESIA",INDOSIAR
  http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
- #EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/KOMPAS_TV_live_streaming_tv.jpg" group-title="INDONESIA",Kompas TV (720p)
+ #EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/KOMPAS_TV_live_streaming_tv.jpg" group-title="INDONESIA",Kompas TV 
  https://live-kg.jixie.media/live/kompastv_lhd.m3u8
  #EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/NET.jpg" group-title="INDONESIA",NET TV 
  http://210.210.155.35/qwr9ew/s/s08/01.m3u8
@@ -223,13 +214,13 @@
  #EXTINF:-1 tvg-logo="https://i.imgur.com/fXc15Jf.png" group-title="INDONESIA",Usee Prime
  https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
 
- #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDONESIA",Biznet Adventure (720p)
+ #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDONESIA",Biznet Adventure 
  http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
- #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDONESIA",Biznet Adventure (720p)
+ #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDONESIA",Biznet Adventure 
  http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=iJYiwvsAhKLgYjtMcoxVp1GZg1XW_wNcrvg-lcNq6Vdy&bizkeylivestarttime=0
- #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDONESIA",Biznet Kids (720p)
+ #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDONESIA",Biznet Kids 
  http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC&bizkeylivestarttime=0
- #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDONESIA",Biznet Lifestyle (720p)
+ #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDONESIA",Biznet Lifestyle 
  http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=jgDKPclcGdZfvrIDxfMdpT7v_srMWCbubntGo9cCYWpcBBQalMlLQxHswm43PbVR&bizkeylivestarttime=0
  
  #EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/CNN.jpg" group-title="INDONESIA", CNN Indonesia
@@ -248,7 +239,7 @@
  http://ott.TVri.co.id/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8 
 
 ##############################################ANIMAL###################################################
- #EXTINF:-1 tvg-id="PlutoTVAnimalsUK.uk" tvg-logo="https://images.pluto.tv/channels/5ddf8ea0d000120009bcad83/colorLogoPNG.png" group-title="ANIMAL",Pluto TV Animals (England) (720p)
+ #EXTINF:-1 tvg-id="PlutoTVAnimalsUK.uk" tvg-logo="https://images.pluto.tv/channels/5ddf8ea0d000120009bcad83/colorLogoPNG.png" group-title="ANIMAL",Pluto TV Animals (England) 
  http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf8ea0d000120009bcad83/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf8ea0d000120009bcad83&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=550&terminate=false&userId=
 
  #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="ANIMAL",RS: Animal Planet HD
@@ -272,11 +263,11 @@
  https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8
  #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ANIMAL",Real Wild
  https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
- #EXTINF:-1 tvg-id="OutdoorAmerica.us" tvg-logo="https://i.imgur.com/ldh9sFG.png" group-title="ANIMAL",Outdoor America (720p) 
+ #EXTINF:-1 tvg-id="OutdoorAmerica.us" tvg-logo="https://i.imgur.com/ldh9sFG.png" group-title="ANIMAL",Outdoor America  
  https://d18toqrnfyz3v1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/OutdoorAmerica-PLEX/159.m3u8
  #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ANIMAL",Outdoor Channel
  https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
- #EXTINF:-1 tvg-id="OutsideTV.us" tvg-logo="https://i.imgur.com/7WF7ca4.png" group-title="ANIMAL",Outside TV (720p)
+ #EXTINF:-1 tvg-id="OutsideTV.us" tvg-logo="https://i.imgur.com/7WF7ca4.png" group-title="ANIMAL",Outside TV 
  https://outside-tv-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
  #EXTINF:-1 tvg-id="OutsideTV.us" tvg-logo="https://i.imgur.com/7WF7ca4.png" group-title="ANIMAL",Outside TV (1080p)
  https://outsidetv-roku-us.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetv/CDN/playlist.m3u8
@@ -291,7 +282,7 @@
 
 
 ##############################################DOCUMENTARY###################################################
- #EXTINF:-1 tvg-id="HistoryEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="DOCUMENTARY",History East (720p)
+ #EXTINF:-1 tvg-id="HistoryEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="DOCUMENTARY",History East 
  https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
  #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png" group-title="DOCUMENTARY",Discovery HD(BD3)
  https://tv.googledrivelinks.com/live.php?c=Discovery_Channel_Bengali&q=1200&e=.m3u8
@@ -299,10 +290,6 @@
  http://xtv.ooo:8080/85968596/85968596/229595
  #EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nat_geo_us.png" group-title="DOCUMENTARY",ID: National Geographic HD
  http://xtv.ooo:8080/85968596/85968596/228275
- #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="DOCUMENTARY",FR:National Geographic HD
- http://iptv.ndasat.xyz:88/220141376608919/220141376608919/486
- #EXTINF:-1 tvg-id="discoveryturbo.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="DOCUMENTARY",IND: Discovery_Turbo
- http://xtv.ooo:8080/85968596/85968596/206292
 
 ##############################################MOVIE###################################################
  #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIE",(Celestial Classic Movies) (Indonesian Subtitle)
@@ -345,10 +332,6 @@
  #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="Pay TV",FR:National Geographic HD
  http://iptv.ndasat.xyz:88/220141376608919/220141376608919/486
  
- #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_sports_in_1_hindi.png" group-title="Pay TV",IN:Star Sports 1
- http://iptv.ndasat.xyz:88/220141376608919/220141376608919/1877
- #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_sports_in_2.png" group-title="Pay TV",IN:Star Sports 2
- http://iptv.ndasat.xyz:88/220141376608919/220141376608919/1878
  #EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="Pay TV",Star Sport 1 HINDI (4K)
  http://xtv.ooo:8080/85968596/85968596/109986
  #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_sports_hk_select_hd_1.png" group-title="Pay TV",Star Sports Select 1 (4K)
@@ -376,27 +359,14 @@
  #EXTINF:-1 group-title="Pay TV",SUPERSPORT LALIGA 🇬🇧
  http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/194358
 
- #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_1.png" group-title="Pay TV",FR:Eurosport
- http://iptv.ndasat.xyz:88/220141376608919/220141376608919/572
- #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_2.png" group-title="Pay TV",FR:Eurosport 2
- http://iptv.ndasat.xyz:88/220141376608919/220141376608919/287
-
- #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="Pay TV",FR:Bein Sport 1 HD
- http://iptv.ndasat.xyz:88/220141376608919/220141376608919/7731
- #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-2-qa-fr.png" group-title="Pay TV",FR:Bein Sport 2 HD
- http://iptv.ndasat.xyz:88/220141376608919/220141376608919/70
- #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-3-qa-fr.png" group-title="Pay TV",FR:Bein Sport 3 HD
- http://iptv.ndasat.xyz:88/220141376608919/220141376608919/71
-
-
 ##############################################ANIMATION###################################################
  #EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="ANIMATION",Nick
  https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
  #EXTINF:-1 tvg-id="AniplusAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Aniplus_Asia_Logo.png/512px-Aniplus_Asia_Logo.png" group-title="ANIMATION",Aniplus (Indonesian subtitle)
  http://210.210.155.37/dr9445/h/h02/index.m3u8
 
- #EXTINF:-1 tvg-id="PlutoTVAnimeAllAges.us" tvg-logo="https://images.pluto.tv/channels/5be4c6311843b56328bce619/colorLogoPNG.png" group-title="ANIMATION",Pluto TV Anime All Ages (720p)
+ #EXTINF:-1 tvg-id="PlutoTVAnimeAllAges.us" tvg-logo="https://images.pluto.tv/channels/5be4c6311843b56328bce619/colorLogoPNG.png" group-title="ANIMATION",Pluto TV Anime All Ages 
  http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311843b56328bce619/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
- #EXTINF:-1 tvg-id="AnimeAllDay.us" tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="ANIMATION",Pluto TV Anime All Day (720p)
+ #EXTINF:-1 tvg-id="AnimeAllDay.us" tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="ANIMATION",Pluto TV Anime All Day 
  https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5812b7d3249444e05d09cc49&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=830&terminate=false&userId=
  e
