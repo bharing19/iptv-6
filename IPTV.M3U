@@ -91,6 +91,9 @@
  https://fueltv-fueltv-1-au.samsung.wurl.com/playlist_1280x720_3000k.m3u8 
  #EXTINF:-1 tvg-logo="https://www.steroidal.com/wp-content/uploads/2016/03/UFC-logo.png" group-title="SPORTS",UFC 
  https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
+
+ #EXTINF:-1 group-title="SPORTS",UK: UFC Fight Pass
+ http://iptv12k.com:35461/80203091402/213445/5401
  
  #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wwe-channel-za.png" group-title="SPORTS",my| WWE Network
  http://iptv12k.com:35461/80203091402/213445/13546
@@ -111,6 +114,9 @@
  #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",RTP 1  🇵🇹
  http://194.44.48.82:8002/play/a08d
 
+ #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS" ,X SPORT 🇷🇺
+ http://iptv.prosto.tv:7000/ch109/video.m3u8
+
  #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 1 HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="WORLD SPORTS",|AR| beIN SPORTS MAX 1 HD 
  http://zaintv.live:8080/live/king/1234/122080.m3u8
  #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 1 FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="WORLD SPORTS",|AR| beIN SPORTS MAX 1 FHD 
@@ -123,9 +129,6 @@
 
  #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 3 HD Backup 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="WORLD SPORTS",|AR| beIN SPORTS MAX 3 FHD 
  http://zaintv.live:8080/live/king/1234/122088.m3u8
-
- #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS" ,X SPORT 🇷🇺
- http://iptv.prosto.tv:7000/ch109/video.m3u8
 
  #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",beIN Sports 2 English HD
  http://175.107.244.52:4457/play/a06z/index.m3u8
