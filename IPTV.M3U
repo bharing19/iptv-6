@@ -111,10 +111,18 @@
  #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",RTP 1  🇵🇹
  http://194.44.48.82:8002/play/a08d
 
- #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",Star Sports Select 1 HD 🇮🇳
- http://watchindia.net:8880/live/vvv/vvv/2292.m3u8
- #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",Star Sports Select 2 HD 🇮🇳
- http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/17923
+ #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 1 HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="WORLD SPORTS",|AR| beIN SPORTS MAX 1 HD 
+ http://zaintv.live:8080/live/king/1234/122080.m3u8
+ #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 1 FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="WORLD SPORTS",|AR| beIN SPORTS MAX 1 FHD 
+ http://zaintv.live:8080/live/king/1234/122081.m3u8
+
+ #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 2 HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="WORLD SPORTS",|AR| beIN SPORTS MAX 2 HD 
+ http://zaintv.live:8080/live/king/1234/122084.m3u8
+ #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 2 FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="WORLD SPORTS",|AR| beIN SPORTS MAX 2 FHD 
+ http://zaintv.live:8080/live/king/1234/122085.m3u8
+
+ #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 3 HD Backup 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="WORLD SPORTS",|AR| beIN SPORTS MAX 3 FHD 
+ http://zaintv.live:8080/live/king/1234/122088.m3u8
 
  #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS" ,X SPORT 🇷🇺
  http://iptv.prosto.tv:7000/ch109/video.m3u8
