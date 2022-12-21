@@ -75,21 +75,12 @@
  #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS" ,X SPORT 🇷🇺
  http://iptv.prosto.tv:7000/ch109/video.m3u8
 
- #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 1 HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="WORLD SPORTS",|AR| beIN SPORTS MAX 1 HD 
- http://zaintv.live:8080/live/king/1234/122080.m3u8
- #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 1 FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="WORLD SPORTS",|AR| beIN SPORTS MAX 1 FHD 
- http://zaintv.live:8080/live/king/1234/122081.m3u8
-
- #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 2 HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="WORLD SPORTS",|AR| beIN SPORTS MAX 2 HD 
- http://zaintv.live:8080/live/king/1234/122084.m3u8
- #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 2 FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="WORLD SPORTS",|AR| beIN SPORTS MAX 2 FHD 
- http://zaintv.live:8080/live/king/1234/122085.m3u8
-
- #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 3 HD Backup 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="WORLD SPORTS",|AR| beIN SPORTS MAX 3 FHD 
- http://zaintv.live:8080/live/king/1234/122088.m3u8
-
- #EXTINF:-1 tvg-id="" tvg-name="|ES| BEIN SPORTS ES WORLD CUP HD" tvg-logo="" group-title="WORLD SPORTS",|ES| BEIN SPORTS ES WORLD CUP HD
- http://luxe-tv.biz:8080/live/123123123588/vozd0qr675/649375.m3u8
+ #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",BEIN SPORTS PREMIUM 1 HD 🇶🇦
+ http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
+ #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",BEIN SPORTS PREMIUM 2 HD 🇶🇦
+ http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=697229347
+ #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",BEIN SPORTS PREMIUM 3 HD 🇶🇦
+ http://62.182.82.104/L_3_PREMIUM/index.m3u8?token=test&v=697229347
 
  #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",beIN Sports 2 English HD
  http://175.107.244.52:4457/play/a06z/index.m3u8
@@ -99,9 +90,7 @@
 
  #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS" ,beIN Sports MAX 2 HD
  http://red.ipfox.org:8080/live/Karam2022/Karam2023/52346.m3u8
-
- #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS" ,Bein Sports 3
- http://51.79.82.208:16065
+ 
  #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS" ,BEIN SPORT 3 🇬🇧
  http://175.107.244.52:4457/play/a06x/index.m3u8
 
