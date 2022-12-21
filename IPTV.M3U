@@ -10,32 +10,20 @@
 
  #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-de.png" group-title="SPORTS",DAZN 1 🇩🇪
  http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Skt1rOuXiWgbEjjEVWWdA4I
- #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-de.png" group-title="SPORTS",DAZN 1 🇩🇪
- http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/48355
  #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-de.png" group-title="SPORTS",DAZN 2 🇩🇪
  http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sl4PR2-6eZEHuOmWnlPbYOc
- #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-de.png" group-title="SPORTS",DAZN 2 🇩🇪
- http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/2387
 
  #EXTINF:-1 tvg-logo="https://www.alyuwm.com/wp-content/uploads/2019/12/bein-sport-hd-1060x580.jpg" group-title="SPORTS",beIN Sports 1 English HD 🇬🇧
  http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test&v=697229347
  #EXTINF:-1 tvg-logo="https://www.alyuwm.com/wp-content/uploads/2019/12/bein-sport-hd-1060x580.jpg" group-title="SPORTS",beIN Sports 1 English HD 🇬🇧
  http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/548627.ts
- #EXTINF:-1 tvg-logo="https://www.alyuwm.com/wp-content/uploads/2019/12/bein-sport-hd-1060x580.jpg" group-title="SPORTS",beIN Sports 1 English HD 🇬🇧
- http://teeveetv.one:2052/live/syntax/MKlaiuUcj2/191858.ts
  #EXTINF:-1 tvg-logo="https://www.alyuwm.com/wp-content/uploads/2019/12/bein-sport-hd-1060x580.jpg" group-title="SPORTS",beIN Sports 1
  http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test
- #EXTINF:-1 tvg-logo="https://www.alyuwm.com/wp-content/uploads/2019/12/bein-sport-hd-1060x580.jpg" group-title="SPORTS",beIN Sports 3 TRUEvision
- https://cdn.googlecdnforstreaming.live/dbf789/bein3/playlist.m3u8
- #EXTINF:-1 tvg-logo="https://www.alyuwm.com/wp-content/uploads/2019/12/bein-sport-hd-1060x580.jpg" group-title="SPORTS",beIN Sports 2 MAX
- http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/19063/index.m3u8
  #EXTINF:-1 tvg-id="" tvg-logo="https://www.alyuwm.com/wp-content/uploads/2019/12/bein-sport-hd-1060x580.jpg" group-title="SPORTS",Pluto TV SPORT : BeIN Sports Xtra 
  https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.44&includeExtendedEvents=false&serverSideAds=tr&sid=855d6801-c912-428d-b620-ede4dd0c3b15&userId=
  #EXTINF:-1 tvg-logo="https://www.alyuwm.com/wp-content/uploads/2019/12/bein-sport-hd-1060x580.jpg" group-title="SPORTS",beIN SPORT XTRA 
  https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8 
  
- #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/ten_sports_in_pakistan.png" group-title="SPORTS",PK: TEN Sports
- http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/4347
  #EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="https://i.imgur.com/tGTVcVe.jpg" group-title="SPORTS",Sports TV 
  https://live.sportstv.com.tr/hls/low/sportstv.m3u8
  #EXTINF:-1 tvg-logo="https://i.imgur.com/tGTVcVe.jpg" group-title="SPORTS",Sport TV
@@ -53,18 +41,11 @@
  #EXTINF:-1 tvg-id="FightingSpirit.us" tvg-logo="https://i.imgur.com/OeVsflz.png" group-title="SPORTS",Fighting Spirit 
  https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8
 
- #EXTINF:-1 tvg-id="PlutoTVSportsUK.uk" tvg-logo="https://images.pluto.tv/channels/5d7677fa2ec536ce1d587eeb/colorLogoPNG.png" group-title="SPORTS",Pluto TV Sports (England) 
- http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7677fa2ec536ce1d587eeb/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d7677fa2ec536ce1d587eeb&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=607&terminate=false&userId=
-
  #EXTINF:-1 group-title="SPORTS",Tennis Channel 
  http://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8 
  #EXTINF:-1 tvg-id="SuperTennis.it" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/512px-SuperTennis_-_Logo_2016.svg.png" group-title="SPORTS",Super Tennis (1080p)
  https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
 
- #EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/gg/golf_channel_us.png" group-title="SPORTS",My: Golf Channel HD
- http://xtv.ooo:8080/85968596/85968596/229538
- #EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/ss/Sky_Sports_golf.png" group-title="SPORTS",Sky Sport Golf
- http://93.152.174.144:4000/play/skysports4/index.m3u8
  #EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/Sky_Sports_golf.png" group-title="SPORTS",|UK| SKY SPORTS GOLF
  http://xtv.ooo:8080/85968596/85968596/246830
  #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/red-bul-tv-at.png" group-title="SPORTS",Red Bull TV
@@ -81,17 +62,8 @@
  https://fueltv-fueltv-1-au.samsung.wurl.com/playlist_1280x720_3000k.m3u8 
  #EXTINF:-1 tvg-logo="https://www.steroidal.com/wp-content/uploads/2016/03/UFC-logo.png" group-title="SPORTS",UFC 
  https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
-
- #EXTINF:-1 group-title="SPORTS",UK: UFC Fight Pass
- http://iptv12k.com:35461/80203091402/213445/5401
- 
- #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wwe-channel-za.png" group-title="SPORTS",my| WWE Network
- http://iptv12k.com:35461/80203091402/213445/13546
  #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wwe-channel-za.png" group-title="SPORTS",|UK| WWE LIVE FHD
  http://luxe-tv.biz:8080/live/123123123588/vozd0qr675/64491.m3u8
-
- #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/colorLogoPNG.png" group-title="SPORTS",World Poker Tour (1080p) [Not 24/7]
- https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-SportsTribal/120.m3u8
 
  #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mutv-uk.svg" group-title="SPORTS",MUTV
  https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
@@ -159,32 +131,6 @@
  #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",RTK 1 FIFA World Cup ⚽️
  http://146.59.19.1/5002/mpegts?
  
- #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",IN: STAR SPORTS SELECT 1 HD
- http://iptv12k.com:35461/80203091402/213445/1946
- #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",IN: STAR SPORTS SELECT 2 HD
- http://iptv12k.com:35461/80203091402/213445/1945
-
- #EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/DAZNT-CHANNELS/DAZN-Sport-1.png" group-title="WOLD SPORTS",|DE| DAZN 1HD
- http://luxe-tv.biz:8080/live/123123123588/vozd0qr675/480777.m3u8
- #EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/DAZNT-CHANNELS/DAZN-Sport-2.png" group-title="WOLD SPORTS",|DE| DAZN 2HD
- http://luxe-tv.biz:8080/live/123123123588/vozd0qr675/480780.m3u8
-
- #EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/DAZNT-CHANNELS/DAZN-WEB.png" group-title="WOLD SPORTS",|ES| Dazn F1 HD
- http://luxe-tv.biz:8080/live/123123123588/vozd0qr675/255216.m3u8
-
- #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",|ES| DAZNT LA LIGA HD
- http://luxe-tv.biz:8080/live/123123123588/vozd0qr675/627916.m3u8
-
- #EXTINF:-1 tvg-logo="http://103.161.34.238/LOGO%20DREAMTV%204K/SKYFOOTBALL.jpg" group-title="WOLD SPORTS",|IT| Sky Sport Football HD
- http://luxe-tv.biz:8080/live/123123123588/vozd0qr675/51307.m3u8
- #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Sky_Sport_MotoGP_-_Logo_2020.svg/1280px-Sky_Sport_MotoGP_-_Logo_2020.svg.png" group-title="WOLD SPORTS",|IT| Sky Sport MotoGP HD
- http://luxe-tv.biz:8080/live/123123123588/vozd0qr675/288503.m3u8
- #EXTINF:-1 tvg-logo="http://103.161.34.238/LOGO%20DREAMTV%204K/SKYSPORTSERIEA.png" group-title="WOLD SPORTS",|IT| Sky Sport Serie A HD
- http://luxe-tv.biz:8080/live/123123123588/vozd0qr675/51119.m3u8
- #EXTINF:-1 tvg-id="skysportf1.it" tvg-name="|IT| Sky Sport F1 HD" tvg-logo="http://103.161.34.238/LOGO%20DREAMTV%204K/SKYFORMULA1.png" group-title="WOLD SPORTS",|IT| Sky Sport F1 HD
- http://luxe-tv.biz:8080/live/123123123588/vozd0qr675/51111.m3u8
-
-
  ##############################################INDONESIA###################################################
  #EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/RCTI_live_streaming_tv.jpg" group-title="INDONESIA",RCTI
  http://iptv12k.com:35461/80203091402/213445/2185
