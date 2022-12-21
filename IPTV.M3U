@@ -7,12 +7,6 @@
  https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
  #EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_spotv2.png" group-title="SPORTS",SPOTV HD 2  
  https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8
- #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/playlist-iptv/iptv/main/logo/setanta-s-1hd.png" group-title="SPORTS",SETANTA 1 HD 
- http://hez1-flu.iptvstream.site/158/index.m3u8
- #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/playlist-iptv/iptv/main/logo/setanta-s-2hd.png" group-title="SPORTS",SETANTA 2 HD 
- http://92.119.88.58:8080/270/index.m3u8 
- #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/playlist-iptv/iptv/main/logo/setanta-s-plus.png" group-title="SPORTS",Setanta Plus
- http://hez1-flu.iptvstream.site/160/index.m3u8
 
  #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-de.png" group-title="SPORTS",DAZN 1 🇩🇪
  http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Skt1rOuXiWgbEjjEVWWdA4I
@@ -50,12 +44,6 @@
  http://mains.vip:2086/live/craigg/1Lurn7m3F1/100783.m3u8
  #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/playlist-iptv/iptv/main/logo/viaplay-logo.png" group-title="SPORTS",viaplay | Xtra
  https://d3cq7cdp2cfi92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ff27mp9b8422-prod/hls-harvester2-1293-prod/us-east-1/cc-2ff27mp9b8422/master.m3u8
- #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/playlist-iptv/iptv/main/logo/espn.png" group-title="SPORTS",ESPN 
- http://destiny4k.com:2086/live/darkside/t2z7marsRY/54457.ts
- #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/playlist-iptv/iptv/main/logo/espn.png" group-title="SPORTS",ESPN 
- http://xone8.1222908.net:80/live/885769D17D6D2433704C691CF4C07CA2/351444.ts
- #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/playlist-iptv/iptv/main/logo/espn.png" group-title="SPORTS", ESPN Vivo 🇦🇷  
- http://38.143.137.221:8000/LA81/index.m3u8
  #EXTINF:-1 tvg-id="Stadium.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Stadium_%28sports_network%29_logo.svg/512px-Stadium_%28sports_network%29_logo.svg.png" group-title="SPORTS",Stadium 
  https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
  #EXTINF:-1 tvg-id="FightNetwork.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/512px-Fight_network_logo.svg.png" group-title="SPORTS",Fight Network (1080p)
@@ -105,17 +93,10 @@
  #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/colorLogoPNG.png" group-title="SPORTS",World Poker Tour (1080p) [Not 24/7]
  https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-SportsTribal/120.m3u8
 
+ #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mutv-uk.svg" group-title="SPORTS",MUTV
+ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
+
 ##############################################WORLD SPORTS###################################################
- #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",SPORT TV 1 HD  🇵🇹
- http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2525/index.m3u8
- #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",ELEVEN 1 HD  🇵🇹
- http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2531/index.m3u8
- #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",ELEVEN 1 HD  🇵🇹
- http://user.scalecdn.co:8080/live/Oliverjones_212/e399551dc9/925.ts
- #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",ELEVEN 2 HD  🇵🇹
- http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2532/index.m3u8
- #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",ELEVEN 2 HD  🇵🇹
- http://user.scalecdn.co:8080/live/Oliverjones_212/e399551dc9/923.ts
  #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",RTP 1  🇵🇹
  http://194.44.48.82:8002/play/a08d
 
@@ -171,12 +152,6 @@
 
  #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",TyC Sports 
  https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_10.m3u8
-
- #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",Telemundo
- https://v-px.mybtv.net:443/live/39/768x432.m3u8
-
- #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",TSn
- https://murthyneeraj231.s3.amazonaws.com/worldcup_720.m3u8
 
  #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",RTK 1
  http://91.187.110.91:5252/rtk1hd 
@@ -346,23 +321,6 @@
 
  #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIE",(Celestial Classic Movies) (Indonesian Subtitle)
  http://210.210.155.37/qwr9ew/s/s31/index.m3u8
- #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIE",[ID] Celestial Movies id 8k
- http://iptv12k.com:35461/80203091402/213445/2131
- #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIE",[ID] AXN id 8k
- http://iptv12k.com:35461/80203091402/213445/2127
- #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIE",[ID] KiX id 8k indo
- http://iptv12k.com:35461/80203091402/213445/2125
- #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIE",[ID] Cinema World id 8k
- http://iptv12k.com:35461/80203091402/213445/2124
-
- #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIE",[ID] HBO id 8k
- http://iptv12k.com:35461/80203091402/213445/2121
- #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIE",[ID] HBO Family id 8k
- http://iptv12k.com:35461/80203091402/213445/2120
- #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIE",[ID] HBO Family
- http://iptv12k.com:35461/80203091402/213445/1746
- #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIE",[ID] HBO Signature id 8k
- http://iptv12k.com:35461/80203091402/213445/2118
 
 ##############################################Pay TV###################################################
  #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Animal_Planet_HD.svg/1280px-Animal_Planet_HD.svg.png" group-title="Pay TV",My: Animal Planet HD
@@ -412,6 +370,8 @@
  http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/194358
 
 ##############################################ANIMATION###################################################
+ #EXTINF:-1 tvg-id="MyKidz.id" tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-kidz-id.png" group-title="ANIMATION",My Kidz (1080p)
+ http://210.210.155.37/uq2663/h/h191/index.m3u8
  #EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="ANIMATION",Nick
  https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
  #EXTINF:-1 tvg-id="AniplusAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Aniplus_Asia_Logo.png/512px-Aniplus_Asia_Logo.png" group-title="ANIMATION",Aniplus (Indonesian subtitle)
