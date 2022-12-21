@@ -132,7 +132,7 @@
  http://146.59.19.1/5002/mpegts?
 
  ##############################################INDONESIA###################################################
- #EXTINF:-1 tvg-id="" tvg-name="ID: RCTI" tvg-logo="https://www.transtv.co.id/livetv/anytv/RCTI_live_streaming_tv.jpg" group-title="ID | INDONESIA",ID: RCTI
+ #EXTINF:-1 tvg-id="" tvg-name="ID: RCTI" tvg-logo="https://www.transtv.co.id/livetv/anytv/RCTI_live_streaming_tv.jpg" group-title="INDONESIA",ID: RCTI
  http://xtv.ooo:8080/85968596/85968596/228293
  #EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/RCTI_live_streaming_tv.jpg" group-title="INDONESIA",RCTI
  http://iptv12k.com:35461/80203091402/213445/2185
