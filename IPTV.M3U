@@ -82,43 +82,43 @@
  #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",beIN Sports 2 English HD
  http://175.107.244.52:4457/play/a06z/index.m3u8
 
- #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS" ,beIN Sports 1 English HD 🇬🇧
- http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test&v=697229347
-
  #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS" ,beIN Sports MAX 2 HD
  http://red.ipfox.org:8080/live/Karam2022/Karam2023/52346.m3u8
  
  #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS" ,BEIN SPORT 3 🇬🇧
  http://175.107.244.52:4457/play/a06x/index.m3u8
 
- #EXTINF:-1 #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",beIN Sports 1 English HD 🇬🇧
+ #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS" ,beIN Sports 1 English HD 🇬🇧
  http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test&v=697229347
 
- #EXTINF:-1 #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",beIN Sports 2 English HD 🇬🇧
+ #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",beIN Sports 1 English HD 🇬🇧
+ http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test&v=697229347
+
+ #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",beIN Sports 2 English HD 🇬🇧
  http://175.107.244.52:4457/play/a06z/index.m3u8
 
- #EXTINF:-1 #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",Bein Sports 3 English 🇬🇧
+ #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",Bein Sports 3 English HD 🇬🇧
  http://175.107.244.52:4457/play/a06x/index.m3u8
 
- #EXTINF:-1 #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",SUPERSPORT LALIGA
+ #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",SUPERSPORT LALIGA
  http://cx1.supercloud9.xyz:2095/live/wKLDF3Lt6j/f9K6ZMCikh/5243.ts
 
- #EXTINF:-1 #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",SUPERSPORT LALIGA
+ #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",SUPERSPORT LALIGA
  http://clientsportals.com:2095/f778W3He/yj7FXRjr/39406
 
- #EXTINF:-1 #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",Setanta Sports 🇺🇦
+ #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",Setanta Sports 🇺🇦
  http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/272/index.m3u8
 
- #EXTINF:-1 #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",Setanta Sports 1 🇺🇦
+ #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",Setanta Sports 1 🇺🇦
  http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/19430/index.m3u8
 
- #EXTINF:-1 #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",Setanta Sports 2 🇺🇦
+ #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",Setanta Sports 2 🇺🇦
  http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/19431/index.m3u8
 
- #EXTINF:-1 #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",Setanta Sports 3 🇺🇦
+ #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",Setanta Sports 3 🇺🇦
  http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/19432/index.m3u8
 
- #EXTINF:-1 #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",Setanta Sports + 🇺🇦
+ #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",Setanta Sports + 🇺🇦
  http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/5068/index.m3u8
 
  #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",SKY SPORTS FOOTBALL
@@ -132,9 +132,6 @@
 
  #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",SCTV 17 🇻🇳 WWE
  http://vtsstr4.sctv.vn:1935/live/SCTV17_HD_new.smil/CDAM.m3u8
-
- #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",TyC Sports 
- https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_10.m3u8
 
  #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",RTK 1
  http://91.187.110.91:5252/rtk1hd 
