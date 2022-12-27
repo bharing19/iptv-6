@@ -72,32 +72,32 @@
  #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS" ,X SPORT 🇷🇺
  http://iptv.prosto.tv:7000/ch109/video.m3u8
 
- #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",BEIN SPORTS PREMIUM 1 HD 🇶🇦
+ #EXTINF:-1 tvg-logo="https://www.alyuwm.com/wp-content/uploads/2019/12/bein-sport-hd-1060x580.jpg" group-title="WOLD SPORTS",BEIN SPORTS PREMIUM 1 HD 🇶🇦
  http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
- #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",BEIN SPORTS PREMIUM 2 HD 🇶🇦
+ #EXTINF:-1 tvg-logo="https://www.alyuwm.com/wp-content/uploads/2019/12/bein-sport-hd-1060x580.jpg" group-title="WOLD SPORTS",BEIN SPORTS PREMIUM 2 HD 🇶🇦
  http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=697229347
- #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",BEIN SPORTS PREMIUM 3 HD 🇶🇦
+ #EXTINF:-1 tvg-logo="https://www.alyuwm.com/wp-content/uploads/2019/12/bein-sport-hd-1060x580.jpg" group-title="WOLD SPORTS",BEIN SPORTS PREMIUM 3 HD 🇶🇦
  http://62.182.82.104/L_3_PREMIUM/index.m3u8?token=test&v=697229347
 
- #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",beIN Sports 2 English HD
+ #EXTINF:-1 tvg-logo="https://www.alyuwm.com/wp-content/uploads/2019/12/bein-sport-hd-1060x580.jpg" group-title="WOLD SPORTS",beIN Sports 2 English HD
  http://175.107.244.52:4457/play/a06z/index.m3u8
 
- #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS" ,beIN Sports MAX 2 HD
+ #EXTINF:-1 tvg-logo="https://www.alyuwm.com/wp-content/uploads/2019/12/bein-sport-hd-1060x580.jpg" group-title="WOLD SPORTS" ,beIN Sports MAX 2 HD
  http://red.ipfox.org:8080/live/Karam2022/Karam2023/52346.m3u8
  
- #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS" ,BEIN SPORT 3 🇬🇧
+ #EXTINF:-1 tvg-logo="https://www.alyuwm.com/wp-content/uploads/2019/12/bein-sport-hd-1060x580.jpg" group-title="WOLD SPORTS" ,BEIN SPORT 3 🇬🇧
  http://175.107.244.52:4457/play/a06x/index.m3u8
 
- #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS" ,beIN Sports 1 English HD 🇬🇧
+ #EXTINF:-1 tvg-logo="https://www.alyuwm.com/wp-content/uploads/2019/12/bein-sport-hd-1060x580.jpg" group-title="WOLD SPORTS" ,beIN Sports 1 English HD 🇬🇧
  http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test&v=697229347
 
  #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",beIN Sports 1 English HD 🇬🇧
  http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test&v=697229347
 
- #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",beIN Sports 2 English HD 🇬🇧
+ #EXTINF:-1 tvg-logo="https://www.alyuwm.com/wp-content/uploads/2019/12/bein-sport-hd-1060x580.jpg" group-title="WOLD SPORTS",beIN Sports 2 English HD 🇬🇧
  http://175.107.244.52:4457/play/a06z/index.m3u8
 
- #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",Bein Sports 3 English HD 🇬🇧
+ #EXTINF:-1 tvg-logo="https://www.alyuwm.com/wp-content/uploads/2019/12/bein-sport-hd-1060x580.jpg" group-title="WOLD SPORTS",Bein Sports 3 English HD 🇬🇧
  http://175.107.244.52:4457/play/a06x/index.m3u8
 
  #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS",SUPERSPORT LALIGA
