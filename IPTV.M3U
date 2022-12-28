@@ -46,7 +46,7 @@
  #EXTINF:-1 tvg-id="SuperTennis.it" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/512px-SuperTennis_-_Logo_2016.svg.png" group-title="SPORTS",Super Tennis (1080p)
  https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
 
- #EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/Sky_Sports_golf.png" group-title="SPORTS",|UK| SKY SPORTS GOLF
+ #EXTINF:-1 tvg-id="" tvg-logo="https://dik.si/KrI2m" group-title="SPORTS",|UK| SKY SPORTS GOLF
  http://xtv.ooo:8080/85968596/85968596/246830
  #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/red-bul-tv-at.png" group-title="SPORTS",Red Bull TV
  https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
