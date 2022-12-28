@@ -58,9 +58,9 @@
  #EXTINF:-1 group-title="SPORTS",A21 Network 
  https://tv.a21network.ru/stream/37909/index.m3u8 
  
- #EXTINF:-1 group-title="SPORTS",Fuel TV 
+ #EXTINF:-1 tvg-logo="https://dik.si/MRDIq" group-title="SPORTS",Fuel TV 
  https://fueltv-fueltv-1-au.samsung.wurl.com/playlist_1280x720_3000k.m3u8 
- #EXTINF:-1 tvg-logo="https://www.steroidal.com/wp-content/uploads/2016/03/UFC-logo.png" group-title="SPORTS",UFC 
+ #EXTINF:-1 tvg-logo="https://dik.si/jtPmt" group-title="SPORTS",UFC 
  https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
 
  #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mutv-uk.svg" group-title="SPORTS",MUTV
