@@ -70,6 +70,42 @@
  #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS" ,X SPORT 🇷🇺
  http://iptv.prosto.tv:7000/ch109/video.m3u8
 
+ #EXTINF:-1 tvg-logo="https://dik.si/xGf7V" group-title="WOLD SPORTS" ,Bein Sports 1 Arabic 🇶🇦
+ http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/1.ts
+
+ #EXTINF:-1 tvg-logo="https://dik.si/xGf7V" group-title="WOLD SPORTS" ,Bein Sports 2 Arabic 🇶🇦
+ http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/2.ts
+
+ #EXTINF:-1 tvg-logo="https://dik.si/xGf7V" group-title="WOLD SPORTS" ,Bein Sports 3 Arabic 🇶🇦
+ http://2015.surf:8080/qwiyJT4YBH/lBcCDVscVm/319
+
+ #EXTINF:-1 tvg-logo="https://dik.si/xGf7V" group-title="WOLD SPORTS" ,Bein Sports 5 Arabic 🇶🇦
+ http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/5.ts
+
+ #EXTINF:-1 tvg-logo="https://dik.si/xGf7V" group-title="WOLD SPORTS" ,Bein Sports 6 Arabic 🇶🇦
+ http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/6.ts
+
+ #EXTINF:-1 tvg-logo="https://dik.si/xGf7V" group-title="WOLD SPORTS" ,Bein Sports 7 Arabic 🇶🇦
+ http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/7.ts
+
+ #EXTINF:-1 tvg-logo="https://dik.si/xGf7V" group-title="WOLD SPORTS",beIN Sport 1 Hd
+ http://oscartvland.tv:80/live/123/123/4552.ts
+
+ #EXTINF:-1 tvg-logo="https://dik.si/xGf7V" group-title="WOLD SPORTS",beIN Sport 2 Hd
+ http://oscartvland.tv:80/live/123/123/4551.ts
+
+ #EXTINF:-1 tvg-logo="https://dik.si/xGf7V" group-title="WOLD SPORTS",beIN Sport 3 Hd
+ http://oscartvland.tv:80/live/123/123/4550.ts
+
+ #EXTINF:-1 tvg-logo="https://dik.si/xGf7V" group-title="WOLD SPORTS",beIN Sport 4 Hd
+ http://oscartvland.tv:80/live/123/123/4549.ts
+
+ #EXTINF:-1 tvg-logo="https://dik.si/xGf7V" group-title="WOLD SPORTS",beIN Sport 5 Hd
+ http://oscartvland.tv:80/live/123/123/4548.ts
+
+ #EXTINF:-1 tvg-logo="https://dik.si/xGf7V" group-title="WOLD SPORTS",beIN Sport 6 Hd
+ http://oscartvland.tv:80/live/123/123/4547.ts
+
  #EXTINF:-1 tvg-logo="https://dik.si/xGf7V" group-title="WOLD SPORTS",BEIN SPORTS PREMIUM 1 HD 🇶🇦
  http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
  #EXTINF:-1 tvg-logo="https://dik.si/xGf7V" group-title="WOLD SPORTS",BEIN SPORTS PREMIUM 2 HD 🇶🇦
