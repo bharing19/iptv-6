@@ -190,10 +190,6 @@
  https://live-kg.jixie.media/live/kompastv_lhd.m3u8
  #EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/NET.jpg" group-title="INDONESIA",NET TV 
  http://210.210.155.35/qwr9ew/s/s08/01.m3u8
- #EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/NET.jpg" group-title="INDONESIA",NET TV 
- http://210.210.155.37/qwr9ew/s/s08/index.m3u8
- #EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/RTV.jpg" group-title="INDONESIA",RTV 
- http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=b132ecc1609bfcf302615847c1caa69a446503011668def857b1c03bafabba51 
  #EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/RTV.jpg" group-title="INDONESIA",RTV 
  http://210.210.155.37/dr9445/h/h10/index.m3u8 
  #EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/ANTV.jpg" group-title="INDONESIA", ANTV
