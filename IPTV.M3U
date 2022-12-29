@@ -203,7 +203,7 @@
  #EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/ANTV.jpg" group-title="INDONESIA", ANTV
  http://210.210.155.35/qwr9ew/s/s07/index1.m3u8 
 
- #EXTINF:-1 tvg-id="MetroGlobeNetwork.id" tvg-logo="" group-title="Culture",Metro Globe Network (1080p)
+ #EXTINF:-1 tvg-id="MetroGlobeNetwork.id" tvg-logo="" group-title="INDONESIA",Metro Globe Network (1080p)
  https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 
  #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19554476_ico.png?ts=1654802291" group-title="INDONESIA",JTV 
