@@ -247,14 +247,16 @@
  #EXTINF:-1 tvg-id="GarudaTV.id" tvg-logo="" group-title="INDONESIA",Garuda TV (720p)
  https://ms.digdaya.tv/live/digdayatv/live.m3u8
 
+ #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDONESIA",ATVLI (720p)
+ https://wowza.convergen.co/atvli/atvli.stream/playlist.m3u8
+
 ##############################################MUSLIM###################################################
 
  #EXTINF:-1 tvg-id="MediaSunnahAceh.id" tvg-logo="" group-title="MUSLIM" user-agent="Mozilla/5.0 (X11; Linux x86_64)",Media Sunnah Aceh
  #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
  https://h1.intechmedia.net/intech/ch23.m3u8
 
- #EXTINF:-1 tvg-id="UFA24.id" tvg-logo="" group-title="MUSLIM" user-agent="Mozilla/5.0 (X11; Linux x86_64)",UFA 24 (360p)
- #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+ #EXTINF:-1 tvg-id="UFA24.id" tvg-logo="" group-title="MUSLIM",UFA 24 (360p)
  https://h1.intechmedia.net/intech/ch27.m3u8
 
 
