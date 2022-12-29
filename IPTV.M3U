@@ -199,6 +199,13 @@
  #EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/ANTV.jpg" group-title="INDONESIA", ANTV
  http://210.210.155.35/qwr9ew/s/s07/index1.m3u8 
 
+ #EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://i.imgur.com/Al8T2MD.png" group-title="INDONESIA",tvOne
+ http://210.210.155.37/qwr9ew/s/s105/01.m3u8
+
+ #EXTINF:-1 tvg-id="TVRParlemen.id" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj" group-title="INDONESIA",TVR Parlemen (720p)
+ http://103.18.181.69:1935/golive/livestream/playlist.m3u8
+
+
  #EXTINF:-1 tvg-id="MetroGlobeNetwork.id" tvg-logo="" group-title="INDONESIA",Metro Globe Network (1080p)
  https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 
@@ -247,12 +254,17 @@
  #EXTINF:-1 tvg-id="GarudaTV.id" tvg-logo="" group-title="INDONESIA",Garuda TV (720p)
  https://ms.digdaya.tv/live/digdayatv/live.m3u8
 
-##############################################INSPIRATIV###################################################
+##############################################EDUKASI###################################################
+ #EXTINF:-1 tvg-id="TVEdukasi.id" tvg-logo="" group-title="EDUKASI",TV Edukasi (576p)
+ http://118.98.229.118:1935/live/tve.stream/playlist.m3u8
 
- #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INSPIRATIV",ATVLI (720p)
+ #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EDUKASI",ATVLI (720p)
  https://wowza.convergen.co/atvli/atvli.stream/playlist.m3u8
 
- #EXTINF:-1 tvg-id="KawanuaTV.id" tvg-logo="https://i.imgur.com/lX0wJ1e.png" group-title="INSPIRATIV",Kawanua TV (720p)
+ #EXTINF:-1 tvg-id="InspiraTV.id" tvg-logo="" group-title="EDUKASI",Inspira TV (720p)
+ https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+
+ #EXTINF:-1 tvg-id="KawanuaTV.id" tvg-logo="https://i.imgur.com/lX0wJ1e.png" group-title="EDUKASI",Kawanua TV (720p)
  http://122.248.43.138:1935/ch18/myStream/playlist.m3u8
 
 ##############################################MUSLIM###################################################
@@ -260,6 +272,12 @@
  #EXTINF:-1 tvg-id="MediaSunnahAceh.id" tvg-logo="" group-title="MUSLIM" user-agent="Mozilla/5.0 (X11; Linux x86_64)",Media Sunnah Aceh
  #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
  https://h1.intechmedia.net/intech/ch23.m3u8
+
+ #EXTINF:-1 tvg-id="RodjaTV.id" tvg-logo="" group-title="MUSLIM",Rodja TV (720p)
+ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/index.m3u8
+
+ #EXTINF:-1 tvg-id="SangajiTV.id" tvg-logo="" group-title="MUSLIM",Sangaji TV (720p)
+ https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
 
  #EXTINF:-1 tvg-id="UFA24.id" tvg-logo="" group-title="MUSLIM",UFA 24 (360p)
  https://h1.intechmedia.net/intech/ch27.m3u8
@@ -371,7 +389,7 @@
 ##############################################ANIMATION###################################################
  #EXTINF:-1 tvg-id="MyKidz.id" tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-kidz-id.png" group-title="ANIMATION",My Kidz (1080p)
  http://210.210.155.37/uq2663/h/h191/index.m3u8
- 
+
  #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ANIMATION",Ficom Channel (720p)
  https://v3.siar.us/ficomchannel/live/playlist.m3u8
 
