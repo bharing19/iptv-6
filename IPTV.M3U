@@ -371,6 +371,10 @@
 ##############################################ANIMATION###################################################
  #EXTINF:-1 tvg-id="MyKidz.id" tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-kidz-id.png" group-title="ANIMATION",My Kidz (1080p)
  http://210.210.155.37/uq2663/h/h191/index.m3u8
+ 
+ #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ANIMATION",Ficom Channel (720p)
+ https://v3.siar.us/ficomchannel/live/playlist.m3u8
+
  #EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="ANIMATION",Nick
  https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
  #EXTINF:-1 tvg-id="AniplusAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Aniplus_Asia_Logo.png/512px-Aniplus_Asia_Logo.png" group-title="ANIMATION",Aniplus (Indonesian subtitle)
