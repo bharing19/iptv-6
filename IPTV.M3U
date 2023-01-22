@@ -79,6 +79,18 @@
  #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS" ,X SPORT 🇷🇺
  http://iptv.prosto.tv:7000/ch109/video.m3u8
 
+ #EXTINF:-1 group-title="WOLD SPORTS",  ESPN DEPORTES 🇺🇸
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92719.ts
+
+#EXTINF:-1 group-title="WOLD SPORTS",  BEIN 1 INDI
+http://194.233.71.141:5566/play/Bein1-ID/index.m3u8
+
+#EXTINF:-1 group-title="WOLD SPORTS",  BT SPORTS 1 HD 🇬🇧
+http://cmsott.com:8080/live/Eggantbvttxd/HFNAtgqncHKN/1145.ts
+
+#EXTINF:-1 group-title="WOLD SPORTS",  BT SPORTS 2 HD 🇬🇧
+http://cmsott.com:8080/live/Eggantbvttxd/HFNAtgqncHKN/1146.ts
+
  #EXTINF:-1 tvg-logo="https://dik.si/xGf7V" group-title="WOLD SPORTS" ,Bein Sports 1 Arabic 🇶🇦
  http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/1.ts
 
