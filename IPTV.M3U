@@ -79,53 +79,29 @@
  #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS" ,X SPORT 🇷🇺
  http://iptv.prosto.tv:7000/ch109/video.m3u8
 
- #EXTINF:-1 group-title="WOLD SPORTS",  ESPN DEPORTES 🇺🇸
-http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92719.ts
+ #EXTINF:-1 group-title="WOLD SPORTS", ESPN DEPORTES 🇺🇸
+ http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92719.ts
 
-#EXTINF:-1 group-title="WOLD SPORTS",  BEIN 1 INDI
-http://194.233.71.141:5566/play/Bein1-ID/index.m3u8
+ #EXTINF:-1 group-title="WOLD SPORTS", ESPN + 🇺🇸
+ http://rn2yfxko.tvclub.xyz/iptv/WP3PZRYBCGTFUB/19156/index.m3u8
 
-#EXTINF:-1 group-title="WOLD SPORTS",  BT SPORTS 1 HD 🇬🇧
-http://cmsott.com:8080/live/Eggantbvttxd/HFNAtgqncHKN/1145.ts
+ #EXTINF:-1 group-title="WOLD SPORTS", ESPN 2 🇺🇸
+ http://rn2yfxko.tvclub.xyz/iptv/WP3PZRYBCGTFUB/19155/index.m3u8
 
-#EXTINF:-1 group-title="WOLD SPORTS",  BT SPORTS 2 HD 🇬🇧
-http://cmsott.com:8080/live/Eggantbvttxd/HFNAtgqncHKN/1146.ts
+ #EXTINF:-1 group-title="WOLD SPORTS", BT SPORTS 1 HD 🇬🇧
+ http://cmsott.com:8080/live/Eggantbvttxd/HFNAtgqncHKN/1145.ts
 
- #EXTINF:-1 tvg-logo="https://dik.si/xGf7V" group-title="WOLD SPORTS" ,Bein Sports 1 Arabic 🇶🇦
- http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/1.ts
+ #EXTINF:-1 group-title="WOLD SPORTS", BT SPORTS 2 HD 🇬🇧
+ http://cmsott.com:8080/live/Eggantbvttxd/HFNAtgqncHKN/1146.ts
 
- #EXTINF:-1 tvg-logo="https://dik.si/xGf7V" group-title="WOLD SPORTS" ,Bein Sports 2 Arabic 🇶🇦
- http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/2.ts
+ #EXTINF:-1 tvg-logo="https://dik.si/xGf7V" group-title="WOLD SPORTS", BEIN SPORTS 1 HD 🇨🇵
+ http://77.207.0.25:4000/play/a03m 
 
- #EXTINF:-1 tvg-logo="https://dik.si/xGf7V" group-title="WOLD SPORTS" ,Bein Sports 3 Arabic 🇶🇦
- http://2015.surf:8080/qwiyJT4YBH/lBcCDVscVm/319
+ #EXTINF:-1 tvg-logo="https://dik.si/xGf7V" group-title="WOLD SPORTS", BEIN SPORTS 2 HD 🇨🇵
+ http://77.207.0.25:4000/play/a03n 
 
- #EXTINF:-1 tvg-logo="https://dik.si/xGf7V" group-title="WOLD SPORTS" ,Bein Sports 5 Arabic 🇶🇦
- http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/5.ts
-
- #EXTINF:-1 tvg-logo="https://dik.si/xGf7V" group-title="WOLD SPORTS" ,Bein Sports 6 Arabic 🇶🇦
- http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/6.ts
-
- #EXTINF:-1 tvg-logo="https://dik.si/xGf7V" group-title="WOLD SPORTS" ,Bein Sports 7 Arabic 🇶🇦
- http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/7.ts
-
- #EXTINF:-1 tvg-logo="https://dik.si/xGf7V" group-title="WOLD SPORTS",beIN Sport 1 Hd
- http://oscartvland.tv:80/live/123/123/4552.ts
-
- #EXTINF:-1 tvg-logo="https://dik.si/xGf7V" group-title="WOLD SPORTS",beIN Sport 2 Hd
- http://oscartvland.tv:80/live/123/123/4551.ts
-
- #EXTINF:-1 tvg-logo="https://dik.si/xGf7V" group-title="WOLD SPORTS",beIN Sport 3 Hd
- http://oscartvland.tv:80/live/123/123/4550.ts
-
- #EXTINF:-1 tvg-logo="https://dik.si/xGf7V" group-title="WOLD SPORTS",beIN Sport 4 Hd
- http://oscartvland.tv:80/live/123/123/4549.ts
-
- #EXTINF:-1 tvg-logo="https://dik.si/xGf7V" group-title="WOLD SPORTS",beIN Sport 5 Hd
- http://oscartvland.tv:80/live/123/123/4548.ts
-
- #EXTINF:-1 tvg-logo="https://dik.si/xGf7V" group-title="WOLD SPORTS",beIN Sport 6 Hd
- http://oscartvland.tv:80/live/123/123/4547.ts
+ #EXTINF:-1 tvg-logo="https://dik.si/xGf7V" group-title="WOLD SPORTS", BEIN 1 INDI
+ http://194.233.71.141:5566/play/Bein1-ID/index.m3u8
 
  #EXTINF:-1 tvg-logo="https://dik.si/xGf7V" group-title="WOLD SPORTS",BEIN SPORTS PREMIUM 1 HD 🇶🇦
  http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
@@ -189,6 +165,18 @@ http://cmsott.com:8080/live/Eggantbvttxd/HFNAtgqncHKN/1146.ts
  http://tvpanel.one:80/live/den9179/611carc/586764.m3u8
  #EXTINF:-1 tvg-logo="https://dik.si/KrI2m" group-title="WOLD SPORTS",SKY SPORTS PREMIER LEAGUE [HD]
  http://tvpanel.one:80/live/den9179/611carc/586762.m3u8
+
+ #EXTINF:-1 group-title="WOLD SPORTS", Arena 1 HD  🇧🇦
+ http://94.250.2.6:7374/play/a02m/index.m3u8
+
+ #EXTINF:-1 group-title="WOLD SPORTS", Arena 2 HD 🇧🇦
+ http://94.250.2.6:7374/play/a02n/index.m3u8
+
+ #EXTINF:-1 group-title="WOLD SPORTS", Arena sport 3 HD 🇧🇦
+ http://94.250.2.6:7374/play/a02o/index.m3u8
+
+ #EXTINF:-1 group-title="WOLD SPORTS", Arena Sport 4 🇧🇦
+ http://94.250.2.6:7374/play/a012/index.m3u8
 
  ##############################################INDONESIA###################################################
  #EXTINF:-1 tvg-id="" tvg-name="ID: RCTI" tvg-logo="https://www.transtv.co.id/livetv/anytv/RCTI_live_streaming_tv.jpg" group-title="INDONESIA",ID: RCTI
