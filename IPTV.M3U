@@ -137,21 +137,6 @@
  #EXTINF:-1 tvg-logo="https://dik.si/HScW6" group-title="WOLD SPORTS",  SUPERSPORT LALIGA 🇿🇦
  http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/109026.ts
 
- #EXTINF:-1 tvg-logo="https://dik.si/RtIeb" group-title="WOLD SPORTS",Setanta Sports 🇺🇦
- http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/272/index.m3u8
-
- #EXTINF:-1 tvg-logo="https://dik.si/RtIeb" group-title="WOLD SPORTS",Setanta Sports 1 🇺🇦
- http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/19430/index.m3u8
-
- #EXTINF:-1 tvg-logo="https://dik.si/RtIeb" group-title="WOLD SPORTS",Setanta Sports 2 🇺🇦
- http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/19431/index.m3u8
-
- #EXTINF:-1 tvg-logo="https://dik.si/RtIeb" group-title="WOLD SPORTS",Setanta Sports 3 🇺🇦
- http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/19432/index.m3u8
-
- #EXTINF:-1 tvg-logo="https://dik.si/RtIeb" group-title="WOLD SPORTS",Setanta Sports + 🇺🇦
- http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/5068/index.m3u8
-
  #EXTINF:-1 tvg-logo="https://dik.si/RtIeb" group-title="WOLD SPORTS"Setanta Sports 1 HD 🇷🇺
  https://livetv.mylifeisgood.ml/channels/setantahd
  #EXTINF:-1 tvg-logo="https://dik.si/RtIeb" group-title="WOLD SPORTS"Setanta Sports 2 HD 🇷🇺
@@ -190,6 +175,8 @@
  http://210.210.155.37/qwr9ew/s/s41/index.m3u8
  #EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/SCTV_live_streaming_tv.jpg" group-title="INDONESIA",SCTV
  http://210.210.155.37/qwr9ew/s/s03/index.m3u8
+ #EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/SCTV_live_streaming_tv.jpg" group-title="INDONESIA",SCTV
+ http://mpwtv.my.id/vidioye/204-sctv.m3u8
  #EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/INDOSIAR_live_streaming_tv.jpg" group-title="INDONESIA",INDOSIAR
  http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
  #EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/KOMPAS_TV_live_streaming_tv.jpg" group-title="INDONESIA",Kompas TV 
