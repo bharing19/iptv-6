@@ -102,11 +102,11 @@
  #EXTINF:-1 tvg-logo="https://dik.si/xGf7V" group-title="WOLD SPORTS",BEIN SPORTS PREMIUM 3 HD 🇶🇦
  http://62.182.82.104/L_3_PREMIUM/index.m3u8?token=test&v=697229347
 
- #EXTINF:-1 tvg-logo="https://dik.si/xGf7V" group-title="SPORTS",beIN Sports 1 English HD 🇬🇧
+ #EXTINF:-1 tvg-logo="https://dik.si/xGf7V" group-title="WOLD SPORTS",beIN Sports 1 English HD 🇬🇧
  http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test&v=697229347
- #EXTINF:-1 tvg-logo="https://dik.si/xGf7V" group-title="SPORTS",beIN Sports 1 English HD 🇬🇧
+ #EXTINF:-1 tvg-logo="https://dik.si/xGf7V" group-title="WOLD SPORTS",beIN Sports 1 English HD 🇬🇧
  http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/548627.ts
- #EXTINF:-1 tvg-logo="https://dik.si/xGf7V" group-title="SPORTS",beIN Sports 1 English HD
+ #EXTINF:-1 tvg-logo="https://dik.si/xGf7V" group-title="WOLD SPORTS",beIN Sports 1 English HD
  http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test
 
  #EXTINF:-1 tvg-logo="https://dik.si/xGf7V" group-title="WOLD SPORTS",beIN Sports 2 English HD
@@ -121,9 +121,9 @@
  #EXTINF:-1 tvg-logo="https://dik.si/xGf7V" group-title="WOLD SPORTS",Bein Sports 3 English HD 🇬🇧
  http://175.107.244.52:4457/play/a06x/index.m3u8
 
- #EXTINF:-1 tvg-id="" tvg-logo="https://dik.si/xGf7V" group-title="SPORTS",Pluto TV SPORT : BeIN Sports Xtra 
+ #EXTINF:-1 tvg-id="" tvg-logo="https://dik.si/xGf7V" group-title="WOLD SPORTS",Pluto TV SPORT : BeIN Sports Xtra 
  https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.44&includeExtendedEvents=false&serverSideAds=tr&sid=855d6801-c912-428d-b620-ede4dd0c3b15&userId=
- #EXTINF:-1 tvg-logo="https://dik.si/xGf7V" group-title="SPORTS",beIN SPORT XTRA 
+ #EXTINF:-1 tvg-logo="https://dik.si/xGf7V" group-title="WOLD SPORTS",beIN SPORT XTRA 
  https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8 
 
  #EXTINF:-1 tvg-logo="https://dik.si/HScW6" group-title="WOLD SPORTS",SUPERSPORT LALIGA
