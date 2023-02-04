@@ -73,9 +73,9 @@
  #EXTINF:-1 tvg-id="USAJ3504718A" tvg-chno="1187" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/91/USAJ3504718A_20210525T051642.png" group-title="SPORTS",World Poker Tour
  https://ee3edce685bc44a9a2cf75ecadd39bbc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_WorldPokerTour/playlist.m3u8?ads.wurl_channel=174&ads.wurl_name=WorldPokerTour&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
- #EXTINF:-1 tvg-logo="https://dik.si/KrI2m" group-title="WOLD SPORTS",SKY SPORTS F1 [FHD]
+ #EXTINF:-1 tvg-logo="https://dik.si/KrI2m" group-title="SPORTS",SKY SPORTS F1 [FHD]
  http://tvpanel.one:80/live/den9179/611carc/586775.m3u8
- #EXTINF:-1 tvg-logo="https://dik.si/KrI2m" group-title="WOLD SPORTS",SKY SPORTS F1 [HD]
+ #EXTINF:-1 tvg-logo="https://dik.si/KrI2m" group-title="SPORTS",SKY SPORTS F1 [HD]
  http://tvpanel.one:80/live/den9179/611carc/586776.m3u8
 
 ##############################################WORLD SPORTS###################################################
