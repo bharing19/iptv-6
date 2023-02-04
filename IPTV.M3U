@@ -8,6 +8,12 @@
  #EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_spotv2.png" group-title="SPORTS",SPOTV HD 2  
  https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8
 
+ #EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_spotv2.png" group-title="SPORTS",SPOTV HD 1
+ http://103.167.167.5:8111/play/a020/index.m3u8
+
+ #EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_spotv2.png" group-title="SPORTS",SPOTV HD 2  
+ http://103.167.167.5:8111/play/a010/index.m3u8
+
  #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-de.png" group-title="SPORTS",DAZN 1 🇩🇪
  http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Skt1rOuXiWgbEjjEVWWdA4I
  #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-de.png" group-title="SPORTS",DAZN 2 🇩🇪
@@ -68,6 +74,9 @@
  https://ee3edce685bc44a9a2cf75ecadd39bbc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_WorldPokerTour/playlist.m3u8?ads.wurl_channel=174&ads.wurl_name=WorldPokerTour&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
 ##############################################WORLD SPORTS###################################################
+ #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS" ,STAR SELECT 1
+ http://208.86.19.13:81/7366.stream/index.m3u8
+
  #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS" ,X SPORT 🇷🇺
  http://iptv.prosto.tv:7000/ch109/video.m3u8
 
@@ -86,14 +95,14 @@
  #EXTINF:-1 group-title="WOLD SPORTS", BT SPORTS 2 HD 🇬🇧
  http://cmsott.com:8080/live/Eggantbvttxd/HFNAtgqncHKN/1146.ts
 
- #EXTINF:-1 tvg-logo="https://dik.si/xGf7V" group-title="WOLD SPORTS", BEIN SPORTS 1 HD 🇨🇵
- http://77.207.0.25:4000/play/a03m 
+ #EXTINF:-1 tvg-logo="https://dik.si/xGf7V" group-title="WOLD SPORTS", BEIN SPORTS 1
+ http://103.167.167.5:8111/play/a02m/index.m3u8
 
- #EXTINF:-1 tvg-logo="https://dik.si/xGf7V" group-title="WOLD SPORTS", BEIN SPORTS 2 HD 🇨🇵
- http://77.207.0.25:4000/play/a03n 
+ #EXTINF:-1 tvg-logo="https://dik.si/xGf7V" group-title="WOLD SPORTS", BEIN SPORTS 2
+ http://185.53.88.103:88/live/226448369414368/226448369414368/83.m3u
 
- #EXTINF:-1 tvg-logo="https://dik.si/xGf7V" group-title="WOLD SPORTS", BEIN 1 INDI
- http://194.233.71.141:5566/play/Bein1-ID/index.m3u8
+ #EXTINF:-1 tvg-logo="https://dik.si/xGf7V" group-title="WOLD SPORTS", BEIN SPORTS 3
+ http://103.167.167.5:8111/play/a02n/index.m3u8
 
  #EXTINF:-1 tvg-logo="https://dik.si/xGf7V" group-title="WOLD SPORTS",BEIN SPORTS PREMIUM 1 HD 🇶🇦
  http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
@@ -132,8 +141,11 @@
  #EXTINF:-1 tvg-logo="https://dik.si/HScW6" group-title="WOLD SPORTS",SUPERSPORT LALIGA
  http://clientsportals.com:2095/f778W3He/yj7FXRjr/39406
 
- #EXTINF:-1 tvg-logo="https://dik.si/HScW6" group-title="WOLD SPORTS",  SUPERSPORT LALIGA 🇿🇦
+ #EXTINF:-1 tvg-logo="https://dik.si/HScW6" group-title="WOLD SPORTS",SUPERSPORT LALIGA 🇿🇦
  http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/109026.ts
+
+ #EXTINF:-1 tvg-logo="https://dik.si/HScW6" group-title="WOLD SPORTS",SUPERSPORT LALIGA 
+ http://server.sibfungold.info:8080/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/52294
 
  #EXTINF:-1 tvg-logo="https://dik.si/RtIeb" group-title="WOLD SPORTS"Setanta Sports 1 HD 🇷🇺
  https://livetv.mylifeisgood.ml/channels/setantahd
@@ -148,6 +160,12 @@
  http://tvpanel.one:80/live/den9179/611carc/586764.m3u8
  #EXTINF:-1 tvg-logo="https://dik.si/KrI2m" group-title="WOLD SPORTS",SKY SPORTS PREMIER LEAGUE [HD]
  http://tvpanel.one:80/live/den9179/611carc/586762.m3u8
+
+ #EXTINF:-1 group-title="WOLD SPORTS",True Premier Football 1 (tvt)
+ http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=115758&extension=ts&play_token=ZleOAq2r3y
+
+ #EXTINF:-1 group-title="WOLD SPORTS",True Premier Football 2 (tvt)
+ http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=115762&extension=ts&play_token=f15SJHghJH
 
  #EXTINF:-1 group-title="WOLD SPORTS", Arena 1 HD  🇧🇦
  http://94.250.2.6:7374/play/a02m/index.m3u8
