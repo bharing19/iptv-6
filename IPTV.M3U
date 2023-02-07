@@ -73,6 +73,9 @@
  #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS" ,STAR SELECT 1
  http://208.86.19.13:81/7366.stream/index.m3u8
 
+ #EXTINF:-1 group-title="WOLD SPORTS ,STAR SELECT 2
+ http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/537
+
  #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS" ,X SPORT 🇷🇺
  http://iptv.prosto.tv:7000/ch109/video.m3u8
 
@@ -138,9 +141,9 @@
  #EXTINF:-1 tvg-logo="https://dik.si/HScW6" group-title="WOLD SPORTS",SUPERSPORT Motorsport HD 
  http://server.sibfungold.info:8080/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/52295
 
- #EXTINF:-1 tvg-logo="https://dik.si/RtIeb" group-title="WOLD SPORTS"Setanta Sports 1 HD 🇷🇺
+ #EXTINF:-1 tvg-logo="https://dik.si/RtIeb" group-title="WOLD SPORTS",Setanta Sports 1 HD 🇷🇺
  https://livetv.mylifeisgood.ml/channels/setantahd
- #EXTINF:-1 tvg-logo="https://dik.si/RtIeb" group-title="WOLD SPORTS"Setanta Sports 2 HD 🇷🇺
+ #EXTINF:-1 tvg-logo="https://dik.si/RtIeb" group-title="WOLD SPORTS",Setanta Sports 2 HD 🇷🇺
  https://livetv.mylifeisgood.ml/channels/setantaplus
 
  #EXTINF:-1 tvg-logo="https://dik.si/KrI2m" group-title="WOLD SPORTS",SKY SPORTS FOOTBALL
