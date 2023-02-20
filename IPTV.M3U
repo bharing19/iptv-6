@@ -76,6 +76,11 @@
  #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/playlist-iptv/iptv/main/logo/SSS-2.png" group-title="WOLD SPORTS" ,STAR SELECT 2
  http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/537
 
+ #EXTINF:-1 tvg-id="1Sports.in" tvg-name="IN: Star Sports Select 1" tvg-logo="https://raw.githubusercontent.com/playlist-iptv/iptv/main/logo/SSS-1.png" group-title="WOLD SPORTS",IN: Star Sports Select 1
+ http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/541
+ #EXTINF:-1 tvg-id="1Sports.in" tvg-name="IN: Star Sports Select 2" tvg-logo="https://raw.githubusercontent.com/playlist-iptv/iptv/main/logo/SSS-2.png" group-title="WOLD SPORTS",IN: Star Sports Select 2
+ http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/537
+
  #EXTINF:-1 tvg-logo="" group-title="WOLD SPORTS" ,X SPORT 🇷🇺
  http://iptv.prosto.tv:7000/ch109/video.m3u8
 
