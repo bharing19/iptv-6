@@ -195,13 +195,11 @@
  #EXTINF:-1 group-title="WOLD SPORTS", Arena Sport 4 HD 🇧🇦
  http://94.250.2.6:7374/play/a012/index.m3u8
 
- #EXTINF:-1 tvg-logo="http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" tvg-chno="466433" group-title="WOLD SPORTS",Sony sports ten 1 SD-HD
+ #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/playlist-iptv/iptv/main/logo/S-TEN-1.png" tvg-chno="466433" group-title="WOLD SPORTS",Sony sports ten 1 SD-HD
  https://dai.google.com/ssai/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
- #EXTINF:-1 tvg-chno="465344" group-title="WOLD SPORTS",Sony sports ten 2 SD-HD
+ #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/playlist-iptv/iptv/main/logo/S-TEN-2.png" tvg-chno="465344" group-title="WOLD SPORTS",Sony sports ten 2 SD-HD
  https://dai.google.com/ssai/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
- #EXTINF:-1 tvg-logo="http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" tvg-chno="58544" group-title="WOLD SPORTS",Sony sports ten 3 SD-HD
- https://dai.google.com/ssai/event/ltsCG7TBSCSD-HDmyq0rQtvSA/master.m3u8
- #EXTINF:-1 tvg-logo="http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" tvg-chno="58544" group-title="WOLD SPORTS",Sony sports ten 3 SD-HD
+ #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/playlist-iptv/iptv/main/logo/S-TEN-3.png" tvg-chno="58544" group-title="WOLD SPORTS",Sony sports ten 3 SD-HD
  https://dai.google.com/ssai/event/ltsCG7TBSCSD-HDmyq0rQtvSA/master.m3u8
 
  ##############################################INDONESIA###################################################
