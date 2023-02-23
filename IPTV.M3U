@@ -195,6 +195,15 @@
  #EXTINF:-1 group-title="WOLD SPORTS", Arena Sport 4 HD 🇧🇦
  http://94.250.2.6:7374/play/a012/index.m3u8
 
+ #EXTINF:-1 tvg-logo="http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" tvg-chno="466433" group-title="WOLD SPORTS",Sony sports ten 1 SD-HD
+ https://dai.google.com/ssai/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+ #EXTINF:-1 tvg-chno="465344" group-title="WOLD SPORTS",Sony sports ten 2 SD-HD
+ https://dai.google.com/ssai/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+ #EXTINF:-1 tvg-logo="http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" tvg-chno="58544" group-title="WOLD SPORTS",Sony sports ten 3 SD-HD
+ https://dai.google.com/ssai/event/ltsCG7TBSCSD-HDmyq0rQtvSA/master.m3u8
+ #EXTINF:-1 tvg-logo="http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" tvg-chno="58544" group-title="WOLD SPORTS",Sony sports ten 3 SD-HD
+ https://dai.google.com/ssai/event/ltsCG7TBSCSD-HDmyq0rQtvSA/master.m3u8
+
  ##############################################INDONESIA###################################################
  #EXTINF:-1 tvg-id="" tvg-name="ID: RCTI" tvg-logo="https://www.transtv.co.id/livetv/anytv/RCTI_live_streaming_tv.jpg" group-title="INDONESIA",ID: RCTI
  http://xtv.ooo:8080/85968596/85968596/228293
@@ -355,9 +364,6 @@
 ##############################################DOCUMENTARY###################################################
  #EXTINF:-1 tvg-id="NationalGeographicWildUK.uk" tvg-name="UK: Nat Geo Wild ᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_wild_us.png" group-title="DOCUMENTARY",UK: Nat Geo Wild ᴴᴰ
  http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/91
-
- #EXTINF:-1 tvg-id="NationalGeographicUK.uk" tvg-name="UK: National Geographic ᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="DOCUMENTARY",UK: National Geographic ᴴᴰ
- http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/90
 
  #EXTINF:-1 tvg-chno="468444" tvg-logo="https://raw.githubusercontent.com/playlist-iptv/iptv/main/logo/Discovery.png" group-title="DOCUMENTARY",Discovery HD
  https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-samsungin/c8ad4e83-47b2-4c95-9340-489a9cce1c2d/2.m3u8
