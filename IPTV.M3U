@@ -199,6 +199,27 @@
  #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/playlist-iptv/iptv/main/logo/S-TEN-3.png" tvg-chno="58544" group-title="WOLD SPORTS",Sony sports ten 3 SD-HD
  https://dai.google.com/ssai/event/ltsCG7TBSCSD-HDmyq0rQtvSA/master.m3u8
 
+ #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/playlist-iptv/iptv/main/logo/S-TEN-1.png" group-title="WOLD SPORTS",Sony TEN 1
+ https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
+ #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/playlist-iptv/iptv/main/logo/S-TEN-2.png" group-title="WOLD SPORTS",Sony TEN 2
+ https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
+ #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/playlist-iptv/iptv/main/logo/S-TEN-3.png" group-title="WOLD SPORTS",Sony TEN 3
+ https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
+ #EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png" group-title="WOLD SPORTS",Sony TEN 4
+ https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
+ #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/playlist-iptv/iptv/main/logo/S-TEN-5.png" group-title="WOLD SPORTS",Sony TEN 5
+ https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
+ #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/playlist-iptv/iptv/main/logo/S-TEN-1.png" group-title="WOLD SPORTS",Sony TEN 1 HD
+ https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+ #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/playlist-iptv/iptv/main/logo/S-TEN-2.png" group-title="WOLD SPORTS",Sony  TEN 2 HD
+ https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+ #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/playlist-iptv/iptv/main/logo/S-TEN-3.png" group-title="WOLD SPORTS",Sony TEN 3 HD
+ https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
+ #EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png" group-title="WOLD SPORTS",Sony TEN 4 HD
+ https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
+ #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/playlist-iptv/iptv/main/logo/S-TEN-5.png" group-title="WOLD SPORTS",Sony TEN 5 HD
+ https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
+
  ##############################################INDONESIA###################################################
  #EXTINF:-1 tvg-id="" tvg-name="ID: RCTI" tvg-logo="https://www.transtv.co.id/livetv/anytv/RCTI_live_streaming_tv.jpg" group-title="INDONESIA",ID: RCTI
  http://xtv.ooo:8080/85968596/85968596/228293
